@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.png" alt="logo" width="120" height="120"/></p>
+<p align="center"><img src="logo.jpg" alt="logo" width="120" height="120"/></p>
 
 ## IWN Wordlists
 
