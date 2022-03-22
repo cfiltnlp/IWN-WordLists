@@ -1,0 +1,71 @@
+actually: tseQn tseQ-tseQn tseQmCki aseQmCki
+ahead: mmAQ_Tzn Kw_AIgi_mmAQd
+all_of_a_sudden: KzhOdn ITA-TAjdn
+all_over: mAIkY_mrimCt
+along: mAQloMd mAQd
+at_once: Tun Tun-yAQn Tun_yAQn KoQlY_Tun
+before: mmAQ_Tzn Kw_AIgi_mmAQd
+blithely: nuQqAIbg_loInn hrAU-hrAUn
+clear: seQn myeC_seQn tseQn tseQ-tseQn
+clearly: seQn myeC_seQn tseQn tseQ-tseQn
+coincidentally: KzhOdn
+coincidently: KzhOdn
+collectively: amt_aoIn puLlF_aoIn kAQluF_aoIn puLlFn
+conjointly: amt_aoIn puLlF_aoIn kAQluF_aoIn puLlFn
+consistently: maoQ_mriL_nAIn niyM_cuMn maoQ_tAn PibM_cAn pTAF_nAIn
+directly: Tun Tun-yAQn Tun_yAQn KoQlY_Tun
+elsewhere: atoFp_mPM_am
+everyplace: mAIkY_mrimCt
+everywhere: mAIkY_mrimCt
+firm: aYn_acexp_TAjbg_loInn
+firmly: aYn_acexp_TAjbg_loInn
+first: IhAN-hANn
+for_the_first_time: IhAN-hANn
+forthwith: Tun Tun-yAQn Tun_yAQn KoQlY_Tun
+gayly: nuQqAIbg_loInn hrAU-hrAUn
+gracefully: noLluCn hOn_loNcx_Kzn lYbAC_mcA_tAn
+habitually: mhOsAn hYnbi_aoIn
+happily: nuQqAIbg_loInn hrAU-hrAUn
+hard: UciN_nAciNn yAMn_wAn yAMn_lun
+here: mPM_asid mPM_sid asid msid sid
+immediately: Tun Tun-yAQn Tun_yAQn KoQlY_Tun
+in_front: mmAQ_Tzn Kw_AIgi_mmAQd
+in_real_time: Tun Tun-yAQn Tun_yAQn KoQlY_Tun
+independently: mniQ-mKA_tMn mniQ-mKA_tOn mniQ_tMn Kusi-rAsi_tOn
+instantly: Tun Tun-yAQn Tun_yAQn KoQlY_Tun
+jealously: yeQTibg_loInn mihObg_loInn
+jointly: amt_aoIn puLlF_aoIn kAQluF_aoIn puLlFn
+jubilantly: nuQqAIbg_loInn hrAU-hrAUn
+kindly: cANbidun nuQsibidun TOjANbidun
+like_a_shot: Tun Tun-yAQn Tun_yAQn KoQlY_Tun
+little: KjiCtz Kr-KjiC Kr
+merrily: nuQqAIbg_loInn hrAU-hrAUn
+mirthfully: nuQqAIbg_loInn hrAU-hrAUn
+mistily: ciQnn niQjiQ-mAQjiQnn
+nearby: mnAC myA
+now: Tun Tun-yAQn Tun_yAQn KoQlY_Tun
+of_a_sudden: KzhOdn ITA-TAjdn
+on: mAQloMd mAQd
+openly: miyAM-mmAQd IPoQ-poQn
+proudly: nApLg_loInn cAUToCn
+put_together: amt_aoIn puLlF_aoIn kAQluF_aoIn puLlFn
+right_away: Tun Tun-yAQn Tun_yAQn KoQlY_Tun
+rough: minuQsi_yAUdn tMTin cANbi-hYtn nuQsi-hYtn TOjAL-hYtn
+roughly: minuQsi_yAUdn tMTin cANbi-hYtn nuQsi-hYtn TOjAL-hYtn
+ruggedly: lYbAC_mcA_tAdn Usixtn lujdn hOn-loNcx_Kzdn cAUKxtn
+steadfastly: aYn_acexp_TAjbg_loInn
+straight_off: Tun Tun-yAQn Tun_yAQn KoQlY_Tun
+straightaway: Tun Tun-yAQn Tun_yAQn KoQlY_Tun
+suddenly: KzhOdn ITA-TAjdn
+systematically: maoQ_mriL_nAIn niyM_cuMn maoQ_tAn PibM_cAn pTAF_nAIn
+tactically: hY_siQn ceCsiNn
+together: amt_aoIn puLlF_aoIn kAQluF_aoIn puLlFn
+unhappily: hYndn hYniQdn yAniQdn pAMjdn hYnd-hYndn hYniQd-hYniQdn yAniQd-yAniQdn pAMd-pAMdn hYnd_hYndn hYniQd_hYniQdn yAniQd_yAniQdn pAMd_pAMdn
+unwaveringly: aYn_acexp_TAjbg_loInn
+vaguely: ciQnn niQjiQ-mAQjiQnn
+volitionally: msAn_pAMjn msAn_yAniQn msAn_tOniQn
+well: niQTin yAMn_Pjn mmux_tAn czKoNn
+willingly: msAn_pAMjn msAn_yAniQn msAn_tOniQn
+with_happiness: nuQqAIbg_loInn hrAU-hrAUn
+with_pride: nApLg_loInn cAUToCn
+yet: hOjiC_pAUb

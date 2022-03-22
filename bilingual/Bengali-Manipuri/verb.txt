@@ -1,0 +1,92 @@
+অংশগ্রহণ_করা: Punb leFlb
+অদৃঢ়: hoQb hNdoCp leQb
+আঁটা: sMjiNb seMjiNb
+আবৃত: KAjiNb sMbL_KAb
+আরম্ভ_হওয়া: hOb
+উচ্ছলানো: niCToCp
+কাটা: mkC_kCp
+খাওয়া: TCp PANb ciQb TCp PANb ciQb
+খোদাই_করা: kCp
+গান_করা: IsY_sCp
+গান_গাওয়া: IsY_sCp
+গেলা_করা: TCp PANb ciQb
+গ্রাস_করা: TCp PANb ciQb
+ঘাড়ে_চাপানো: ToQgxp
+চলকানো: niCToCp
+চাঁচা: mku_KoCp
+চালানো: Punb leFlb
+চালু_থাকা: Punb leFlb
+চুমা_দেওয়া: cuFp
+চুমু_খাওয়া: cuFp
+চুম্বন_করা: cuFp
+ছলকানো: niCToCp
+ছাড়ানো: mku_KoCp
+ছাপ_মারা: sApA_nMb
+ছাপা: nMb
+ছাপানো: nMb nMb
+ছুঁয়ানো: soChNb
+ছোলা: mku_KoCp
+জড়ানো: KAjiNb sMbL_KAb
+জোরে_নাড়া_দেওয়া: noMhNb leQhNb
+জোড়া: pANb nFsiNb sMjiNb seMjiNb
+ঝলসানো: mix_TCp
+ঝাঁকানো: noMhNb leQhNb
+ঝাঁকুনি_দেওয়া: noMhNb leQhNb
+টলয়মান: hoQb hNdoCp leQb
+টাঁক_দেওয়া: pANb nFsiNb
+টাঁকা: pANb nFsiNb
+টুকরো_করা: mkC_kCp
+ঠেকানো: soChNb
+ঠেঙানো: kNb yYb sANTb Pub
+ঢলঢল_করা: noMb hiCp cextb
+তাপ্পি_মারা: pANb nFsiNb
+তালি_দেওয়া: pANb nFsiNb
+থামা: leFp TiQb KAMb
+দূরে_ঠেলে_দেওয়া: lAFToCp
+দেওয়া: ToQgxp
+ধাঁধা_লাগা: mix_TCp
+ধাঁধানো: mix_TCp
+নড়া: noMb hiCp cextb
+নড়ানো: leQhNb
+নাড়ানো: leQhNb
+নিশ্চই_করা: hOb
+নিয়োগ_করা: Punb leFlb
+পট্টি_দেওয়া: pANb nFsiNb
+পরিচালনা_করা: Punb leFlb
+পরিবেষ্টন_করা: KAjiNb sMbL_KAb
+পান_করা: TCp PANb ciQb
+পেটা: kNb yYb sANTb Pub
+ফরফর_করা: Pdr_x-Pdr_x_lAUb
+বিজড়িত_থাকা: Punb leFlb
+বিরাজমান: lYteQb PjhNb mguN_heNgxhNb
+বিরাজিত: lYteQb PjhNb mguN_heNgxhNb
+বেড়: KAjiNb sMbL_KAb
+বেষ্ট: KAjiNb sMbL_KAb
+ভাঙ্গা: mkC_kCp
+মারা: kNb yYb sANTb Pub
+মুদ্রণ_করা: nMb sApA_nMb
+মোহর_লাগানো: sApA_nMb
+যুক্ত_করা: sMjiNb seMjiNb
+রাজিত: lYteQb PjhNb mguN_heNgxhNb
+লাগানো: pANb nFsiNb sMjiNb seMjiNb
+লেগে_পড়া: hOb
+শপথ_বা_চুক্তি_দ্বারা_আবদ্ধ_হওয়া: Punb leFlb
+শুখানো: kzhNb POb
+শুষ্ক_করা: kzhNb POb
+শোভমান: lYteQb PjhNb mguN_heNgxhNb
+শোভাদানকারী: lYteQb PjhNb mguN_heNgxhNb
+শোভাদায়ক: lYteQb PjhNb mguN_heNgxhNb
+শোভাযুক্ত_হওয়া: lYteQb PjhNb mguN_heNgxhNb
+শোভী: lYteQb PjhNb mguN_heNgxhNb
+সরানো: lAFToCp
+সরিয়ে_দেওয়া: lAFToCp
+সরিয়ে_নেওয়া: lAFToCp
+সাঁটা: sMjiNb seMjiNb
+সাটাঁনো: sMjiNb seMjiNb
+সীলমোহর_লাগানো: sApA_nMb
+সেবন_করা: TCp PANb ciQb
+স্পর্শ_করানো: soChNb
+হজম_করা: TCp PANb ciQb
+হাঁচা: hACTi_KNb
+হাঁচি_আসা: hACTi_KNb
+হাঁচি_দেওয়া: hACTi_KNb

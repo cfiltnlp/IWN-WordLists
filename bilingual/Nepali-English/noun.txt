@@ -1,0 +1,12 @@
+अनुताप: anything
+एक: something
+क्षोभ: anything
+खेद: anything
+ग्लानि: anything
+दक्खिन: life
+दक्षिण: life
+दुःख: anything
+दुख: anything
+मिश्र_धातु: object physical_object
+मिश्रधातु: object physical_object
+१: something

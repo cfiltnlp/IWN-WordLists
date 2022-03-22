@@ -1,0 +1,939 @@
+17: سَدَہ ۱۷
+40: ژَتجِہہ
+64: ژُہٲٹھ
+70: سَتَتھ
+74: ژُسَتَتھ
+84: ژُشیٖتھ
+94: ژُنَمَتھ
+BAbn_sAb: تَصَوُری _خَیٲلی
+BeriPAI_tOrb: تسدیق_کٔرِتھ
+Drm_lYtb: بےٚرحمظٲلِمبےٚ_آر
+I-wAxp: خوٗنہٕ_روٚژھ
+INdr_in_Kzb_qMb: قٲبلہِ_اِدراک
+INlend_: قومی اَنٛدروٗنی دٲخلی
+IPoQ-PoQb: عام یہِ_نہٕ_سِر_آسہِ
+IPoQ_PoQb: عام یہِ_نہٕ_سِر_آسہِ
+IceL_leFtr_ib: ژلوُن _وَسوُن
+IceN_leFtr_ib: ژلوُن _وَسوُن
+IkAI_KuMnKr_b: عِزَت_یافتہٕ _خٕطاب_یافتہٕ
+ImuQ-mnuQgi_aoIdb: غٲرگَریلو
+ImuQ_mnuQgi_aoIb: ذٲتی پَنُن
+InAC_KuNb: أمیٖررۄپیہِ_وولسَرمایہِ_دار
+InO-nOb: عٔجیٖب غٲر_مٔعموٗلی
+IrAx-TOnib: معزز
+IrAx_TOnib: معزز
+IrAxp: معزز
+IrAxp_yArb: معزز
+IsAgi_aoIb: قومی
+IsiQ_amsuQ_kzPAL_animCt_lYb_qMb: زٔمیٖنَس_تہٕ_آبَس_منٛز_روزَن_وول
+ItiQ-tiQn_TAjgNb: جَلٕد_پَژھ_کَرَن_وول آسٲنی_سان_پَژھ_کَرَن_وول
+Iz-tFp: صَبریصٲبِرصَبٕر_کَرَن_وول پُر_سٕکوٗن
+IzThNb_qMb: پُر_سَکوٗن
+KACciNdb_aoIb: اَنرٕزٔروِڑ غٲر_مَحفوٗظ_شُدہ
+KAIboC: نیٚصف _اوٚڑ پَنٛژَہ_پٔرسَنٛٹ _پَنٛژَہ_فیٖسَد
+KAjiLlb: گٔنٛڈِتھ
+KAjnA_yAUb: ٹیکسہٕ_دار
+KLlib: پُر_اُمیٖد_ پُر_وۄمید
+KLludb: تَمہ_روٚس تَمہ_بَغٲر
+KLludb_maoQd: غیر_مُتوَقع
+KNndr_ib: مَشوَر_بَغٲر
+KNniQqAI_aoIdb: فضوٗل
+KiNgxp_yAb: قٲیِم_کَرنَس_لایَق
+KoIrig_loInn_poClCp: بَچہٕ_دِنہٕ_وٲلۍ پیٛاوَل
+KoIsAUnrb: شَرارتہٕ_ہوٚت
+KoMjiLlb: رٔژھرِتھ
+KoMleN_tuMKuN_huLlib: شوٚنٛگمُت
+KoN_nusib: کھۄلکی
+KoNdA_Pjdb: ٹیٚچھہِ_زَبانہِ_وول _ترٛۄشہِ_زَبانہِ_وول
+KoQPM_hoQdb: مُستَحکَم_ _مَضبوٗط
+KoQbANd_lYb: بٔٹھِس_پٮ۪ٹھ_روزَن_وٲلۍ
+KoQdArib: آمُت
+KuNnAI: زٲژ
+KudoQTib_nzlb: زَخمی
+KulAI_yAUb: ۂتھِیار_بَنٛد
+KurOceLlb: رُکیمٕژ_کٲم
+KuruMb: معزز
+Kux_loIdb: ناتجرُبہٕ_کار _کوٚچ
+Kux_loIdr_ib: ناتجرُبہٕ_کار _کوٚچ
+KuxlAI_pAIb: ۂتھِیار_بَنٛد
+KuxloIb_wAxlb: ناتجرُبہٕ_کار _کوٚچ
+KuxloIbgi_hYsiQlb: تجرُبہٕ_کار _مٲہِر
+KuxyeC_Idb: دَستہٕ_خت_روٚستُے
+KwAIdgi_piCp: زٲویوٗل
+Kzdb: بےٚزٲنۍ _اَنجان
+KzhNb_yAb: وَننَس_لایق
+PACtoCp: ووٚتُھےیَلَےٹھانٛڑٕ_روٚس
+PM_hNjiNb: بہال
+PeL_aoIb: فیل _ناکام
+PibM_cAdr_b: وٲران نوتوان _موزوٗر _اَڑلیوٚک
+PidMniQqAI_aoIb: اوٚصوٗل_پَرَست
+PireF_hoQgNdb: بوٚرُد_باراوٚب_گوٚب
+Pjbgi_mpuQ: فَنکارانہٕ
+PoQdoCp_yAb: وَننَس_لایق
+PuruF_mseL: زٲژ
+PuruF_mseN: زٲژ
+Pzdb: نامُمکِن
+Pzgni_KNb: پُراُمید
+Pzgni_niQb: پُراُمید
+TAFlb: دوٗر
+TAIn_mmAQqYd: پرٛون _برٛۄنٛہہ_کالیُک
+TAQdoClurb: دُوٗنٛژھرٲوۍ_مٕتۍ
+TAdb: توٚن
+TAdoCkd_aoIb: ترٛاونَس_لایَق_ مٔشراونَس_لایَق
+TAdoCkdb: ترٛاونَس_لایَق_ مٔشراونَس_لایَق
+TAgxniQqAIgi: تٲریٖفَن_لایَق
+TAgxniqAI_aoIb: وٲفِر
+TAgxp_yAb: وٲفِر
+TAjb_yAb: بروسہٕ_منٛ _ایٖماندار
+TAjb_yAdb: نہ_بِہِنۍ_لایق
+TAjdb: نہ_بِہِنۍ_لایق
+TAjdb_maoQd: غیر_مُتوَقع
+TAjniQqAI_aoIb: بروسہٕ_منٛ _ایٖماندار
+TAjniQqAI_aoIdb: غد_دار _بےٚ_وَفا
+TAjniqAI_aoIb: بروسہٕ_منٛ _ایٖماندار
+TAwAIpANdb: زُوٕ_روٚژھ
+TOaoIdb: نِظر_اَنٛداز
+TObu: کَرتا_دَرتا
+TOjAL_hYtb: بےٚرحمظٲلِمبےٚ_آر
+TOjAN_hYtb_minuQsi_lYtb: بےٚرحمظٲلِمبےٚ_آر
+TOnA_Pb: دِل_ہیر _بہادُر
+TOsAdb: لاپَرواہ
+TOwAsAdb: لاپَرواہ
+TbC_lYToCp: کامہِ_ژوٗر
+TbCtgi_lOToClb: برخاست
+TiNgxlCp: وۄپدیومُت _کھوٚتمُت
+TiQjiLlb_qMKY: گٔنٛڈِتھ
+Tigxlurb: چُکوومُت _نَکھہٕ_وولمُت
+TmoI_kNb: بےٚرحمظٲلِمبےٚ_آر
+TmoI_pANdb: بےٚرحمظٲلِمبےٚ_آر
+ToCKidr_ib: بینظیر
+Toxn-meQn_qAQdb: ٹیٚچھہِ_زَبانہِ_وول _ترٛۄشہِ_زَبانہِ_وول
+TuFtb: نوٚن
+TuMhxlb: پَریشٲنی_کُن_پَریشٲنی_دار
+TuMhxp: پَریشٲنی_کُن_پَریشٲنی_دار
+TugAIb_qMb: غٲر_محفوٗظ
+TugAIb_qMdb: مَحفوٗظ_ بےٚ_خَطرٕ_ مَضبوٗط_ مُستَحکَم_ دوٚر
+Tun_lOsiNb_qMdb: کَمزور_ _ناتوان
+TwAI_pANdb: زُوٕ_روٚستُے _بےجان
+TwAI_yAUdr_b: موٗدمُتمۄردٕمرحوٗم
+U-wA_hOdb: کُلۍ_کَٹٮ۪و_روٚستُے
+Umzd_lYb: جنٛگلی
+UpAI_lYjdb: ؤسیٖلہٕ_روٚژھ
+UpAI_lYtb: لاچار بےبَس
+UpAI_lYtr_b: بےٚسہارٕ _بےٚکَس
+Ux-pAx_tOb_: اَپٕزۍیور
+_migi_yAIPnb_tOb: فٲیدٕ_منٛد _نَفع_بَخش
+aAINgi: قونوٗنی
+aArT_ceNb: پیچیٖدٕمُشکِلسَخ
+aIzb: سَرٕد_ _تُرُن_ ہُنٛدُر
+aKAQ_kNb: صَبریصٲبِرصَبٕر_کَرَن_وول
+aP-Pxt_KNTb_qMdb: ناسَمَجھ
+aPAU_sAb: غٲرَت_منٛد
+aPAUb: عظیٖماَصٕلجان
+aPb: رُت _اَصٕل_ جان اِخلٲقی
+aPoQb: عام یہِ_نہٕ_سِر_آسہِ
+aPuNb: بنٛد
+aTAFp: دوٗر
+aTOb: تیز
+aTeNb: _وۄگُن
+aTiQb_lYb: ٹھاکھ _مَنَہہ
+aTiQb_lYtb: پابَنٛدی_بَغٲر_ _حَدٕ_بِغٲر
+aToIb: عظیٖماَصٕلجان
+aYgi: میونپَنُن
+aaoIb_qAQb: پٔزۍزیورایمان_دار
+aaoIb_qAQbi: پٔززیور
+acAIb: وٲران
+acAUrM_kAb: غٲرَت_منٛد
+acAUrMkAdb: نرٕم
+acOb: عظیٖماَصٕلجان
+aceNb: ژلوُن _وَسوُن
+acexp: قٲیِماَٹَل _بَرقَرار
+acexp_TAjb_TMb: اعتِقادپَژھیقیٖن
+acuMb_cxp: دیانَتدار_ عٲدِل
+acuMb_qAQb: پٔزۍزیورایمان_دار
+acuMb_qAQbi: پٔززیور
+acuMb_tOb: دیانَتدار_ عٲدِل
+adoMgi: چون
+adw_Yt_lAIniQgi: وحدِیتِ_جوہَر
+adw_Yt_lAIniQgi_aoIb: وحدِیتِ_جوہَر
+aeCjiky_utib: ایٚکزِ_کیوٗٹِو
+aek_spiriyens__lYrb: تجرُبہٕ_کار _مٲہِر
+ahANbgi: اِبتِدٲیی _شروعٲتی
+ahANbgi_aoIb: اِبتِدٲیی _شروعٲتی
+ahAUb_cAniQb: یٔڈَل
+ahAUbd_cAgNb: یٔڈَل
+ahL_aoIbi: بٕڑٕ _بُزَرٕگ
+ahL_aoIrb: بُزَرٕگ _بٕڑٕ _مُعزَز
+ahOb_msiQ: اَکھ _اَکوے _کُنُے
+ahoQb: بَدلٕے _بَناوٹی _نَقلی
+ahoQb_nAIb: بَدلوُن
+ahob: کھۄکُھر
+akAIb_aoIb: مُزِر نۄقصان_دِہ
+akNb: اِشتعٲلی بےٚ_لَگام زورٕدار
+akux_atoQ_nAIb: ہیوٚر_بۄن
+am: اَکھ _اَکوے _کُنُے
+am-ani: اَکھ_زٕ
+amAQb: ژھیوٚٹ
+amKC_nxtn: واریاہ _بِسِیار
+amdz_nxtb: واریاہ _بِسِیار
+amoxp: ناصاف _خَراب _گَنٛدٕ مٲلہٕموٚکُرگَنٛدٕناصافناپاکھ
+amt_aoIb: اِتفاق_پَسَنٛد اعتِدال_پَسَنٛد
+amuNb: پوٚپ
+amub: کرٛہُن کرٛہُن _سِیاہ
+amub_aoIb: کرٛہُن _سِیاہ
+anANb: ہموار_ __سوٚم_ _پِِشُل
+anOb: بییٚہِباقٕے
+aniMKAI: ڑاے
+aniQbn_TuMhxlb: خوٲہِش_مَنٛد
+ani_mKAI: ڑاے
+anoIb: ویوٚٹھہُنیومُت
+aoClb: مُطمٔیٖن
+aoFsneL_aoIb: اِختِیارٲتی
+aoIToCp_yAdb: نامُمکِن _نَہ_گَژھہٕ_وُن
+aoIToCtb: نامُمکِن _نَہ_گَژھہٕ_وُن
+aoIb_yAdb: نہ_بِہِنۍ_لایق
+aoId-pAdb: اَپُزغلط
+aoId_pAdb: اَپُزغلط
+aoIdb: اَپُزغلط
+aoIdb_qAQb_mi: اَپٕزۍیور
+aoIjb: مُستٔفید
+aoIjb_Tib: خۄدغرَض_ غَرَض_اوٚن مطلٔبی
+aoNn-tYnb: اولہٕ_دولہٕ_ ہوٚل_کوٚل
+aopojisNgi_aoIb: مُخٲلِف
+apAMb: مُطٲبِق _پَسَنٛد
+apAMb_am_KNgdb: اِختِیارٲتی
+apAMbn_TuMhxlb: خوٲہِش_مَنٛد
+apNb: رُکاوَٹ_دار_ _تھوٚر_دار
+apNb_lYb: ٹھاکھ _مَنَہہ
+apNb_lYtb: پابَنٛدی_بَغٲر_ _حَدٕ_بِغٲر
+apeNb_aoIb: مُطمٔیٖن
+apiCp: لۄکُٹ_مۄکُٹ _مۄکُٹ
+apzb: بیوقوٗفچوراَحمَکباورٕ
+aqCp: عٔجیٖب غٲر_مٔعموٗلی چَمَتکٲری_ _معجِزٲتی
+aqMb: قٲبِلہُنر_منٛدمٲہِِر
+aqOb_mi: پرٛوٚن
+arACp: آمُت
+arAFp: دوٗر
+arANb: اَپُزغلط نا_قٲبلہِ_تَصدیٖق
+arANb_TOaoQ: گۄناہ_گار
+arANb_TbC: غلط
+areMb: ژھیوٚٹ
+areMbd_pYsA_mAQhNb: فضوٗل_خرچ
+aroN-aTuF_aoIdb: نوٚن
+aroN-aTuF_yAUdb: رازٕ_بَغٲر
+aroN-aTuFn_TNb: رازدار پُر_اَثرار
+aroNb: سِر _کٔھٹِتھ راز
+aroNb_nxtb: نوٚن
+arob: پوٚپ
+aruMb: ویوٚٹھہُنیومُت
+aseQb_qAQb: پٔزۍزیورایمان_دار
+aseQb_qAQbi: پٔززیور
+asib: موٗدمُتمۄردٕمرحوٗم
+asoC-apN_nzlb: زَخمی
+asoCp: زَخمی
+asz-amANn_TLlb: سَر_سَبٕز
+asz-amANn_TNb: سَرسَبٕز
+asz_amANn_TNb: سَرسَبٕز
+atFp: کَمزور_ _ناتوان
+atoFp: بییٚہِباقٕے
+atoFpd_tAQjbi: محتاج
+atoFpg_toxn-tiNnniQdb: بۄكھہٕ_نَثُر
+atoFpgi: وۄپَر غیر
+atoFpgi_Pnb_tOb: فٲیدٕ_منٛد _نَفع_بَخش
+atoFpgi_Pxtnb_tOb: آزٲری
+atoFpgi_aoIb: وۄپَر غیر
+atoFpgi_kANnnb_tOb: فٲیدٕ_منٛد _نَفع_بَخش
+atoFpgi_mAQnb_tOb: آزٲری
+atoFpgi_segAd_lYbi: محتاج
+atoFpgi_yAIPnb_tOb: فٲیدٕ_منٛد _نَفع_بَخش
+awAQb: اَصٕل _تھوٚد
+awAx-apAd_sijiNnnb_aoIb: قٲبلہِ_خرچ
+ayAQb: لوٚتہلکہٕ
+ayAb_pidb: نامنٛظوٗر
+ayAb_pirb: منٛظوٗر_کوٚرمُت _اِجازَت_دیُتمُت
+bAINdiQ_tOrb: جِلدٕ_کٔرِتھ
+berA_lYb: کُھرۍلَد _خۄشکیٚتہِ_لَد
+buDi_lOsiQ_mAQb: بےٚہوش _بےٚ_حٮ۪ص
+cAIb: چھٔکرِتھ _پھٲلِتھ
+cAMmsub: ۂتیُم
+cAQ_aoNdb: میننہٕ_روٚستُے
+cAQdMniQqAI_lYtb: اَنمول
+cAQyeQ_tOdr_ib: نظراَنٛداز
+cAUKxTOrAQgi: تَرقی_پَسَنٛد
+cAUKxTOrAQgi_aoIb: تَرقی_پَسَنٛد
+cAUKxlClib: تَرقی_پَسَنٛد
+cAUKxlb: تَرقی_یافتہٕ
+cAUKxnbgi_TbC_tOrib_misC: تَرقی_کَرَن_وول
+cAUKxp: تٔمیزداراَصٕلجان
+cAUKxp_yAb: عیش_تہٕ_عشرَت_دِنہٕ_وول
+cAUKxp_yAdb: عیش_تہٕ_عشرَت_نہ_دِنہٕ_وول
+cAUToCp: غٲرَت_منٛد
+cAUToCtb: نرٕم
+cAUdM-sAQdMb: وۄتھوُن _ڑۭس
+cAb: کھور
+cAb_yAb: کھٮ۪نس_لایق
+cAgN-TCkNdb: نَفسہِ_نوزُک
+cAgN_TCkNb: یٔڑل _بَتہٕ_جِن
+cAgNdb: نَفسہِ_نوزُک
+cAndb: ناقٲبِل _نالایَق
+cF_mANnb: ہِشے _ہیوٗ _ہِوُے
+cF_yuQn_niQb: مُستَحکَم_ _مَضبوٗط
+cQjPM_lYtr_b: بےٚگَر
+ceCsiN_TOrAQ_lOKxp: خبردارہوشارچوکَس
+ceCsiNb: خبردارہوشارچوکَس
+ceCsiNdb: لاپَرواہ
+ceNdb: رُکِتھ _ٹٔھہرِتھ
+chi_nOrib: نا_بالینٛغ
+ciNnrib: شکاوَر
+ciQnniQqAI_aoIb: وۄمیدوار _آشہِ_ہوٚت
+ciQnniQqAI_lYtr_b: بےٚ_فِکِر
+ciQnniqAI_aoIb: وۄمیدوار _آشہِ_ہوٚت
+ciQnniqAI_lYtr_b: بےٚ_فِکِر
+clAIrib: پَکوُن
+coCTb_lYtr_b: تھکنہٕ_بَغٲر
+coCTrb: تھوٚکمُت
+coIqAQ_qAQb_: بَکوٲسۍ
+coQKxlCp: وۄپدیومُت _کھوٚتمُت
+cuMdb: اَپُزغلط بےٚ_بُنِیاد _غَلَط
+cuMdb_TOaoQ: گۄناہ_گار
+cuMlb: پوٚز _صٔحیح
+cuMle_tACp: تسدیق_کٔرِتھ
+cxlib_: موجوٗدٕ_وَقت اَزکال _موجوٗد_زَمانہٕ
+cxn-kAQloN_TMdb: بےٚ_وقت
+cxn-kAQloN_qACtb: بےٚ_وقت
+cxnb_yAb: پَکوُن _چَلوُن
+cxnbigi_wAQmd_lYb: غلط
+cxndr_b: فرسوٗدٕ _نالَگہار
+cyex_Koyexnb: کُھرۍلَد _خۄشکیٚتہِ_لَد
+cyexnb: کُھرۍلَد _خۄشکیٚتہِ_لَد
+cyexnrb: کُھرۍ_دار
+czlClib: آمُت
+czlCtr_ib: غٲر_رُکُن
+czqCtr_ib: غٲر_رُکُن
+dAU_yAb: خۄش_قسمت
+dAU_yAdb: یُس_نہٕ_پروٗژھ_آسِہ_ _پھیٚشِل _بَد
+gti_lYjdb: ؤسیٖلہٕ_روٚژھ
+gti_lYtb: لاچار بےبَس
+gti_lYtr_b: بےٚسہارٕ _بےٚکَس
+guN_ceNb: صِفَت_دار
+guN_puMnmCn_lYteQlb: ہَرفَن_مولا
+guN_puMnmCn_puLlb: ہَرفَن_مولا
+guN_puMnmCn_tiLlb: ہَرفَن_مولا
+gy_AN_mAQb: بےٚہوش _بےٚ_حٮ۪ص
+gy_AN_wAxp: بیوقوٗفچوراَحمَکباورٕ
+gy_AN_yAUdb: بیوقوٗفچوراَحمَکباورٕ
+gy_ANn_TLlb: عٔلمہِ_واجین
+hAIb_yAb: وَننَس_لایق
+hANn_ToCKidr_ib: بینظیر
+hANng_mANndb: بَدلٕے _بَناوٹی _نَقلی
+hAQdoCp: ووٚتُھےیَلَےٹھانٛڑٕ_روٚس
+hCTeQnrb: ژالَن_وول
+hCcAQ_kyAxn_Kzb_qMb: ناقٲبلہِ_اِدراک_ غٲر_مَحسوٗس
+hCkN_Purix_lixp: بَکتَر_بَنٛدٕ_دار
+hNdoClb: تَرجَمہٕ
+hNdoClb_aoIb: تَرجَمہٕ
+hOKr_b_mtMd: پرٛون _برٛۄنٛہہ_کالیُک
+hOKr_b_mtMgi: پرٛانہِ_وَقتُک_ _پَتھ_کالُک
+hOb: وۄپدیومُت _کھوٚتمُت
+hOgxtun_lYb: خَبَردار_ _باخَبَر وٲقِف_ آگاہ ہوشار _چوکَس
+hOjiC_aoIrib: موجوٗدٕ_وَقت اَزکال _موجوٗد_زَمانہٕ
+hOjiCki_aoIb: موجوٗدٕ_وَقت اَزکال _موجوٗد_زَمانہٕ
+hOjiCki_mtM: أزیُک _اَزکَلُک وٕنٛکٮ۪نُک
+hOrCpgi: اِبتِدٲیی _شروعٲتی
+hOrCpgi_aoIb: اِبتِدٲیی _شروعٲتی
+hY-siQdb: ناقٲبِل _نالایَق
+hY-siQdr_ib_: اَنٲڑۍ _ناقٲبِل
+hYPAxtr_ib: اَنٲڑۍ _ناقٲبِل
+hYToI-siQToIb_: مٲہِر _قٲبِل _پَکہٕ
+hYToI-siQToIdr_ib: اَنٲڑۍ _ناقٲبِل
+hYTo_IsiQToIb: مٲہِر _قٲبِل _پَکہٕ
+hY_-siQb: مٲہِر _قٲبِل _پَکہٕ مٲہِر _قٲبِل _پَکہٕ
+hY_siQb: مٲہِر _قٲبِل _پَکہٕ
+hYb: مٲہِر _قٲبِل _پَکہٕ
+hYb_wAxlib: اَنٲڑۍ _ناقٲبِل
+hYjiQ_PArb: پوٚپ
+hYnjb: ٹٲٹھعزیز
+heCpd_qAIrib: تازٕ
+heNgxlClib: تَرقی_پَسَنٛد
+hnub: بُزَرٕگ _بٕڑٕ _مُعزَز
+hnubi: بٕڑٕ _بُزَرٕگ
+hnumAlY_kArb: بُزَرٕگ _بٕڑٕ _مُعزَز
+hnumAlY_kArbi: بٕڑٕ _بُزَرٕگ
+hnurb: بُزَرٕگ _بٕڑٕ _مُعزَز
+hnurbi: بٕڑٕ _بُزَرٕگ
+hoQb_nAIb: بَدلوُن
+hoQdb: قٲیِماَٹَل _بَرقَرار
+hoQgNb: بَدلوُن
+hoxnb_kNb: کامہِ_کاج کوٗششہِ_وول
+hrAU-tyAMb_aoIb: پُر_لُطُف _پُر_سٔکوٗن
+huMPumri: ژُہٲٹھ
+huMPutrA: سَتَتھ
+huMPutrAmri: ژُسَتَتھ
+huMPutrAtuC: شُسَتَتھ
+hzgAMpAL: لیٚدُر زَرٕد زَرنَک
+hzgAMpAL_mcu: لیٚدُر زَرٕد زَرنَک
+jAx_toqANb: پَرذٲژ
+jhAjgi: جہٲزی جہازُک
+jhAjgi_aoIb: جہٲزی جہازُک
+jisug_mri_lYnb: عیسٲیی
+jisug_mri_lYnb_aoIb: عیسٲیی
+jugox_cAdb: بےٚ_صفت _بےٚ_ؤتیٖر _بےٚشور
+kA-heNn_liCp: کوٚنٛڑ کٔنٛجوٗس
+kANnb: مُفید فٲیدٕمَنٛد مُستٔفید فٲیدٕ_مَنٛد
+kANnb_pib: تَرقی_پَسَنٛد
+kAQgx_TihNdb: ٹٮ۪کسہٕ_بَغٲر
+kAQgx_koCpib: ٹٮ۪کسہٕ_بَغٲر
+kAQluFki_aoIb: قومی
+kA_heNn_liCp: کَم _رَژھ
+kAb: حٲضِر _موجوٗد
+kArCtb: غٲر_حٲضِر _غٲر_موجوٗد _نابوٗد
+kCniQqAI_aoIb: ژَٹنَس_لایَق
+kOb: نامدارنامہٕ_وَر
+kOsiLlb: خطاب_کَرَن_وول
+kbc_UFlib: بَکتَر_بَنٛدٕ_دار
+keTrb: پٲرٲوِتھ _سَجٲوِتھ
+kiNTdn: محفوٗظ سالِم نوٚو تازٕ بےٚ_نۄقُص
+kiNTrb: کھستہٕ_ پیوٚمُت
+knA_lYjdr_b: ییٚتیٖم _سٔگیٖر _بےٚکَس
+koC_lYb_: عقل_منٛد
+koCki: دٮ۪ماغُک _کَلُک
+koCki_aoIb: دٮ۪ماغُک _کَلُک
+koCpib_yAb: معٲفی_لایق
+koIcx_cxp: پھیروُن نَژوُن
+koIn_cxp: پھیروُن نَژوُن
+kuIn_hiQdb: کَم_وٲنٛس
+kuNtruC: شَتٕوُہ
+kuQdb: توٚن
+kucu_qOb: پرٛوٚن
+kusi-rAsi_tOb: مجاز _مۄختار
+kusi_rAsi_tOb: مجاز _مۄختار
+lAC-Ib: آمُت
+lAClib: آمُت حٲضِر
+lACp: حٲضِر _موجوٗد
+lACtb: غٲر_حٲضِر _غٲر_موجوٗد _نابوٗد
+lAIaoIKr_b: موٗدمُتمۄردٕمرحوٗم
+lAIbC_Pb: خۄش_قسمت
+lAIbCn_tMbni_KNb: قٕسمَت_مانَن_وول
+lAIbCt_TAjb: قٕسمَت_مانَن_وول
+lAIgi_aoIb: بیاکھ_دُنِیاہ
+lAIrMleNd_tiNKr_b: موٗدمُتمۄردٕمرحوٗم
+lAIriC_hHYtb: اَنپَڑ
+lAIriC_myeC_cxtb: اَنپَڑ
+lANb_qMb: غٲر_محفوٗظ
+lANb_qMdb: مَحفوٗظ_ بےٚ_خَطرٕ_ مَضبوٗط_ مُستَحکَم_ دوٚر
+lAxpd_mtiC_cArb: معزز
+lML_toLlb: احسان_منٛد _شُکُرگُزار
+lMcx-sAjx_Pjb: أصوٗل_پَرَستہٕ _أصوٗل_پَسَنٛد
+lMcx_Pjdb: بےٚطور
+lMjA_aoIrb: ییٚتیٖم _سٔگیٖر _بےٚکَس
+lMjiQb: تَرقی_پَسَنٛد
+lNTuM_lYb: أمیٖررۄپیہِ_وولسَرمایہِ_دار
+lNnAIgi_aoIb: ذٲتی _پَنُن
+lOKxPM_ToCp: ضَبٕطٕ_دار
+lOTuF_lOkoI_lYtb: رازٕ_بَغٲر
+lOnM: اَپُزغلط
+lOsiLlurb: بِسِیار _وارِیاہ _گُتُل حدٕ_روٚس _بے_شُمار _آنٛتہٕ_روٚس
+lOsiQ_TeNb: بیوقوٗفچوراَحمَکباورٕ
+lOsiQ_cAUb: عقل_منٛد
+lOsiQ_wAxp: بیوقوٗفچوراَحمَکباورٕ
+lOsiQn_TLlb: عٔلمہِ_واجین
+lYKA_tAbroMd_cQsiNb: پَتھ وَکار
+lYKA_tAniQqAI: پَستی_وول
+lYKidr_b: موٗدمُتمۄردٕمرحوٗم
+lY_sAxp: پوشہٕ_دار
+lY_sAxtb: پوشہٕ_روٚژھ
+lYbAC_mnuQgi_aoIb: قومی اَنٛدروٗنی دٲخلی
+lYciN-noQPAI_TAQdb: صاف
+lYciN_TAQdb: صاف
+lYroQ_sAxp: چھِٹَل
+lYroQ_yeCp: چھِٹَل
+lYsAx_tMb: پوشہٕ_دار
+lYtAb: بےٚفِکِر _فِکرِروٚس
+lYteM_mANndb: ہیوٚر_بۄن
+lYteQlb: پٲرٲوِتھ _سَجٲوِتھ
+leFnKib: مُقرَر صحیح _ٹھیٖک
+leFtb: بَدلوُن
+leFtun_lYb: رُکِتھ
+leQdb: مُستَحکَم_ _مَضبوٗط رُکِتھ
+liQjeL_mANnb: اِتفاق_پَسَنٛد اعتِدال_پَسَنٛد
+liQjeL_mANndb: بیوٚن_بیوٚن _چھٔکرِتھ _اَلَگ_اَلَگ _جُدا_جُدا
+liQjeN_mANnb: اِتفاق_پَسَنٛد اعتِدال_پَسَنٛد
+liQjeN_mANndb: بیوٚن_بیوٚن _چھٔکرِتھ _اَلَگ_اَلَگ _جُدا_جُدا
+lmN_toLlb: احسان_منٛد _شُکُرگُزار
+loIKr_b: کٔرمٕژ _سَپٕزمٕژ
+loIb_nAIb: فٲنی
+loIdr_ib: اڑلیٚچ أڑٕے
+loInAIdr_b: واریاہ _کٲفی
+loIsiLlgdb: خَتَم_ _خَتَم_شُد
+loIsiNdr_ib: اڑلیٚچ أڑٕے
+luKAC: ژھیوٚٹ
+mAITib_pib: نافٲبلہِ_تَسخیٖر
+mAITidr_b: کامیاب _پاس
+mAITirb: فیل _ناکام
+mAI_pACtb: فیل _ناکام
+mAIpAClb: کامیاب _پاس
+mAIyoCt_lYbsiQgi_aoIb: مُخٲلِف
+mAMgi_aoIb: مامتٕر
+mANndb: پھِرِتھ_ _اُلٹہٕ
+mAQ-tACKr_b: تباہ _فان
+mAQ-tACniQqAI_aoIb: پَستی_وول
+mAQ-tACniQqAI_roMd_cQsiNb: پَتھ وَکار
+mAQhNdn_lYb: محفوٗظ سالِم نوٚو تازٕ بےٚ_نۄقُص
+mAQjOnn_leFlClb: قٕسمَتہٕ_مُطٲبِق
+mAQjiN_TAb: تَرقی_پَسَنٛد
+mAQniQqAI_aoIb: مُزِر نۄقصان_دِہ
+mAleMbu_KuduM_cNb_misC: دُنِیاہ_زینَن_وول
+mIaoxp: ظٲلِم _اِزَہ_کھور
+mKuM_KuMdb: ووٚتُھےیَلَےٹھانٛڑٕ_روٚس
+mKuM_pALlb: جِلدٕ_کٔرِتھ
+mPM_cAn_lYb: شیرۍ_مٕتۍ
+mPM_hNjiNb: بہال
+mPM_hoQdb: رُکِتھ
+mPM_hoQdoClurb: دُوٗنٛژھرٲوۍ_مٕتۍ
+mTNt_hoQjb: بَدلوُن
+mTNtgi_aoIb: ذٲتی _پَنُن
+mTz_mnAU_nAIn: لَگاتار_ _مُسَلسَل
+mY_ToCpmKY_sAUrb: واریاہ_شَرارتہٕ_وول_ _واریاہ_تیز
+mY_hObmKY_sAUrb: واریاہ_شَرارتہٕ_وول_ _واریاہ_تیز
+mY_hOn_sAUrb: واریاہ_شَرارتہٕ_وول_ _واریاہ_تیز
+maoQ_mriL_tAdr_b: وٲران
+mbuC_cAUb: یٔڑل _بَتہٕ_جِن
+mbuCn_sixtun_cxp: کٕھکھرِ_پَکَن_وول
+mbudDi-mrOsiQ_lYb: عقل_منٛد
+mciN_Tib_: اَپٕزۍیور
+mci_leQdb: رُکِتھ
+mdoMcAgi: ماستُر
+mguN_ceN: اَصٕل
+mguN_lYb: صِفَت_دار
+mhOsAg_mANndb: بَدلٕے _بَناوٹی _نَقلی
+mhOsAgi_KL_kAIb: مثنوٗعی
+mhOsAgi_aoIb: قدرٔتی خدٲیی
+mhYroIsiQn_lYb_yuMd_lYb: ہوسٹَلَس_منٛز_زوزَن_وول
+miToI_miheNb: عظیٖماَصٕلجان
+mi_cAb: آدَم_خور اِنسان_کھاو
+mi_ciCp: وٕجارٕ _غیر_آباد
+mi_tACp: وٕجارٕ _غیر_آباد
+mi_tAdb: وٕجارٕ _غیر_آباد
+mi_tiNnb_hYb: رَلوُن
+mi_tiNngNb: رَلوُن
+mi_tiNngNdb: بۄكھہٕ_نَثُر
+mi_toxn-tiNngNb: رَلوُن
+miaoIbgi: اِنسٲنِیتٕچ
+miaoIbgi_aoIb: اِنسٲنِیتٕچ
+miaox-minY_cxTb: جٲبِر ظٲلم
+miaox-minY_tOb: جٲبِر ظٲلم ظٲلِم _اِزَہ_کھور
+migi_Pnb_tOb: فٲیدٕ_منٛد _نَفع_بَخش
+migi_Pxtnb_tOb: آزٲری
+migi_aPb_tOb: فٲیدٕ_دِہت_نفر _سۄچھہِ_کُل
+migi_kANnnb_tOb: فٲیدٕ_منٛد _نَفع_بَخش
+migi_yAIPnb_tOb: فٲیدٕ_دِہت_نفر _سۄچھہِ_کُل
+migit_yeQb: ٹاس_پَٹٲسۍ
+mikO-mirAM_Pjb: رَلوُن
+mikuF-nAhuM_siQb: خبردارہوشارچوکَس
+mimANndr_b: نوتوان _موزوٗر _اَڑلیوٚک
+minM_sorib_: اَپٕزۍیور
+minMb: اَپُزغلط
+minMb_qAQb_: اَپٕزۍیور
+minO_aoIb: غٲر _اَنجان اَجنٔبی
+minuQsi_Kzdb: بےٚرحمظٲلِمبےٚ_آر
+minuQsi_yAUdb: جٲبِر ظٲلم بےٚرحمظٲلِمبےٚ_آر
+mirYbACki: غیر_مُلکی
+mitO_tMb: نَقلی
+mitoF_aoIb: غٲر _اَنجان اَجنٔبی
+mix_Ub_mi: گاشہٕ_دار
+mix_siQb: خبردارہوشارچوکَس
+mixn_Udb: نظر_نہٕ_یِنہٕ_وول
+mixyeQ_czbidb: نِظر_اَنٛداز
+miyAMgi_Pnb_aoIb: اِنسان_دوست بَشَر_دوست
+miyAMgi_kANnnb_aoIb: اِنسان_دوست بَشَر_دوست
+miyAMgi_yAIPnb_aoIb: اِنسان_دوست بَشَر_دوست
+miyAMn_sC_Kzb: عظیٖماَصٕلجان
+mmA-mpA_lYjdr_b: ییٚتیٖم _سٔگیٖر _بےٚکَس
+mmAQ_ITz-Tzlib: برٛوٚنٛہہ_پَکَن_وول
+mmAQqYd: پرٛون _برٛۄنٛہہ_کالیُک
+mmA_kAInKr_b: ماجہِ_یٔتیٖم یٔتیٖم
+mmA_lYtb: ماجہِ_یٔتیٖم یٔتیٖم
+mmA_mpA_lYjdr_b: ییٚتیٖم _سٔگیٖر _بےٚکَس
+mmAgi: مامتٕر
+mmiQ_cxp: عظیٖماَصٕلجان
+mniQ-mKA_tOb: مجاز _مۄختار
+mniQ_mKA_tOb: مجاز _مۄختار
+moQ-hAdb: صَبریصٲبِرصَبٕر_کَرَن_وول
+mpAL_lMgi: غیر_مُلکی
+mpANToQgi_aoIb: بَناؤٹی
+mpANTzb: نیٛبرِم
+mpAN_lMgi: غیر_مُلکی
+mpANgi: نیٛبرِم
+mpA_lYtb: مٲلۍ_یٔتیٖم یٔتیٖم
+mpuQ-mrY_PAdr_ib: نا_بالینٛغ
+mpuQ_PAdr_ib: اڑلیٚچ أڑٕے
+mqAL_lYb: تابن_وول چمکدار
+mrAIbC_Pb: خۄش_قسمت
+mrAL_lYb: گۄناہ_گارقصوٗروارجُرُم_وارخطہہ_وارمُجرِم
+mrAL_lYrb: گۄناہ_گار _قٕصوٗروار
+mrAN_lYb: گۄناہ_گارقصوٗروارجُرُم_وارخطہہ_وارمُجرِم
+mrA_cextb: ڈیرٕ_ڈیرٕ_پھیرَن_وول دَربٕدرۍ
+mrL_lYb: أمیٖررۄپیہِ_وولسَرمایہِ_دار
+mrM-cAdb: بےٚ_بُنِیاد _غَلَط
+mrM_aoIb: پَستی_وول
+mrMcAdb: مٔنعی_بَغٲر مٔنعی_روٚس
+mrMdMgi_aoIb: قومی
+mrN_lYb: أمیٖررۄپیہِ_وولسَرمایہِ_دار
+mrNnAIgi_aoIb: ذٲتی _پَنُن
+mrO_lYb: پیچیٖدٕمُشکِلسَخ
+mrY-mrAQ_tOb: ۂٹی _اَکڑی
+mrYbACki_aoIb: قومی
+mriPumri: ژُشیٖتھ
+mriPutrAmri: ژُنَمَتھ
+mriPutrAtruC: شُنَمَتھ
+mriPutruC: شُشیٖتھ
+mriQjeL_lYb: دِل_ہیر _بہادُر
+mri_lYnb: مُطَلِق عِبٲرٔتی عِبارِتُک سِیٲقی سَیاقُک
+mri_lYnn_czb: اِستعمال_کوٚرمُت
+mrisub: ژوٗرِیُٛم_
+mrisub_mPM: ژوٗرِیُٛم_
+mroL_seQdb: غٲر_واضح
+mroNdoM_lepcbi: خۄدمۄختار
+mruF_aoIb: رٔسوٗک_وول
+msA_cAUb: ویوٚٹھہُنیومُت
+msAbu_IkAI_KuMndb: بےٚغٲرت
+msAgi: ذٲتی _پَنُن
+msAgi_aoIb: ذٲتی _پَنُن پَنٕنۍ ذٲتی _پَنُن پَنُن
+msAgi_apAMbgi_tuQINn: آرام_مُطٲبِق
+msAgi_wAKLd_cF_yuQb: کَٹَر فِرسوٗدٕ_ دٔقیانوٗسی
+msAgi_yeQdb_migit_yeQb: ٹاس_پَٹٲسۍ
+msAgit_KNb: خۄدغرَض_ غَرَض_اوٚن مطلٔبی
+msAmCki_aoIb: ذٲتی _پَنُن
+msC_Kzdb: غٲر _اَنجان اَجنٔبی
+msC_mANnb: ہِشے _ہیوٗ _ہِوُے
+msiQKAgi_aoIb: تِلہٕ_پیٚتِکہِ_رَسُک
+msiQ_TAb_yAb: گٔنٛزرَنَس_لایق
+msiQ_Tib_yAb: گٔنٛزرَنَس_لایق
+msiQ_pAb_yAb: گٔنٛزرَنَس_لایق
+mtAQ_cAb: وَقتاًفَوَقتاً
+mtM_cAb: وَقتاًفَوَقتاً
+mtMbu_qACn_cxp: وَقتُک_پابَنٛد
+mtMg_cunb: وَقتاًفَوَقتاً
+mtMg_cundr_b: فرسوٗدٕ _نالَگہار
+mtNt_hYjb: پانے_پوٚرمُت_ پانے_ہیوٚچھمُت
+mteQ_pAQbiniQqAI_lYb: آسرٕ_وول سَہارٕ_وول
+mteQ_pAQbiniqAI_lYb: آسرٕ_وول سَہارٕ_وول
+mtiC_cAb: قٲبِلہُنر_منٛدمٲہِِر
+mtiC_cAdb: ناقٲبِل _نالایَق
+mtiC_lYb: تابن_وول چمکدار
+mtiC_mguN_lYb: عظیٖماَصٕلجان تابن_وول چمکدار
+mtoMt_hYjb: پانے_پوٚرمُت_ پانے_ہیوٚچھمُت
+mtoMt_tOjb_aoIdb: جَبری
+muLlb: پوٚپ
+mub: کرٛہُن _سِیاہ
+musiN_mub: کُرٛہُن_واتُل_ہیوٗ
+musuC_mub: کُرٛہُن_واتُل_ہیوٗ
+muxTxp_qMb: پُر_سَکوٗن
+myAI_aoIn_sAb: نیٖم_اِستِوایی
+myAMgi_aoIb: اَنرٕزٔروِڑ غٲر_مَحفوٗظ_شُدہ
+myAMn_Kzb_yAb: عام یہِ_نہٕ_سِر_آسہِ
+myAQ_kzb: أڑِجوٗ
+myA_TOdb: موٚنٛڑ
+myA_hOdr_ib: دَندٕ_بَغٲر
+myA_pANdr_ib: دَندٕ_بَغٲر
+myA_pzb: موٚنٛڑ
+myAcOUbi: دَنٛدانہٕ
+myeC_seQdb: غٲر_واضح
+myuM-mkY_lYtb: گَرٕ_روٚژھ_ _گَرٕ_بَغٲر
+mzgoL_aoIdb: یُس_نہٕ_پروٗژھ_آسِہ_ _پھیٚشِل _بَد
+mzgoLgi_msC_aoIb: فٲیدٕ_مَنٛد
+nAIoM_lepcbi: خۄدمۄختار
+nAItoM_tAgNb_aoIb: بۄكھہٕ_نَثُر
+nAMm: اوٚگُن
+nAMm_KCtgi_aoIb: اوٚگُن
+nANToCkdb: ترٛاونَس_لایَق_ مٔشراونَس_لایَق
+nAm_soIrb: نوتوان _موزوٗر _اَڑلیوٚک
+nApu: لیٚدُر زَرٕد زَرنَک
+nApu_mcu: لیٚدُر زَرٕد زَرنَک
+nAtY_cAdb: بےٚ_صفت _بےٚ_ؤتیٖر _بےٚشور
+nAtY_cAdr_b: وٲران
+nMTAC_tOb_: اَپٕزۍیور
+nMTb_qMdb: بےٚ_لَگام
+nQdb: توٚن
+nYnb_yAdb_mrY_tOb_yAdb: مٔنعی_بَغٲر مٔنعی_روٚس
+niPu: ژَتجِہہ
+niPumqA_sub: پانٛژتٲجِہِم
+niPumri: ژۄیتٲجی
+niPutruC: شیٚیہٕ_تٲجی
+niQKAIrb: کھستہٕ_ پیوٚمُت
+niQTin_hYtr_ib: اَنٲڑۍ _ناقٲبِل
+niQlib: پُر_اُمیٖد_ پُر_وۄمید
+niQludb: تَمہ_روٚس تَمہ_بَغٲر
+niQqudb_maoQd: غیر_مُتوَقع
+niqAI-cAkr_i_tOb: ہَٹ_دَرَم
+niqAI_cAUb: ۂٹی _اَکڑی
+niqAI_tOgNb: ۂٹی _اَکڑی
+niyM_nAIb: پَرہیزگار
+niyMgi_wAQmd: غلط
+noMb_kNb: کامہِ_کاج
+noQcuF_Tzb: مَغرِِبی
+noQgAKr_b: موٗدمُتمۄردٕمرحوٗم
+nuQ_TiNb: جٔرِتھ
+nuQqAI_yAIPb: أمیٖررۄپیہِ_وولسَرمایہِ_دار
+nuQqAIb: دِلچَسٕپ
+nuQqAIbgi_msC_aoIb: پُر_لُطُف _پُر_سٔکوٗن
+nuQqAIrb: مََزٕ_دار _پُر_مَسرَت مَزٕدار_ دِلچَسٕپ
+nuQsi_cANnb: اِتفاق_پَسَنٛد اعتِدال_پَسَنٛد
+nuQsi_hYtb: بےٚرحمظٲلِمبےٚ_آر
+nuQsib: ٹٲٹھعزیز
+nuQsindb: بیوٚن_بیوٚن _چھٔکرِتھ _اَلَگ_اَلَگ _جُدا_جُدا
+nuQsz_kClAI: خوٗنہٕ_دار
+nupA: مَردانہٕ
+nupAgi_aoIb: مَردانہٕ
+nupigi: زنانہ
+nuqAI_yAIPblN-TuM_lYb: أمیٖررۄپیہِ_وولسَرمایہِ_دار
+nuqAIndb_lYb: دُشمَنَو_ہوٚت
+nuqAIndbgi_aoIb: دُشمندٲری _زِدٕدٲری
+nuqAIrb: مََزٕ_دار _پُر_مَسرَت
+nzgi: چون
+pAC-sNn: پھۄلٲوِتھ
+pACToC-cAUToChNb_yAb: عیش_تہٕ_عشرَت_دِنہٕ_وول
+pACToC-cAUToChNb_yAdb: عیش_تہٕ_عشرَت_نہ_دِنہٕ_وول
+pAKoQn_TLlb: پیچیٖدٕمُشکِلسَخ
+pAMbY_lYjdb: ؤسیٖلہٕ_روٚژھ
+pAMbY_lYtb: لاچار بےبَس
+pAMbY_lYtr_b: بےٚسہارٕ _بےٚکَس
+pAMbY_mrAQ_kAIn_lYb: وَسٲیِل_دار
+pAMjb: ٹٲٹھعزیز
+pAMjb_: منہٕ_مُطٲبِق
+pAMjn_tOb_aoIdb: جَبری
+pAMludb: تَمہ_روٚس تَمہ_بَغٲر
+pAMnb: عِبٲرٔتی عِبارِتُک سِیٲقی سَیاقُک
+pAUKoQn_TLlb: پیچیٖدٕمُشکِلسَخ
+pAbd_areMb_aoIb: پرنس_لایق
+pAbd_kANndb: پرنس_لایق
+pAbd_mtM_mAQb: پرنس_لایق
+pAbd_nuQqAItb: پرنس_لایق
+pAri_puridgi_nArCp: خانٛدٲنی
+pAs_tOdb: فیل _ناکام
+pAs_tOrb: کامیاب _پاس
+pLleFPM_Kzdb: ڈوٚلمُت
+pLlib: پھسیومُت _بَنٛد_گوٚمُت
+pNKY_yAxToClb: سَرحَد_گٔنٛڈِتھ_ _سَرحَد_دار
+pNThOrb: ترٛوومُت
+pNb_yAb_aoI: تفصیلَس_لایق _تَٚصیٖلی
+pYsA_pAIb: أمیٖررۄپیہِ_وولسَرمایہِ_دار
+pYsiLlb: رٔژھرِتھ
+peNnAIdr_b: غٲر_مُطمین
+piKib_yAb: دِنہٕ_وول
+piToCKib_yAb: دِنہٕ_وول
+pitx-pAtxlb: ییٚتیٖم _سٔگیٖر _بےٚکَس
+pitx_pAtxlb: ییٚتیٖم _سٔگیٖر _بےٚکَس
+pjeQ_PirAL_Texlb: کامیاب _پاس
+poClb: پٲدٕ_گوٚمُت _زامُت _دُنیاہَس_مَنٛز_آمُت
+poCpdgi_yAUrCp: پیدٲیِشی
+pu-pAQ_sudr_b: ییٚتیٖم _سٔگیٖر _بےٚکَس
+puCceL-KoIjeL_tiNnb: اِتفاق_پَسَنٛد اعتِدال_پَسَنٛد
+puCceL-KoIjeL_tiNndb: بیوٚن_بیوٚن _چھٔکرِتھ _اَلَگ_اَلَگ _جُدا_جُدا
+puCceL-KoIjeN_tiNnb: اِتفاق_پَسَنٛد اعتِدال_پَسَنٛد
+puCceL-KoIjeN_tiNndb: بیوٚن_بیوٚن _چھٔکرِتھ _اَلَگ_اَلَگ _جُدا_جُدا
+puCceL_KoIjeL_tiNnb: اِتفاق_پَسَنٛد اعتِدال_پَسَنٛد
+puCceL_KoIjeL_tiNndb: بیوٚن_بیوٚن _چھٔکرِتھ _اَلَگ_اَلَگ _جُدا_جُدا
+puCceL_KoIjeN_tiNnb: اِتفاق_پَسَنٛد اعتِدال_پَسَنٛد
+puCceL_KoIjeN_tiNndb: بیوٚن_بیوٚن _چھٔکرِتھ _اَلَگ_اَلَگ _جُدا_جُدا
+puCceL_cAUb: رُت _اَصٕل_ جان
+puCceL_cextb: ڈوٚلمُت
+puCceL_leFp: بوٚرُد_باراوٚب_گوٚب
+puCceL_seQb: دیانَتدار_ عٲدِل
+puCceL_tFp: صَبریصٲبِرصَبٕر_کَرَن_وول
+puCceL_tiQb: دیانَتدار_ عٲدِل
+puCceN-KoIjeL_tiNnb: اِتفاق_پَسَنٛد اعتِدال_پَسَنٛد
+puCceN-KoIjeL_tiNndb: بیوٚن_بیوٚن _چھٔکرِتھ _اَلَگ_اَلَگ _جُدا_جُدا
+puCceN-KoIjeN_tiNnb: اِتفاق_پَسَنٛد اعتِدال_پَسَنٛد
+puCceN-KoIjeN_tiNndb: بیوٚن_بیوٚن _چھٔکرِتھ _اَلَگ_اَلَگ _جُدا_جُدا
+puCceN_KoIjeL_tiNnb: اِتفاق_پَسَنٛد اعتِدال_پَسَنٛد
+puCceN_KoIjeL_tiNndb: بیوٚن_بیوٚن _چھٔکرِتھ _اَلَگ_اَلَگ _جُدا_جُدا
+puCceN_KoIjeN_tiNnb: اِتفاق_پَسَنٛد اعتِدال_پَسَنٛد
+puCceN_KoIjeN_tiNndb: بیوٚن_بیوٚن _چھٔکرِتھ _اَلَگ_اَلَگ _جُدا_جُدا
+puCceN_cAUb: رُت _اَصٕل_ جان
+puCceN_cexp: مُستَحکَم_ _مَضبوٗط
+puCceN_cextb: ڈوٚلمُت
+puCceN_leFp: بوٚرُد_باراوٚب_گوٚب
+puCceN_seQb: دیانَتدار_ عٲدِل
+puCceN_tFp: صَبریصٲبِرصَبٕر_کَرَن_وول
+puCceN_tiQb: دیانَتدار_ عٲدِل
+puCniQ_TOgxniQqAI_aoIrb: اَثردار
+puCniQ_TOgxniqAI_aoIrb: اَثردار
+puCniQ_huniQqAI_aoIrb: مَزٕدار_ دِلچَسٕپ
+puCniQ_lAQtCniqAI_aoIrb: پَریشٲنی_کُن_پَریشٲنی_دار
+puCniQ_lOsiQ_aoIb: عٔلمہِ_واجین
+puCniQ_leFtb: ڈوٚلمُت
+puCniQ_luFnrib: کٔشِش _رٲغِب
+puCniQn_KoIdAb: منہٕ_مُطٲبِق
+puCniQn_pAMb_aoIb: منہٕ_مُطٲبِق
+puCniQn_pAMjb: ٹوٹھ _دِلَس_مُوٲفیٖق _مَن_پَسَنٛد
+puCniQn_sAgxp: خیٲلی _اَپُز
+puCniQn_yAb_aoIb: منہٕ_مُطٲبِق
+puMsz_szb: سَرسَبٕز
+puNsiLlb: سوٚمبرٲوِتھ_ _جَمع_کٔرتھ
+puNsi_sAQdb: کَم_وٲنٛس
+puNsi_teNb: کَم_وٲنٛس
+pu_pAQ_sudr_b: ییٚتیٖم _سٔگیٖر _بےٚکَس
+purib: رَگِدار
+pzKY_yAxToCtr_ib: سَرحَد_بَغٲر
+qAClO_lYjdb: ؤسیٖلہٕ_روٚژھ
+qAClO_lYtr_b: بےٚسہارٕ _بےٚکَس
+qACp: رٲچھۍ_در _باڑی_گاڑ
+qACpib_yAb: معٲفی_لایق
+qAUjb: ٹٲٹھعزیز
+qMKY_pNqACp: سَرحَد_رٲچھۍ
+qMKY_qACp: سَرحَد_رٲچھۍ
+qMKY_yAxToClb: سَرحَد_گٔنٛڈِتھ_ _سَرحَد_دار
+qMKY_yAxToCtr_ib: سَرحَد_بَغٲر
+qMdb: فیل _ناکام
+qMlb: کامیاب _پاس
+rAjy_gi_aoIb: اَنٛدروٗنی_رِیاستی
+sAKib: بنیومُت
+sATib: بےٚرحمظٲلِمبےٚ_آر
+sAUgxhNnb_aoIb: اِشتعٲلی
+sAbAN_Pjdb: بےٚ_ڈول
+sAhiQ_cAb: آدَم_خور اِنسان_کھاو
+sAhi_tOdb: دَستہٕ_خت_روٚستُے
+sAmnt_siQn_pANb_mtM: مَںٛز_کال
+sArMb: بنیومُت
+sAsiNnb: بناوٹی _نَقلی
+sCmANnb: ہِشے _ہیوٗ _ہِوُے
+sCti_pAIdb: حَقہٕ_روٚژھ_ _حَقہٕ_بَغٲر
+sMpxti_lYb: أمیٖررۄپیہِ_وولسَرمایہِ_دار
+sNb: چھٔکرِتھ _پھٲلِتھ
+sNdoCp: پٲدٕ_گَژھن_واجٮِنۍ _گَژَھن_واجِنۍ
+seL_cAdiQ_pztOd_tOb: فضوٗل_خرچ
+seL_pAIb: أمیٖررۄپیہِ_وولسَرمایہِ_دار
+seMjiN-sAjiNnb: بَناؤٹی
+seMjiNb: تَصَوُری _خَیٲلی
+seN_pAIb: أمیٖررۄپیہِ_وولسَرمایہِ_دار
+seNjAU_pAIb: أمیٖررۄپیہِ_وولسَرمایہِ_دار
+seNnb: رٲچھۍ_در _باڑی_گاڑ
+seQdb: ناصاف _خَراب _گَنٛدٕ
+siN-TuQn: پھۄلٲوِتھ
+siNdMbdz_qAIrib: نوٚو_ہٮیٚچھمُت
+siQTAb_yAb: وٲفِر
+siQTAniQqAI_aoIb: وٲفِر
+siQb_qMdb: ناواجِبہِ_ادا
+siQgxlurb: چُکوومُت _نَکھہٕ_وولمُت
+siTrCp: مۄردٕ_ _نا_لایَق
+sijiNnb_yAb: پَکوُن _چَلوُن
+sijiNndr_b: فرسوٗدٕ _نالَگہار
+sijiNnrib: پَکوُن
+soClb: زَخمی
+soCn-sMnb_yAdb: اَچھوٗتۍ
+soCniQqAI_aoIb: مُزِر نۄقصان_دِہ
+soIPdr_b: ضروٗری _لٲزِمی مَقصَد_حٲصِل_کَرَن_وول اَٹَل
+soI_tOdb: دَستہٕ_خت_روٚستُے
+soInAIrb: نوتوان _موزوٗر _اَڑلیوٚک
+soQdb: توٚن
+sruC_mri: ژۄگنہٕ_ _ژوٚگُن_ _ژور_گنہٕ
+sru_pANdb: أڑِجو_بَغٲر_ _أڑِجو_روٚس أڑِجو_روٚژھ أڑِجو_روٚستُے
+sru_polAQ_aoLlb: أڑِجہِ_کرٛنٛز
+srun_sAb: أڑجِدار _أڑِجوٗ
+srun_seM-sAb: أڑجِدار _أڑِجوٗ
+srun_seMb: أڑجِدار _أڑِجوٗ
+sub_kNb: کامہِ_کاج
+sub_noMb_kNb: کامہِ_کاج
+sztr_iC_szb: سَرسَبٕز
+tAIbz_mpugi: خدٲیی
+tAIbz_mpugi_aoIb: خدٲیی
+tAIbzpANd_KoQdArb: پٲدٕ_گوٚمُت _زامُت _دُنیاہَس_مَنٛز_آمُت
+tAIbzpANgi: دُنیٲوی
+tAIbzpANgi_aoIb: دُنیٲوی
+tAKib: لوٗسمُت
+tAMlb: دوٗر
+tAQjb: محتاج
+tAsiLlb: رٔژھرِتھ
+tAx_tOb: بَناؤٹی
+tAxki: بناوٹی _نَقلی
+tIz-tIzb: سَرٕد_ _تُرُن_ ہُنٛدُر
+tMKxlCpdz_qAIrib: نوٚو_ہٮیٚچھمُت
+tMTib: بےٚرحمظٲلِمبےٚ_آر ظٲلِم
+tOKr_b: کٔرمٕژ _سَپٕزمٕژ
+tOb_qMb: قٲبِلہُنر_منٛدمٲہِِر
+tObimL_Kzdb: نا_شُکران_ _ناشِناس
+tObimN_Kzdb_: نا_شُکران_ _ناشِناس
+tOdr_b_yAdr_b: اَشد_ضروٗری
+tOniQn_tOb_TbC_aOIdb: جَبری
+tOsiNnb: بَناؤٹی بناوٹی _نَقلی
+teCkNdb: دوٚر
+teQTAgNb: فٕضوٗل_کَتھہٕ_کَرَن_وول_ _دٮ۪ماغ_کھٮ۪نہٕ_وول
+teQbAQ_Pzdr_b: بےٚسہارٕ _بےٚکَس
+tgx-tgx_teCp: تازٕ
+tgx_tgx_teCp: تازٕ
+tiLlib: سوٚمبرٲوِتھ_ _جَمع_کٔرتھ
+tiQKz_pANb: کٔنٛڑۍ_دار
+tnO-tnOb: تازٕ
+tnO_tnOb: تازٕ
+tnOrbi: نَرٕم_اَنٛگ_واجینۍ _نَرِم_تان_واجینۍ
+toCkdb_aoIb: ترٛاونَس_لایَق_ مٔشراونَس_لایَق
+toF-toFp: عٔجیٖب غٲر_مٔعموٗلی عٔجیٖب
+toLl-tArb: بےٚسہارٕ _بےٚکَس
+toLl_tArb: بےٚسہارٕ _بےٚکَس
+torbANd_lYb: بٔٹھِس_پٮ۪ٹھ_روزَن_وٲلۍ
+tqAIPdr_b: ضروٗری _لٲزِمی
+trAM-trAM_tOgNb: رَلوُن
+trAmAToI: کاہ
+trAtrex: سَدَہ ۱۷
+tr_ANsitiB: تٔرۍ
+tuCTb_lYtr_b: تھکنہٕ_بَغٲر
+tuMlib: شوٚنٛگمُت
+tuQINb: پٲرَوکار_ _حمایتی_ _پٔلوٕ_ _مُرید
+tuQdun_lYb_: رُکِتھ _ٹٔھہرِتھ
+tuQgi_KNdb: عٲقِبت_نا_اَنٛدیش
+tukxcniQqAI_aoIrb: ناشٲیستہٕ
+tzKAI: نیٚصف _اوٚڑ پَنٛژَہ_پٔرسَنٛٹ _پَنٛژَہ_فیٖسَد
+wAKL-lOsiQ_lYb: عقل_منٛد
+wAKL_Izb: صَبریصٲبِرصَبٕر_کَرَن_وول
+wAKL_ToCp_: عقل_منٛد
+wAKL_mANnb: اِتفاق_پَسَنٛد اعتِدال_پَسَنٛد
+wAKL_mANndb: بیوٚن_بیوٚن _چھٔکرِتھ _اَلَگ_اَلَگ _جُدا_جُدا
+wAKLn_sAgxp: خیٲلی _اَپُز
+wAKN-lOsiQ_lYb: عقل_منٛد
+wAKN_Izb: صَبریصٲبِرصَبٕر_کَرَن_وول
+wAKN_ToCp_: عقل_منٛد
+wAKN_mANnb: اِتفاق_پَسَنٛد اعتِدال_پَسَنٛد
+wAKN_mANndb: بیوٚن_بیوٚن _چھٔکرِتھ _اَلَگ_اَلَگ _جُدا_جُدا
+wAKNn_sAgxp: خیٲلی _اَپُز
+wAKYb_qMdb: حَل_گَژھنے
+wAKYrb: أنٛزرومُت _اَنٛدیومُت
+wATi_qAQb_: بَکوٲسۍ
+wA_Kzdb: نا_شُکران_ _ناشِناس
+wAcoI-wAreM_qAQb_: بَکوٲسۍ
+wAcoI_qAQb_: بَکوٲسۍ
+wAqAQ-sAqAQ_lujdb: ٹیٚچھہِ_زَبانہِ_وول _ترٛۄشہِ_زَبانہِ_وول
+wAqAQ_nusib: کھۄلکی
+wAreM_qAQb: بَکوٲسۍ
+wAreM_sub: بَکوٲسۍ
+wAroIsN__purCKr_b: أنٛزرومُت _اَنٛدیومُت
+wAroIsiN_purCp_qMdb: حَل_گَژھنے
+wAyeL_ptAFk_mri_lYnb: اَدالتی
+yAIPnbgi_msC: فٲیدٕ_مَنٛد
+yALlib: پھسیومُت _بَنٛد_گوٚمُت
+yAMn: واریاہ _بِسِیار واریاہ _کٲفی
+yAMn_lub: پیچیٖدٕمُشکِلسَخ پیچیٖدٕ _مُشکِل کُھرۍ_لَد
+yAMn_tqAIPdr_b: اَشد_ضروٗری
+yAQKY_truC: شُوَنٛزاہ
+yAUb: حٲضِر _موجوٗد حٲضِر _موجوٗد
+yAdb: نامنٛظوٗر ٹھاکھ _مَنَہہ
+yAhiFlib: شوٚنٛگمُت
+yAnKib: مُہادٕ_وول
+yAnKr_b: أنٛزرومُت _اَنٛدیومُت
+yAniQdb_aoIb: مُخٲلِف
+yAnrb: پوٚز _صٔحیح
+yAnrb_aoIb: منٛظوٗر_کوٚرمُت _اِجازَت_دیُتمُت
+yOsiLlCtr_ib: غٲر_رُکُن
+yeCnb_lYb: دُشمَنَو_ہوٚت
+yeCnbgi: دُشمندٲری _زِدٕدٲری
+yeQTinb_lYb: دُشمَنَو_ہوٚت
+yeQTinbgi_aoIb: دُشمندٲری _زِدٕدٲری
+yeQsiNbidb: نِظر_اَنٛداز
+yexnb_lYtb: پابَنٛدی_بَغٲر_ _حَدٕ_بِغٲر
+yexniQqAI_aoIb: ژَٹنَس_لایَق
+yexnniQqAI_aoIb: کُھرۍلَد _خۄشکیٚتہِ_لَد
+yexnniQqAI_wAPM: نا_قٲبلہٕ_بَحَث
+yexnniqAI_aoIb: کُھرۍلَد _خۄشکیٚتہِ_لَد
+yexsiNndb: پابَنٛدی_بَغٲر_ _حَدٕ_بِغٲر
+yuM-kY_liQb: گَربارٕ_وول
+yuMPM_yAUdb: بےٚ_بُنِیاد _غَلَط

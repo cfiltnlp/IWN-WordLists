@@ -1,0 +1,112 @@
+अटकणे: Punb leFlb
+अडकणे: Punb leFlb
+अनादर_करणे: IkAIb_pib coFhNb mimAQ_PMhNb mimAQ_ToChNb IkAI_PiruC_KuMhNb
+अपमान_करणे: IkAIb_pib coFhNb mimAQ_PMhNb mimAQ_ToChNb IkAI_PiruC_KuMhNb
+अपमान_गिळणे: IkAIb_KAQb
+अपमान_सहन_करणे: IkAIb_KAQb
+अपमानित_करणे: IkAIb_pib coFhNb mimAQ_PMhNb mimAQ_ToChNb IkAI_PiruC_KuMhNb
+अभिव्यक्त_करणे: PoQdoCp KzhNb
+अश्रू_गाळणे: kFp pirAQ_siNTb teQTAb teQTA-nAaoIb
+अश्रू_ढाळणे: kFp pirAQ_siNTb teQTAb teQTA-nAaoIb
+आंबणे: PMb
+आरडा_करणे: lAUb lAU-KoQb
+आवडणे: pAMb
+आव्हान_देणे: siQnb
+उशीर_होणे: TeQTb coNTb pNTb
+ओरडणे: lAUb lAU-KoQb
+कण्हणे: teQTA-nAaoIb teQTA_nAaoIb teQTAb kF-lAUb kF_lAUb
+किंचाळणे: lAUb lAU-KoQb
+कुचंबणे: ciQnb niQjiQ-mAQjinb
+कैद_करणे: PAdoC_tAhNb PAjiNb
+खराब_होणे: berA_tOb berA_TAQb yAdb cCr__i__tOb cCr_i___TAQb cxtb
+गराडा_असणे: KAjiNb sMbL_KAb
+गाणे: IsY_sCp
+घरंगळणे: PN-PN_coQKxp
+घाव_घालणे: kNb yYb sANTb Pub
+चळणे: hoQb hNdoCp leQb
+चाटवणे: leChNb
+चिमटणे: KujiNn_siCp
+चिमटा_घेणे: KujiNn_siCp
+चुंबणे: cuFp
+चुंबन_घेणे: cuFp
+जुडविणे: sMjiNb seMjiNb
+जुळवणे: sMjiNb seMjiNb
+जोडणे: sMjiNb seMjiNb
+टांकणे: myA_hCp myA_tOhNb
+टाकी_लावणे: myA_hCp myA_tOhNb
+टाचणे: pANb nFsiNb
+टाहो_फोडणे: teQTAb teQTA-nAaoIb lAU_KoQdun_kFp
+ठोकणे: yoxpi_TAb yoxpi_yYb
+डचमळणे: niCToCp
+डुचमळणे: niCToCp
+ढळणे: hoQb hNdoCp leQb
+तर्कवितर्क_करणे: mrY_yexnb niQqAI-sAQdAnb UzKxnb ckr_i_tOnb
+थांबणे: leFp TiQb KAMb
+दचकणे: Kzpr_eC_Kzb pAKxp
+दिपणे: mix_TCp
+दिरंगाई_होणे: TeQTb coNTb pNTb
+धमकावणे: kihNb pAKxhNb DMkA_tOb
+धाय_मोकलून_रडणे: teQTAb teQTA-nAaoIb lAU_KoQdun_kFp
+धुम्रपान_करणे: curuF_TCp mYKu_sijiNnb
+नटवणे: lYteQb seMjiNb pox-cY_loIsiNb
+नाखूश_होणे: peNdb sAUb nuQqAItb nuqAItb
+नादुरूस्त__होणे: berA_tOb berA_TAQb yAdb cCr__i__tOb cCr_i___TAQb cxtb
+नाराज_होणे: peNdb sAUb nuQqAItb nuqAItb
+नासणे: PMb
+निरूत्तर_होणे: pAUKuM_pib_qMdb tumiNn_lYb
+पकडणे: PAdoC_tAhNb PAjiNb
+पाणउतारा_सहन_करणे: IkAIb_KAQb
+पिणे: TCp PANb ciQb
+प्रकट_करणे: PoQdoCp KzhNb
+प्रहार_करणे: kNb yYb sANTb Pub
+प्राशन_करणे: TCp PANb ciQb
+प्रेमात_पडणे: nuQsib
+फडफडणे: Pdr_x-Pdr_x_lAUb
+फाटणे: PMb
+बंद_पडणे: leFp TiQb KAMb
+बंद_होणे: leFp TiQb KAMb
+बिघडणे: berA_tOb berA_TAQb yAdb cCr__i__tOb cCr_i___TAQb cxtb
+बिघाड_होणे: berA_tOb berA_TAQb yAdb cCr__i__tOb cCr_i___TAQb cxtb
+भवति_न_भवति_होणे: mrY_yexnb niQqAI-sAQdAnb UzKxnb ckr_i_tOnb
+भावना_प्रकट_करणे: puCniQgi_wAKL_PoQdoCp puCniQgi_wAKN__PoQdoCp puCniQgi_wAKL_KzhNb puCniQgi_wAKN_KzhNb puCniQgi_aniQb_PoQdoCp puCniQgi_aniQb_KzhNb puCniQgi_IhuL_KzhNb puCniQgi_IhuN_KzhNb puCniQgi_IhuL_PoQdoCp puCniQgi_IhuN_PoQdoCp puCniQgi_IhuL_KzhNb puCniQgi_IhuN_KzhNb
+भावना_व्यक्त_करणे: puCniQgi_wAKL_PoQdoCp puCniQgi_wAKN__PoQdoCp puCniQgi_wAKL_KzhNb puCniQgi_wAKN_KzhNb puCniQgi_aniQb_PoQdoCp puCniQgi_aniQb_KzhNb puCniQgi_IhuL_KzhNb puCniQgi_IhuN_KzhNb puCniQgi_IhuL_PoQdoCp puCniQgi_IhuN_PoQdoCp puCniQgi_IhuL_KzhNb puCniQgi_IhuN_KzhNb
+मांडणे: PoQdoCp KzhNb
+मानखंडना_करणे: IkAIb_pib coFhNb mimAQ_PMhNb mimAQ_ToChNb IkAI_PiruC_KuMhNb
+मारणे: kNb yYb sANTb Pub
+मिणमिणणे: muxli-muxli_tOn_qANb
+मुका_घेणे: cuFp
+मुसमुसणे: hiC-hiC_lAUn_kFp hiC_hiC_lAUn_kFp hiCn-hiCn_kFp hiCn_hiCn_kFp mKoL_ToCtn_kFp sux-sux_kFp sux_sux_kFp
+रडणे: kFp pirAQ_siNTb teQTAb teQTA-nAaoIb
+रुचणे: pAMb
+रुतणे: Punb leFlb
+रुदन_करणे: kFp pirAQ_siNTb teQTAb teQTA-nAaoIb
+रुष्ट_होणे: peNdb sAUb nuQqAItb nuqAItb
+लाथाडने: kAUb
+लावणे: pANb nFsiNb
+वादविवाद_करणे: mrY_yexnb niQqAI-sAQdAnb UzKxnb ckr_i_tOnb
+वाळवणे: kzhNb POb
+वितंडवाद_करणे: miwA_qAQnb wAreM_sub
+विलंब_होणे: TeQTb coNTb pNTb
+विलाप_करणे: teQTAb teQTA-nAaoIb lAU_KoQdun_kFp
+विलापणे: teQTAb teQTA-nAaoIb lAU_KoQdun_kFp
+विव्हळणे: teQTA-nAaoIb teQTA_nAaoIb teQTAb kF-lAUb kF_lAUb
+वेढणे: KAjiNb sMbL_KAb
+वेळ_होणे: TeQTb coNTb pNTb
+व्यक्त_करणे: PoQdoCp KzhNb
+शिंकणे: hACTi_KNb
+शिक्का_मारणे: sApA_nMb
+शृंगारणे: lYteQb seMjiNb pox-cY_loIsiNb
+शोक_करणे: teQTAb teQTA-nAaoIb lAU_KoQdun_kFp
+संकोचणे: ciQnb niQjiQ-mAQjinb
+सजवणे: lYteQb seMjiNb pox-cY_loIsiNb
+सांगणे: PoQdoCp KzhNb
+सांधणे: sMjiNb seMjiNb
+साठवण_करणे: pYsiNb tAsiNb
+साठवणे: pYsiNb tAsiNb
+सुकवणे: kzhNb POb
+सोलणे: mku_KoCp
+हंबरडा_फोडणे: teQTAb teQTA-nAaoIb lAU_KoQdun_kFp
+हलवणे: noMhNb leQhNb
+हालवणे: noMhNb leQhNb
+हिंदळणे: niCToCp
+हुज्जत_घालणे: mrY_yexnb niQqAI-sAQdAnb UzKxnb ckr_i_tOnb

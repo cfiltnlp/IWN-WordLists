@@ -1,0 +1,2109 @@
+18: trAnipAL trAnipAN
+24: kuNmri 24
+46: niPutruC
+76: huMPutrAtruC
+86: mriPutruC
+96: mriPutrAtruC
+अंगम: aciCp_mPM lAQdb_mPM
+अखाफोर_ओंखारनाय: TA_ToClCp
+अखाफोर_खावख्लाब: TA_tQKAI
+अखाफोर_गावदां: purnimA TAniL TAniN TAniL TAniN
+अखाफोर_थैनाय: TAsi TAsu
+अखाफोर_दान: TAbuM_am TA_am
+अखाफोर_नुजानाय: TA_ToClCp
+अखाफोर_मास: TAbuM_am TA_am
+अखाफोर_हर: TAbLPb_numidAQ
+अखाफोरनि_सोरां: TAbL TAbN TAniL TAniN
+अखाफोरनि_स्रां: TAbL TAbN TAniL TAniN
+अख्रा: aPAU_sAb mi_Usixtb sC_tAKxp PutAni_tOb qAUsiNnb_mtO
+अख्रां_गाब: higoC higoC_mcu
+अख्रां_जाहाजनि_सानथ्रि: noQTCki_lANmi
+अख्रां_दिङानि_सानथ्रि: noQTCki_lANmi
+अख्रां_सानथ्रि: noQTCki_lANmi
+अगदाब: lYrz cuLhA
+अगियानथि: Kzdb lOsiQ_lYtb
+अगियारि: pArsigi_lAIsz
+अगेन_आखल: Pxtb_lMcx Pxtb_sAjx
+अगेन_फावखुंगुर: nupA_Pxtb miPxt
+अगेन_फावखुंग्रि: nupi_Pxtbi miPxt
+अगेनथि: lMcx_nAIdb lMcx_kAMb lMcx_yAUdb
+अग्नाशय: pANkr_iyAs
+अग्रिम: koInA_TAb aedBANs
+अग्रेम: koInA_TAb aedBANs
+अजगर: lAIreN lAIreL
+अजध्या: ayoDy_A
+अजयध्या: ayoDy_A
+अट्टालिका: sruC_kyAmruM_ToCn_KAIdoClb_yuMjAU
+अणु: mixn_Ub_qMdb_pox
+अत्यासार: aox-nYb miaox_minY
+अदल-बदल_खालामनाय: piToC-pisiN_tOb
+अदाब: lYrz cuLhA
+अधर्म: Drm_yAUdb_TbC pAFki_TbC Pxtb_TbC
+अधोरोम: Drm_yAUdb_TbC pAFki_TbC Pxtb_TbC
+अनगोथे_गोसो: nuQsi_hYtb nuQsi_hYtb minuQsi_lYtb minuQsi_yAUdb TmoI_kNb minuQsi_Kzdb TmoI_pANdb tMTib sATib
+अनजिमा: msiQ
+अनथाइ_मुर्ति: nuQgi_mitM
+अनथाइ_मुसुखा: nuQgi_mitM
+अननाय: nuQsib apAMb
+अननाय_गैयि: minuQsi_lYtb minuQsi_yAUdb TOjAL_hYtb TOjAL_yAUdb
+अनफावरि_आखु: TOjAL_hYb minuQsi_cAUb
+अनसुला_आखु: TOjAL_hYb minuQsi_cAUb
+अनागार: aox-nYb miaox_minY
+अनागारि: Pxtb_mi Pxtb_miaoI puCceN_piCp_mi puCceL_piCp_mi nuQsihYtb_mi
+अनागारि_बाहायनाय: nuQsi_hYtb nuQsi_hYtb minuQsi_lYtb minuQsi_yAUdb TmoI_kNb minuQsi_Kzdb TmoI_pANdb tMTib sATib
+अनामिका: KuxniQTO
+अनासार: aox-nYb miaox_minY
+अनुमान: wAKLn_sAb wAKNn_sAb puCniQn_sAb
+अनुमुथि: yATz myATz
+अनुसन्धान_खालामनाय: TijiNb TijiN-huMjiNb TijiN_huMjiNb
+अन्थाइ: nuQ TOdu TOdu_nuQ
+अन्थाइ_महर: mojeC
+अन्थाइ_मुर्ति: nuQgi_mitM
+अन्थाइ_मुसुखा: nuQgi_mitM
+अन्थाय_बिखा: nuQsi_hYtb nuQsi_hYtb minuQsi_lYtb minuQsi_yAUdb TmoI_kNb minuQsi_Kzdb TmoI_pANdb tMTib sATib minuQsi_lYtb minuQsi_yAUdb TOjAL_hYtb TOjAL_yAUdb
+अन्याय: aox-nYb miaox_minY cuMdb_wAyeL cuMdb_wAyeN arANb_wAyeL arANb_wAyeN
+अपमान: miQcx_Tib
+अफमान: IkAIb-pib IkAIb-nzhNb coFhNb coFPNb
+अबं: lAI sidb_mpu tAIbz_mpu lAIniQTO KoyuM teQbANb_mpu noQdMb ciQqu KoImoM Isor Isw_r BgbAN
+अबंलावरि: lAI sidb_mpu tAIbz_mpu lAIniQTO KoyuM teQbANb_mpu noQdMb ciQqu KoImoM Isor Isw_r BgbAN
+अबथिरा_थैनाय: mtM_cAdn_sib
+अबथिरा_रुंगनाय: mtM_cAdn_sib
+अबथिरा_रुंसारि_जानाय: mtM_cAdn_sib
+अबथिरा_सोरगोयारि_जानाय: mtM_cAdn_sib
+अबस्था: PibM PiBM
+अभद्र: lMcx_nAIdb lMcx_kAMb lMcx_yAUdb
+अमाबैस्या: TAsi TAsu
+अमासि: TAsi TAsu
+अम्बासि: TAsi TAsu
+अरदाब: lYrz cuLhA
+अरन: Umz boN jzgL
+अरनमा: Umz boN jzgL
+अरनि_आनजाद: mYgi_cAQyeQ
+अरनि_आन्जाद: mYgi_cAQyeQ
+अलं: TwANmicAC
+असन्मान: IkAIb-pib IkAIb-nzhNb coFhNb coFPNb
+असभ्य: lMcx_nAIdb lMcx_kAMb lMcx_yAUdb
+असालि: mAQgoL mAQgoN BereNdA
+असिद_हाबा: cYrAC_Pzb_yAb_TOaoQ cYrAC_pib_yAb_TbC mrAL mrAN
+असे_बिनानाव: poCmiNnb_mcNnupi poCmiNnb_mcN poCmiNnb_mce poCmiNnb_mnAUnupi
+अस्त्र: KuxlAI
+अहर: mAIroQbi UroN
+अहर_बिफां: mAIroQbi_pAMbi mAIroQbi
+अहालि: mAQgoL mAQgoN BereNdA
+आंगो_बिनानाव: poCmiNnb_mcNnupi poCmiNnb_mcN poCmiNnb_mce poCmiNnb_mnAUnupi
+आइजो_लोगो: mmANnbi_nupi
+आइन: aAIN aAIN_kAQloN
+आइन_सास्त्र: aAIN aAIN_kAQloN
+आउसि: TAsi TAsu
+आखल_मोजां: aPb_lMcx aPb_sAjx PidMniQqAI_aoIb_lMcx PidMniqAI_aoIb_lMcx PidMniQqAI_aoIb_sAjx PidMniqAI_aoIb_sAjx
+आखलथि_गैयि: Pjdb_lMcx-sAjx lujdb_lMcx
+आखसि_आखाइ: aoIgi_Kux aoI_Tzb_Kux
+आखसुगुं: KuniQ
+आखा: lYrz cuLhA
+आखाइनि_आइजें: Kuxki_KuxlAI
+आखाइनि_बाहागो: Kuxki_sruC Kuxki_kAyAx
+आखान्थि: Kux
+आखाफाखाथिगैयि: mpAQgL_soNb pAQgL_soNb soNb_ qMdb
+आखाय: Kux
+आखाय_खबनाय: KubAC_Kub
+आखाय_गानथि: KujeQ
+आखायजों_दाग्रा: Kux-sA_hYb_mi
+आखायजों_बुनानै_दामग्रा_आइजें: Kuxn_yYb_yNtr_ ayY_yNtr_
+आखायनि_हाबा_मावग्रा: Kux-sA_hYb_mi
+आखायनि_हाबा_रोङि: Tox-nOb_yAudb klA_ceNdb
+आखु_गैयि: lMcx_nAIdb lMcx_kAMb lMcx_yAUdb
+आखुथाय_गैयै: Pjdb_lMcx-sAjx lujdb_lMcx
+आगसालि: mAQgoL mAQgoN BereNdA
+आगसि_आखाइ: aoIgi_Kux aoI_Tzb_Kux
+आगान_सुरजेननाय: hOdoCpgi_TOrM
+आगान_होजेननाय: hOdoCpgi_TOrM
+आगु_बाहागो: mmAQ_Tzb
+आगोल_बाहागो: mmAQ_Tzb
+आग्रोम: Kumix
+आघाद_जानाय: asoC-apN soCp soC-pNb
+आजनाय: mixTO
+आजिनाय: mixTO
+आटानि_फिथा: tL tN tNgz
+आत्मा: TwAI yAIbi yAIbi-TwAI TwAI_ceClA pr_AN jib aAtm_A
+आथिं: KoQ
+आथिंनि_गानथि: Kumix
+आथें: KoQ
+आथोन: PinuQ hCcAQToQ
+आथोन_ग्रन्थि: turuMKAU buri
+आथ्था_सेगुं: cuMTAQ cumiTAQ
+आदर: IkAI-KuMnb wAQn-TAQgxp Ijx_tOb by_bhAr_tOb
+आदा: myAMb mnAUnupA mbuQ mOpw_A
+आदा_गिदिर: myAMb mbuQ
+आदा_गेदेर: myAMb mbuQ
+आदान-प्रदान_खालामनाय: piToC-pisiN_tOb
+आदालत: wAyeLsz wAyeNsz cYrAF korx
+आदुमब्रा: hYbo_Q_pAMbi hYboQ
+आदुवा: apzb_mi lOsiQ_yAUdb_mi
+आदुवाथि: apzb_mtO
+आद्दा: puNPM
+आद्रा_अनजिमा: areMb
+आद्रा_मिथिथाय: mpuQ_PAn_Kzdb
+आनदाज: wAKLn_sAb wAKNn_sAb puCniQn_sAb
+आनमिरं: yAQleN_sru yAQleL_sru
+आनान-गसाइ: lAI sidb_mpu tAIbz_mpu lAIniQTO KoyuM teQbANb_mpu noQdMb ciQqu KoImoM Isor Isw_r BgbAN
+आनाव: mce mcN mnAU-nupi poCmiNnb_mcNnupi poCmiNnb_mcN poCmiNnb_mce poCmiNnb_mnAUnupi mtYm mnMm mcNnupi mcN mnAUnupi mcNnupi mcN mnAUnupi mnAU mce mtYm mnMm mcNnupi mcN mnAUnupi mnAU mce mcNnupi mcN mnAUnupi mnAU
+आफं: mnAU_nupA mOpw_A
+आफना: Kux
+आफनाखं: segr_AC
+आफाखं: segr_AC
+आफाद_जोबथि: miPM_loIsLlb
+आफाद_जोबनाय: miPM_loIsLlb
+आफाद_थुंगेनाय: miPM_loIsLlb
+आफिं: kAni aAPiQ
+आफिम: kAni aAPiQ
+आफे: TwANmicAC
+आफ्नाखं: segr_AC
+आब: mce
+आबाइलु: KujeQ
+आबाद_बेगर: hwAI-ceQwAI hwAI_ceQwAI mru-mrAQ mru_mrAQ
+आबु: KoMjiN
+आबुं_मिथिथाय_गैयि: mpuQ_PAn_Kzdb
+आबेग: puCniQ_czbgi_mtO puCniQ_luFpgi_maoQ
+आब्रा: qAUsiNnb_mtO
+आब्रा_खालामनाय: niQqAI
+आब्रुथि: aPb_lMcx_sAjxki_niyM TCsi-KAsi disipl_iN
+आमथा_गाइखेर: szgoM_mpz
+आमायथु: pANkr_iyAs
+आमु: Kumix
+आयथिं: KoQ
+आयथें: KoQ
+आयेन: wAyeL_kAQloN wAyeN_kAQloN aAIN wAyeL_pTAF wAyeN_pTAF wAyeN_kAQloN aAIN aAIN_kAQloN
+आयेन_सास्त्र: aAIN aAIN_kAQloN
+आर_जानाय: mpA_cAnb nAtY_cAb
+आरज: lAIsoN lAIsoL
+आरज_खालामनाय: hAIjb nijb
+आरज_गाबनाय: hAIjb nijb
+आरज_बिलाइ: wAkx pitisN
+आरज_लाइ: wAkx pitisN
+आरोंदाग्रा: Kux-sA_hYb_mi
+आलासि: mri-mtA mri_mtA sAgY-nAtY sAgY_nAtY qAI-seN qAI_seN atiTi
+आलासि-न: miTuQPM miTuQsz
+आलासि_थाग्रा_न: miTuQPM miTuQsz
+आलेंगार: guMBir
+आल्ला: aLlA aLlAh
+आवनायनाय: coIroN coIroL
+आवा_दुमब्रु: hYbo_Q_pAMbi hYboQ
+आसखान्दा_मिथिथाय: mpuQ_PAn_Kzdb
+आसखि: TwANmicAC
+आसरिद_जानाय: qCpgi_maoQ cAMmnbgi_maoQ tOPM_Kzdbgi_maoQ
+आसल_नङि: seQb-seQdbgi_maoQ
+आसान: Kuji
+आसार: acAr
+आसि_जोला: KudoMbi
+आसि_दरथा: KudoMbi
+आसि_फिसानि_खाथिनि_आसि: KuxniQTO
+आसिनि_इंगिद: Kuxtn_IQgit_tOdun
+आसिनि_इसारा: Kuxtn_IQgit_tOdun
+आसिनि_फाव: Kuxtn_IQgit_tOdun
+आसिनि_संकेद: Kuxtn_IQgit_tOdun
+आसिमानि_खाथिनि_आसि: KudoMbi
+आसोल_गाब: aseQb_mcu
+आसोल_धोन: seLlep
+आसोल_रं: aseQb_mcu
+आसोल_सोरजि: msAgi_aoIb_Kux-I
+आह: teQTAKoL awAb_poQdoCp_KoLjeL
+आहार_जाग्रा_जुनार: mmAgi_KoMlAQ_TCp_jib
+इंगित: Izgix KudM
+इज्जद: IkAI-KuMnb wAQn-TAQgxp Ijx_tOb by_bhAr_tOb
+इनजेकसन: yextuM
+इनाय: aox-nYb miaox_minY cYrAC_Pzb_yAb_TOaoQ cYrAC_pib_yAb_TbC mrAL mrAN
+इनाय_बिजिरनाय: cuMdb_wAyeL cuMdb_wAyeN arANb_wAyeL arANb_wAyeN
+इन्दि: kege
+इसारा: Izgix KudM
+इसिङारि_गोहो: nuQgi_TOnA
+इसिङारि_सक्ति: nuQgi_TOnA
+इसे_थाद_सिन: komA
+इसोर: lAI sidb_mpu tAIbz_mpu lAIniQTO KoyuM teQbANb_mpu noQdMb ciQqu KoImoM Isor Isw_r BgbAN
+ईसा: jisu jisu_Kr_AIst_
+उइ: jiqC_ dostA
+उगार: Tgeb
+उजिनाय_सम: poCpgi_puQPM poCpgi_mtM
+उजिनाय_समाय: poCpgi_puQPM poCpgi_mtM
+उजिर्न: cAb_tuMdb
+उदखार: aox-nYb miaox_minY
+उदां_खालामनाय_धोन: TAdoCseN TAdoCseL
+उदांस्रि_सान: niQ-KA_tMb_numix
+उदासि: kAroL_aKAbi kAroL_aKAbi_pAMbi kAroN_aKAbi kAroN_aKAbi_pAMbi kAroL_aKAbi kArox_aKAbi kAroN_aKAbi
+उन-उन_थांनाय: mtuQINnb tuQINnb mtuQ
+उन_बाहागो: mniQ_Tzb_sruC
+उनजाउन: mhY
+उनदैनि_बिसुखे: aqAQ_aoIriqYgi_mruF aqAQ_aoIriqYgi_mmANnb
+उनदैनि_लोगो: aqAQ_aoIriqYgi_mruF aqAQ_aoIriqYgi_mmANnb aqAQ_aoIriqYgi_ImANnbi aqAQ_aoIriqYgi_mtAroI aqAQ_aoIriqYgi_ImANnbi aqAQ_aoIriqYgi_mtAroI
+उननि_बाहागो: mniQ_Tzb_sruC
+उनसंग्रा: tuQINb_miaoI KoQloI
+उनसंनाय: mtuQINnb tuQINnb mtuQ
+उनसोलोंनाय: aP-Pxt_Kzdn_mtO_tMb mtO_tMjb mtO_tMb mitO_tMb
+उन्दै: kuFp yAMn_piCp mixn_Ub_qMdb
+उन्दै-उन्दै: kuFl-kuFlb_mcex
+उन्दैनि_बिलोगो: aqAQ_aoIriqYgi_ImANnbi aqAQ_aoIriqYgi_mtAroI
+उन्दैनि_बिसुखे: aqAQ_aoIriqYgi_mruF aqAQ_aoIriqYgi_mmANnb
+उन्दैनि_लोगो: aqAQ_aoIriqYgi_mruF aqAQ_aoIriqYgi_mmANnb aqAQ_aoIriqYgi_ImANnbi aqAQ_aoIriqYgi_mtAroI
+उपाधि: miQToL miQToN UpADi pdbi yuMnAC_sAgYgi_mmiQ
+उफादि: miQToL miQToN UpADi pdbi yuMnAC_sAgYgi_mmiQ
+उफाय: pAMbY UpAI mteQ
+उफ्रा_नाम: atoFp_mmiQ
+उफ्रा_मुं: atoFp_mmiQ
+उलथा: aTiQb apNb mAIyoCt_lYb
+उलथा-फालथा: mTC-mKA_aoNb TC-KA_aoNb
+उलथां-फालथां: mTC-mKA_aoNb TC-KA_aoNb
+उलथाथि: mAIyoCt_lYb_kAQbu aopojisN
+उल्का: TwANmicAC_mTi
+उल्थाथि: mAIyoCt_lYb_kAQbu aopojisN
+उसाव-बादाव_जानाय: KzniQb
+उसु-खुथु_जानाय: KzniQb
+उसुगुदु_जानाय: KzniQb
+ऊद: snMb
+एंगारनाय_धोन: TAdoCseN TAdoCseL
+एंब्रानाय: niQqAI
+एखुथाथि: toF-toFp_maoQ
+एखे_हारि: PuruFki_miaoI
+एग्रे_बाग्रे: lAIn_Pzb Pzbd_ludb
+एजलास: wAyeLsz wAyeNsz cYrAF korx
+एनजर: Uci cibA_mYsAQb
+एनजर_बुन्दि: Uci_amoM
+एना-एनि_गैलायि: yeQTinb_lYtb
+एन्जर: Uci cibA_mYsAQb
+एमब्रानाय: niQqAI
+एमिबा: amibA
+एलजेब्रा: aeLjbr_A
+एसिद: aesid
+एसे_थाद_सिन: komA
+ओखाम_थामफै: hyiQ
+औवानि_फरदा: ciC
+ककिन: kokeN
+ककेइन: kokeN
+कन्या: kny_A_rAsi kny_A
+कन्या_रासि: kny_A_rAsi kny_A
+कर्कट_रासि: krkx_rAsi krkx
+कर्ट: wAyeLsz wAyeNsz cYrAF korx
+कलार: Purixki_qCsM kolr
+कलेरा: puCcxp_lAInA puCcx_IPAI kolerA
+कल्पना_खलामाग्रा..............: wAKL_lisAQ_TArib_mi
+कारपेट: kArpex gAlicA gAlicA_PidA
+कारिकर: Kux-sA_hYb_mi
+कुंभ_रासि: kuMB_rAsi
+कुम्भ_रासि: kuMB_rAsi
+केंगारु: kzgAru
+केक: keC
+केथलि: ketli
+केरेला: kAroL_aKAbi kAroL_aKAbi_pAMbi kAroN_aKAbi kAroN_aKAbi_pAMbi
+क्षमतागैयि: mpAQgL_soNb pAQgL_soNb soNb_ qMdb
+खʼ: poN sArz
+खख्लिं: mAIroQbi UroN
+खख्लिं_बिफां: mAIroQbi_pAMbi mAIroQbi
+खनसा: Pijex PijoL PijoN Pi
+खनियारि_खैला: lYnuQgi_koIlA
+खबर: pAU I__-pAU I__pAU pAUjeL pAUjeN
+खबरा: pAU I__-pAU I__pAU pAUjeL pAUjeN
+खमफियि: leQdb_PibMd acexp_PibM
+खमा: semikoloN
+खम्बल: kMpor kMbL
+खरला_गोखा: kAroL_aKAbi kArox_aKAbi kAroN_aKAbi
+खर्म: TbC TO siN siNTA
+खल: UcilAQ
+खलम: koloM muCcY
+खसाब: Pijex PijoL PijoN Pi
+खसायनाय: suFnciN mku-mkub msuD-msuFp
+खांसियाल_बुन्दि: lMhuI_amoM
+खाइसो: kLlC-mihO_PAUdb_wAKL kLlC_mihO_PAUdb_wAKL kLlC-mihO_PAUdb_wAKN kLlC_mihO_PAUdb_wAKN kLlC-mihO_lYtb_wAKL kLlC_mihO_lYtb_wAKL kLlC-mihO_lYtb_wAKN kLlC-mihO_lYtb_wAKN
+खाउरि_बानायखुलि: seNsAPM seLsAPM
+खाउरि_बानायग्रा_खुलि: seNsAPM seLsAPM
+खागज: ce
+खाजना: lMgi_KAjnA
+खाजना_लाग्रा_न: teks__TiP
+खाजोना: lMgi_KAjnA
+खाथि: yuMloNnb yuMTznb
+खाथिर: IkAI-KuMnb wAQn-TAQgxp Ijx_tOb by_bhAr_tOb
+खानथि_सिफायनाय: niyM_TugAIb niyM_kAIhNb
+खानथियारि: mTO_Kzb mTO_msC_Kzb
+खानाइ_खाफ्रेलायनाय: sM-PoInb
+खानाइ_जमा: sM_cbuN sM_cbuL
+खानाइ_बोलायनाय: sM-PoInb
+खान्थि: wAyeL_kAQloN wAyeN_kAQloN aAIN wAyeL_pTAF wAyeN_pTAF wAyeN_kAQloN
+खान्थि_सिफायनाय: niyM_TugAIb niyM_kAIhNb
+खान्थियारि: mTO_Kzb mTO_msC_Kzb
+खान्दाव: hYbo_Q_pAMbi hYboQ
+खाफल_गाज्रि: lAIbC_Tib
+खाफल_मोन्दा: lAIbC_Tib
+खाफाल: lAIbC
+खाफाल_दाखुरा: lAIbC_Tib
+खाब्रां_गोसो: nuQsi_hYtb nuQsi_hYtb minuQsi_lYtb minuQsi_yAUdb TmoI_kNb minuQsi_Kzdb TmoI_pANdb tMTib sATib
+खाब्रां_बिबुंथि: Pxtb_wAQAQ
+खामसालि: mAQgoL mAQgoN BereNdA
+खामानि: TbC TO siN siNTA TbC TO siN
+खामानि_जागायनाय: TbC_hOb
+खामानि_जुरिनाय: TbC_hOb
+खामानि_जोबथि: TbC_loIsiNb
+खामानि_जोबनाय: TbC_loIsiNb
+खामानि_थुंगेनाय: TbC_loIsiNb
+खामानि_दांजेननाय: TbC_hOb
+खामानि_मावजेननाय: TbC_hOb
+खामानिनि_गेजेर_खोन्दो: mrCki_poxTAb_mtM
+खामिहारा: TbACki_sru_polAQ TbACki_sru_huMdAQ
+खारथाय_गैयि: leQb_qMdb
+खारथाय_सुग्रा: sp_idomitr
+खारबार: lLloN-ItiC lLloN_ItiC kArbAr
+खावख्लाब_अखाफोर: TA_tQKAI
+खावलायनाय: hAIjb nijb
+खावसे_अखाफोर: TA_tQKAI
+खावां: kortAN gortAN gotAN kortAL gortAL gotAL
+खासा: poN sArz
+खासारि: wAyeLsz wAyeNsz cYrAF korx
+खिजुर: Kjur
+खिलाखुनथि: KuniQ
+खिसावनाय: puCcxp_lAInA puCcx_IPAI kolerA
+खिसावनाय_बेराम: KoQ_hAMTb_lAInA KoQ_hAMTb
+खिस्रायनाय_बेराम: KoQ_hAMTb_lAInA KoQ_hAMTb
+खुंनाय: lYqAC lYbAC_lYqAC
+खुगा: ciN mciN
+खुगाफोरनाय: wAhOdoC
+खुन: lsiQ sinO
+खुन्दुं: lz tunuQ
+खुरमा: mri-mtA mri_mtA sAgY-nAtY sAgY_nAtY qAI-seN qAI_seN atiTi
+खुरि: teQgox
+खुरै: teQgox
+खुलुमनाय: IkAI-KuMnb wAQn-TAQgxp Ijx_tOb by_bhAr_tOb
+खुसि_जानाय: nuQqAIb nuqAIb hrAUb
+खेजुर: Kjur
+खेरखानि: KuniQ
+खेरेला: kAroL_aKAbi kArox_aKAbi kAroN_aKAbi
+खेला: sANnb
+खेलायनाय: sANnb
+खोबग्रा_आइजें: mKuM
+खोबग्रा_जि: PiguM
+खोबग्रा_मुवा: mKuM
+खोबग्रा_सि: PiguM
+खोबग्रा_हि: PiguM
+खोबथेग्रा_जि: prdA yuKL mAIKL nAKN yuKN mAIKN nAKL
+खोमसि_रोमा-रोमि: sNgArCp_mtM numidAQwAIrM nuQdAQwAIrM yAczb yAczb_mtM yAcz_kAQhu sNDy_A
+खोमसि_हर: amMb_numidAQ
+खोमा: nAkoQ nA
+खोमा_गुदुं: vnAkoQ_mKuL
+खोमा_फरदा: nAkoQnuQgi_lunO
+खोमाखि: nAkoQ_nFTi
+खोमानि_फरदा: nAkoQnuQgi_lunO
+खोला_सोनाब: moIrAQ_lAIji
+खोला_सोनाब_खना: moIrAQ_lAIji
+खोलोम: koloM muCcY
+खौरां: pAU I__-pAU I__pAU pAUjeL pAUjeN
+खौरां_हांखो: by_NjN by_NjN_myeC
+खौवौ: kokiL kokiN
+खौसेथि: cuQsiNnb puNsiNnb amxt_aoIb yAnb
+खौसेथि_गैयि: leQmANndb ToQ-mANndb mpA_cAndb
+ख्रिस्टानारि: Kr_i_stiyAN
+ख्रिस्टियान: Kr_i_stiyAN
+गंग्रा: aPAU_sAb mi_Usixtb sC_tAKxp PutAni_tOb
+गज्रिगुन: mnuQcNdb mKA_poNdb
+गथ_दाय: aqAQgi_mrAL aqAQgi_asoIb
+गथा_खालामनाय: PMjiNb
+गथा_गाइखेर: szgoM_mpz
+गथा_जाहोनाय: PMjiNb
+गथा_बानायनाय: PMjiNb
+गदाय_बिमा: poCtbi_mmA
+गनदगल: wAToC wAToC-lANToC
+गनायथि: yATz myATz ayAb sOgxp TOgxp teQbAQb ToQgxp yAnb wAKL_mANnb
+गनायनाय: ayAb yAnb wAKL_mANnb
+गन्थं: nAtoN
+गन्थं_गुदुं: nAtoN_mKuN nAtoL_mKuN nAtoL_mKuL VnAtoN_mKuL
+गन्थं_बिजौ: nAtoN_mKuN
+गब्लं_खालामनाय: mKuN
+गरम: sAb
+गराइ_गलि: sgoLsz
+गराइ_गारि: dolAI rT sgoL_gAri sgoN_gAri
+गराइ_सान्थ्रि: sgoL_lANmi sgoN_lANmi
+गरिब: lAIrb aton-atA seL_pAIb
+गरिला_दावहा: guriLlA_lAN
+गलब्लादार: goLbl_edr
+गलमाल: wAToC wAToC-lANToC
+गलायदेरनाय_गाब: yANsiNnb_mcu
+गलायनाय: seQb-seQdbgi_maoQ
+गलायनाय_गाब: yANsiNnb_mcu
+गसाइ: lAI sidb_mpu tAIbz_mpu lAIniQTO KoyuM teQbANb_mpu noQdMb ciQqu KoImoM Isor Isw_r BgbAN
+गस्ला_गोलाव: gAUN
+गां: msA
+गांखं: msA
+गांगा-थफा: koQgoL koQgoN
+गांगाथफा: koQgoL koQgoN
+गांसो_जाग्रा_जुनार: mnA-msiQ_cAb_jib
+गाइखेर: KoMlAQ szgoM
+गाइखेर_जाग्रा_जुनार: mmAgi_KoMlAQ_TCp_jib
+गाग्लोबनाय: lANdAb
+गाज्रि: Pxtb
+गाज्रि_आखल: Pxtb_lMcx Pxtb_sAjx
+गाज्रि_आखु: Pxtb
+गाज्रि_आखुनि_फावखुंग्रि: nupi_Pxtbi miPxt
+गाज्रि_गुन: Pxtb
+गाज्रि_फावखुंगुर: nupA_Pxtb miPxt
+गाज्रि_बाथ्रा: akAMpex KoNcoF wAcoF acoFp_wAhY mciN_Tib_wAhY Pjdb_wAhY
+गाज्रि_मानसि: Pxtb_mi mbuC_Pxtb_mi lMcx-sAjx_Pjdb_mi lMcx_sAjx_Pjdb_mi
+गाज्रि_मुं: miQcx_Tib
+गाज्रि_राव: akAMpex KoNcoF wAcoF acoFp_wAhY mciN_Tib_wAhY Pjdb_wAhY
+गाज्रि_सानराय: akAMpex KoNcoF wAcoF acoFp_wAhY mciN_Tib_wAhY Pjdb_wAhY
+गाज्रि_सोदोब: akAMpex KoNcoF wAcoF acoFp_wAhY mciN_Tib_wAhY Pjdb_wAhY
+गाधा: apzb_mi lOsiQ_yAUdb_mi
+गानजा: gNjA
+गाननायनि_बाहागो: IsiQ-mriC
+गान्थिसानाय_बेराम: tAQ_ciCp
+गाब: mcu
+गाबफुननाय_बाथ्रा: heNjiNn_hAIjiNb
+गाबोन: hyeQ mTzgi_numix
+गायखेर_बासा: KoMjiN
+गायखेर_बाहा: KoMjiN
+गायसनफिननाय: amuC_hNn_leQsiNb
+गारां_हांखो: sw_r_myeC sw_r
+गारायाव_खाग्रा_फिथा: beNdej
+गालथाव: liNgi_PNdoCp_mkoC
+गालफा: liNgi_PNdoCp_mkoC
+गालफाव: liNgi_PNdoCp_mkoC
+गाव_जिउ_खौरां: msAgi_puNsigi_wAri
+गावदां_अखाफोर: TAniL TAniN
+गावनाय: teNkAFp
+गावस्राहो: mt_tiNnhNdb
+गासै_बाहागो: TbC-TOrM_puMnmC TbC-TOrM_KudiQmC hCcAQ_kAyAx_puMnmC hCcAQ_kAyAx_KudiQmC
+गासैरां: apuNb_seNPM
+गाहाइ: luciQ_pureL
+गाहाइ_गाब: aseQb_mcu
+गाहाइ_धोन: seLlep
+गाहाइ_फावखुंग्रि: hiroIN
+गाहाइ_रं: aseQb_mcu
+गाहाइ_सोरजि: msAgi_aoIb_Kux-I
+गाहाइगिरि: luciQ_pureL
+गाहाम: kANnb
+गाहाम_आखु: aPb aPb-wAKL aPb-wAKN
+गाहाम_आखुथाइ: aPb_lMcx aPb_sAjx PidMniQqAI_aoIb_lMcx PidMniqAI_aoIb_lMcx PidMniQqAI_aoIb_sAjx PidMniqAI_aoIb_sAjx
+गाहाम_आखुथि: aPb_lMcx aPb_sAjx PidMniQqAI_aoIb_lMcx PidMniqAI_aoIb_lMcx PidMniQqAI_aoIb_sAjx PidMniqAI_aoIb_sAjx
+गाहाम_गुन: aPb aPb-wAKL aPb-wAKN
+गाहाय_दर: ToQjAU snToQ
+गाहाय_दरजा: ToQjAU snToQ
+गिदिंखʼननाय: koIb
+गिदिद_बेंखन_सिन: wAhY-sMbL_ahuMsub ahuMsub_wAhY-sMbL wAhY-sMbN_ahuMsub ahuMsub_wAhY-sMbN br_ekex_ahuMsub ahuMsub_br_ekex
+गिदिर_आदा: myAMb mbuQ
+गिदिर_बिदा: myAMb mbuQ
+गिदिर_बेंखन_सिन: wAhY-sMbL_ahuMsub ahuMsub_wAhY-sMbL wAhY-sMbN_ahuMsub ahuMsub_wAhY-sMbN br_ekex_ahuMsub ahuMsub_br_ekex
+गिबि: ahOb ahANb
+गियान: lOsiQ gy_AN hY-siQb Kz-hYb gy_AN_lYb
+गियान_गैयि: apzb_mi lOsiQ_yAUdb_mi
+गियान_गैयै: apzb_mi lOsiQ_yAUdb_mi
+गुंगुरु: KoQji
+गुजिद: mriPutrAtruC
+गुदाम: kudAM hYru
+गुदि_मुवा: mcz_mci
+गुदुं: sAb
+गुदुं_बार: asAb_nuQsix
+गुन्थुथ्रि: (UceCki)_mciN
+गुन्द्रासा: mixn_Ub_qMdb_pox
+गुफुर: qOroC_qOb qOroC_qOb lM_qANb kucu_pANb
+गुफुर_थै_गुन्द्रा_सेरेफ: aqOb_Igi_seL
+गुफुर_थै_सेरेफ: aqOb_Igi_seL
+गुफुर_मानसि: qOroC_qOb qOroC_qOb lM_qANb kucu_pANb
+गुबुन: lMlANb mitoF sCKzdb
+गुबुनथि: toF-toFp_maoQ
+गुबुननाव_सोनारनाय: migi_mteQ_lOb
+गुबुननि_हामब्लायथि: atoFpgi_yAIPnb_TbC_tOb atoFpgi_Pnb_TbC_tOb
+गुबुननि_हामब्लायनाय: atoFpgi_yAIPnb_TbC_tOb atoFpgi_Pnb_TbC_tOb
+गुबुननि_हामलायनाय: atoFpgi_yAIPnb_TbC_tOb atoFpgi_Pnb_TbC_tOb
+गुबै_गाब: aseQb_mcu
+गुबै_धोन: seLlep
+गुबै_मुवा: mcAC poxcz
+गुबै_रं: aseQb_mcu
+गुबै_सोरजि: msAgi_aoIb_Kux-I
+गुमा_गदल: kOjeQ
+गुमागयं: kOjeQ
+गुमुर: aroNb aTuFp aroN-aTuF
+गुरैथि: puCceN_cAUb puCceL_cAUb minuQsicAUb
+गुलाय-गुजाय: mTC-mKA_aoNb TC-KA_aoNb
+गुवासु: TbACki_sru_polAQ TbACki_sru_huMdAQ
+गुसथि-फेननाय: tuCkxcb hzgoIb nuQsidb
+गुसुं_गारां_हांखो: ateNb_KoNToC
+गेजेर_बेंखन: anisub_wAhY-sMbL anisub_wAhY-sMbN wAhY-sMbL_anisub wAhY-sMbN_anisub br_ekex_anisub anisub_br_ekex
+गेदेद_बेंखन_सिन: wAhY-sMbL_ahuMsub ahuMsub_wAhY-sMbL wAhY-sMbN_ahuMsub ahuMsub_wAhY-sMbN br_ekex_ahuMsub ahuMsub_br_ekex
+गेदेदथि: mtiC_mguN mguN
+गेदेमा: siQTAniQqAI_aoIrb_misC aToIb_misC ToIdoC_heNdoClb_misC
+गेदेमाथि: mtiC_mguN mguN
+गेदेर_आदा: myAMb mbuQ
+गेदेर_खिजुर: Kjur
+गेदेर_खेजुर: Kjur
+गेदेर_दावहा: lANjAU
+गेदेर_बिदा: myAMb mbuQ
+गेदेर_बेंखन_सिन: wAhY-sMbL_ahuMsub ahuMsub_wAhY-sMbL wAhY-sMbN_ahuMsub ahuMsub_wAhY-sMbN br_ekex_ahuMsub ahuMsub_br_ekex
+गेदेरथि: mtiC_mguN mguN
+गेबें_सिन: acuMb_KudM
+गेलारि: gYlri
+गेलेग्रा_आयजें: sANnbgi_mpox-mcY
+गेलेनाय: sANnb sANnb
+गेलेनायनि_आयजें: sANnbgi_mpox-mcY
+गोख्रै_मोनदांथि: akNb_IhuL akNb_IhuN akNb_ITiL VakNb_ITiN akNb_liciQ
+गोख्रै_मोन्दांथि: akNb_IhuL akNb_IhuN akNb_ITiL VakNb_ITiN akNb_liciQ
+गोख्रैथि: IceL IceN KoQcx
+गोख्रैथि_गैयि: leQb_qMdb
+गोगोथि_नङि: seQb-seQdbgi_maoQ
+गोगोमथि: leQb_qMdb
+गोग्गनाय_गैयै: acAUrM_kAdb nApL_kAdb nApL_tOdb cAUToCtb
+गोग्गाथि_गैयि: leMjniQqAI_aoIdb_maoQ
+गोग्गानाय: aPAU_sAb mi_Usixtb sC_tAKxp PutAni_tOb wAreM wAjAU
+गोग्गानाय_गैयि: leMjniQqAI_aoIdb_maoQ acAUrM_kAdb nApL_kAdb nApL_tOdb cAUToCtb
+गोग्लैलांनाय: mrAI_cAITb mAQtACp lYKA_tAb hNTb
+गोजा: aqAQb aqAQb_mcu qAQsz_qAQb
+गोजा_थै_गुन्द्रा_सेरेफ: aqAQb_Igi_seL
+गोजा_थै_सेरेफ: aqAQb_Igi_seL
+गोजागाब: aqAQb aqAQb_mcu qAQsz_qAQb
+गोजोननाय: hrAUb hrAUb_PoQdoCp wAh-wAh_hAIb nuQqAIb nuqAIb hrAUb sANti tzdu_lYtAb puCniQ_Izb puCceL_tFp puCceN_tFp wAKL_lYtAb wAKN_lYtAb
+गोजोननाय_गैयि: KOrAQb
+गोजौ_फोलेर: awAQb_sAgY
+गोजौ_बंस: awAQb_sAgY
+गोजौ_बाहागो: awAQb_sruC awAQb_mPM
+गोज्जा: aqAQb aqAQb_mcu qAQsz_qAQb
+गोथां: aszb aszb_mcu
+गोथां_गाब: aszb aszb_mcu
+गोथार_जायगा: aseQb_mPM
+गोथार_थावनि: aseQb_mPM
+गोथे_सिन: poxTA_KudM
+गोथै_दोनग्रा_खथा: mireNsz
+गोथै_लाखिग्रा_न: mireNsz
+गोथै_सावग्रा_जायगा: mz pox_loIPM szskAr_tOPM moQPm
+गोथै_सावग्रा_थिलि: mz pox_loIPM szskAr_tOPM moQPm
+गोथै_सावग्रा_न: mz pox_loIPM szskAr_tOPM moQPm
+गोथै_सावग्रा_सालि: mz pox_loIPM szskAr_tOPM moQPm
+गोथै_सावनाय: poxloIPM
+गोथैसावनाय: poxloIPM
+गोदै_बिबुंथि: wAroN
+गोनांथि_गैयि_खरसा_खालामनाय: kAheNb_cAdiQ areMbd_tOb_cAdiQ
+गोबां_बोसोरनि_बिफां: mtM_kuIn_hOb
+गोबांद्राय: heNb cAQ_wAQb
+गोबारै_मिनिनाय: KoNjAU_TAdun_noCp
+गोबाव: TeQlb TeQTrb
+गोब्रा_बिबुंथि: Pxtb_wAQAQ
+गोमोदै: nAI
+गोमोनाय: qCpgi_maoQ cAMmnbgi_maoQ tOPM_Kzdbgi_maoQ
+गोमोहाबनाय: qCpgi_maoQ cAMmnbgi_maoQ tOPM_Kzdbgi_maoQ
+गोरनाय: Tgeb
+गोरसावनाय: Tgeb
+गोरा: cexsiNnb
+गोरा_गोसो: nuQsi_hYtb nuQsi_hYtb minuQsi_lYtb minuQsi_yAUdb TmoI_kNb minuQsi_Kzdb TmoI_pANdb tMTib sATib
+गोराथि: cexsiNnb
+गोरान_बेराम: hCcAQ_cFsiLlCp_lAIn
+गोरिब: lAIrb aton-atA seL_pAIb
+गोरों_नङि: hY-siQb_wAxp
+गोरों_मानसि: lYbACmcA_tAb_mi hOn-loNcx_Kzb_mi hOn_loNcx_Kzb_mi cxn-loNcx_Kzb_mi cxn-loNcx_Kzb_mi
+गोरोनथि_सिन: arANb_KudM
+गोरोन्थि: mnuQcNdb mKA_poNdb
+गोरोन्थि_सिन: arANb_KudM
+गोरोबज्लायनाय: TuQnb tiNnb puNsiNb
+गोरोबथा: yAnb_wAPM yAnce_Ib cuCti yAsiNnb yAnb
+गोरोबथाय: cuQsiNnb puNsiNnb amxt_aoIb yAnb
+गोरोबथाय_गैयि: leQmANndb ToQ-mANndb mpA_cAndb
+गोरोबथि: mox_tiNnb mox_mANnb wAKL_mANnb puCceL_tiNnb puCceL_mANnb cuQsiNnb puNsiNnb amxt_aoIb yAnb yAsiNnb yAnb
+गोरोबथि_गैयि: apNb KurO_TAQb KurO_ceNb leQmANndb ToQ-mANndb mpA_cAndb
+गोरोबनाय: mox_tiNnb mox_mANnb wAKL_mANnb puCceL_tiNnb puCceL_mANnb yAsiNnb yAnb
+गोरोबनाय_गैयि: apNb KurO_TAQb KurO_ceNb leQmANndb ToQ-mANndb mpA_cAndb
+गोरोबफिननाय: TuQnb tiNnb puNsiNb
+गोरोबलायनाय: TuQnb tiNnb puNsiNb
+गोरोबि_अमजिमा: tumAsudb_msiQ
+गोर्लै_दालाय: UsA_mcA
+गोर्लै_बिलाय: myoN yeNniQ
+गोलाउ_गारां_हांखो: asAQb_KoNToC
+गोलाउ_हां: sor_asAQb sw_r_asAQb
+गोलेर: guMBir
+गोलैलांनाय: mrAI_cAITb mAQtACp lYKA_tAb hNTb
+गोसो: wAKL aniQb
+गोसो-थोनाय: nuQsib
+गोसो_गुवार: TOjAL_hYb minuQsi_cAUb
+गोसो_जानाय: KzniQb
+गोसो_थोलायनाय: nuQsi-nuqoN pAMmu_nuQsi
+गोसोखांथि: niQsiQb kAUdb
+गोसोखांनाय: niQsiQb kAUdb
+गोसोनि_साननाय: puCniQ_czbgi_mtO puCniQ_luFpgi_maoQ
+गोसोबादि: mniQ_tOb_mtO pztO_tOb_mtO
+गोसोम_जाथा: PirAN_amub
+गोसोम_जानदि: PirAN_amub
+गोसोम_जोमै: amub_lYciNgi_mpY
+गोसोम_दागो: mrAL_sijiNb mrAL_TzjiNb mrAL_pisiNb
+गोसोम_निसान: PirAN_amub
+गोसोम_फिरफिला: PirAN_amub
+गोसोयारि_गोहो: nuQgi_TOnA
+गोसोयारि_सक्ति: nuQgi_TOnA
+गोसोयाव_फैनाय: niQsiQb kAUdb
+गोहो: pAQgL pAQgN sCti mpAQgL_kNb pAQgL_kNb TOnA-liQjeL_lYb
+गोहो-बोलो: mpAQgL_kNb pAQgL_kNb TOnA-liQjeL_lYb
+गौतम_बुध्द: gOtM_budD_
+ग्रह: gr_h
+ग्रहसा: apiCp_gr_h Upgr_h
+घन_वाद्य: tANTA_pinb_poxsC
+घुंगरि: KoQji
+घुंगुरु: KoQji
+घुलानि: IrY IhN IhL
+घोरियाल: guMBir
+चरस: sUNgi_KAU
+चाटनि: amexp amboL amboN
+चेतना: wAKN_KNb_qMbgi_lOsiQ
+चोखाट: cuTeC_mri_pAIb_Pr_eM
+छेनी: pAIj
+जग्यतागैयि: mpAQgL_soNb pAQgL_soNb soNb_ qMdb
+जथाइ_खौरां_हांखो: tFsiNnb_myeC
+जथाइ_हांखो: tFsiNnb_myeC
+जमफुरि: noroC KMnuQ
+जयन्ती: mpoC_numixki_TOrM jyNti
+जर_जगद: tAIbzpAN mAleM
+जरागैयि_अनजिमा: tumAsudb_msiQ
+जरायु_गोनां_जुनार: miroLlg_poCp_jib grBdgi_poCp_jib
+जांगिया: KuCU_mTC_PAUb_sexp_PijoN
+जांलाब_गास्ला: gAUN
+जाइख्लं: cuMTAQ cumiTAQ
+जाखांबोनाय: cAUKxp hOgxp
+जागायजेननाय: hOdoCpgi_TOrM
+जागायनाय: hOdoCpgi_TOrM ahOb ahANb
+जाग्रा_आदार_फानग्रा: ceQ-hwAI_yoNb hwAI-ceQwAI_yoNb
+जाग्रा_मुवा: cAnb_poxlM acA-_aTC acA_aTC
+जाङिया: KuCU_mTC_PAUb_sexp_PijoN
+जाजायि_मुवा: cAb_yAdb_pox
+जाथा: PirAL PirAN
+जाथावना_नङि_मुवा: cAb_yAdb_pox
+जाथोसे_सिनालाइनि_बेगर: ajwAIN
+जानदि: PirAL PirAN
+जानाय_मूवा: cAnb_poxlM acA-_aTC acA_aTC
+जाफुङि: mAITib pob mAI_pACtb
+जामबाथि: apzb_mtO
+जामानद: jAmiN
+जामिन: jAmiN
+जाम्बा: apzb_mi lOsiQ_yAUdb_mi
+जालाइ: sOjiNbgi_TbC
+जाहार: Umz boN jzgL
+जाहारबारि: Umz boN jzgL
+जि: Pijex PijoL PijoN Pi
+जिंक: jiqC_ dostA
+जिउ: TwAI yAIbi yAIbi-TwAI TwAI_ceClA pr_AN jib aAtm_A
+जिउगैयि_संसार: tAIbzpAN mAleM
+जिउगोनां: TwAI_pANb_jib ahiQb_jib
+जिउमा: TwAI yAIbi yAIbi-TwAI TwAI_ceClA pr_AN jib aAtm_A
+जिउवारि: TwAI_pANb_jib ahiQb_jib
+जिदाइन: trAnipAL trAnipAN
+जिनज्रि_कबस: yoxhl_iQ_koLhOgi_hCkn-Purix
+जिबख्रि: seL
+जिबि: TwAI_pANb_jib ahiQb_jib
+जिरायथनाय_सम: poxTAb_mtM ahAQb_mtM hAPTAb_mtM
+जिरायनाय_सम: poxTAb_mtM ahAQb_mtM hAPTAb_mtM
+जिरायफिनहोनाय: amuC_hNn_leQsiNb
+जिरायहोफिननाय: amuC_hNn_leQsiNb
+जिला: jilA
+जिल्ला: jilA
+जिवसायारि_बेराम: hugi_lAIcx_ceNb_lAInA
+जिशु: jisu jisu_Kr_AIst_
+जिशु_क्रिस्ट: jisu jisu_Kr_AIst_
+जिशु_ख्रिस्ट: jisu jisu_Kr_AIst_
+जिसु: jisu jisu_Kr_AIst_
+जिसु_क्रिस्ट: jisu jisu_Kr_AIst_
+जिसु_ख्रिस्ट: jisu jisu_Kr_AIst_
+जुग_जोबनाय: pr_lI yug_loIb
+जुगामि_गाब: koCtb_mcu acexp_mcu
+जुथि_गैयि_बिबुंथि: Pxtb_wAQAQ
+जुदा_मानसि: lMlANb mitoF sCKzdb
+जुनाद_फिसा: nOrib_sA_mcA
+जुनार_फिसा: nOrib_sA_mcA
+जुनारनि_फिसा: nOrib_sA_mcA
+जुनारनि_मोदोम_बेजे: hCcAQgi_siQli-nAUri
+जुरिनाय: hOdoCpgi_TOrM ahOb ahANb
+जुलि_रासि: miTuN_rAsi miTuN
+जुवा_गेलेग्रा_जायगा: jw_Ar_sANnPM
+जुवानि_आद्दा: jw_Ar_sANnPM
+जे: lAQ
+जेथो: kAleN kAleN_TA
+जेद: kAleN kAleN_TA
+जेननाय: mAITib pob mAI_pACtb
+जेरबा_जानजि: yAQ hCcAQ_mU
+जेरबा_जान्जि: yAQ hCcAQ_mU
+जैन_थान: jYNgi_lAIsz
+जैन_थानसालि: jYNgi_lAIsz
+जैन_मन्दिर: jYNgi_lAIsz
+जैन_सिबिसालि: jYNgi_lAIsz
+जो_आथोन: nupigi_PinuQ nupigi_hCcAQ_ToQ
+जो_गुमागदल: kOjeQ
+जो_गुमागयम: kOjeQ
+जोंख्लाबनाय: mrz
+जोंलारि: TwANmicAC
+जोनोम_कुन्दलि: kuTigi
+जोनोम_रासि: rAsi
+जोनोम_लाइसि: kuTigi
+जोनोम_सम: poCpgi_puQPM poCpgi_mtM
+जोनोम_समाय: poCpgi_puQPM poCpgi_mtM
+जोनोम_सान_फोर्बो: mpoC_numixki_TOrM jyNti
+जोनोम_सोरखि: kuTigi
+जोनोम_होग्रा_इन्द्रिय: PinuQ hCcAQToQ
+जोनोम_होग्रा_न: asib_TMPM_sz
+जोबथा_सिन: poxTA_KudM cYKY
+जोबथा_सिमा: qMKY pNKY
+जोबथाय: loIsiNb loIb
+जोबथि: loIsiNb loIb loIsiNb aroIb poloI
+जोबथि_सिमा: qMKY pNKY
+जोबनाय: mrAI_cAITb mAQtACp lYKA_tAb hNTb loIsiNb loIb loIsiNb aroIb poloI
+जोबलांनाय: mrAI_cAITb mAQtACp lYKA_tAb hNTb
+जोबस्रांनाय: mrAI_cAITb mAQtACp lYKA_tAb hNTb
+जोबस्रांलांनाय: mrAI_cAITb mAQtACp lYKA_tAb hNTb
+जोमनाय_जि: INnnb_Pi crY-nMKAQ
+जोमनाय_सि: INnnb_Pi crY-nMKAQ
+जोमनाय_हि: INnnb_Pi crY-nMKAQ
+जोमै_दाखा: amub_lYciNgi_mpY
+जोरग्रा_गाब: koCtb_mcu acexp_mcu
+जौसां: PMbAC kAQTC pl_et-Porm_ st_eJ
+जौसिन_बाहागो: awAQb_sruC awAQb_mPM
+ज्ञान: lOsiQ gy_AN
+झालाइ: sOjiNbgi_TbC
+टाइप-राइटार: nMnb-KuxlAI tAIF-rAItr
+टाइप_राइटार: nMnb-KuxlAI tAIF-rAItr
+टिन: tiN
+टेंकि: teQki
+डायबेतिस: dAIbetis IsiQ_puCcx
+तत_वाद्य: tArA_tiQb_yNtr_
+तत्व: mcAC poxcz
+तरजनि: KudoMbi
+तानपुरा: tANpurA
+तुला_रासि: tulA_rAsi tulA
+थगायनाय_फोरोंथाय: lOnM_tOnbgi_hYsiQlb_maoQ-mtO
+थद_गैयि_जानाय: Kzb_qMdbgi_PibM
+थद_गैयै_जानाय: Kzb_qMdbgi_PibM
+थन्थ्रनाय: suFnciN mku-mkub msuD-msuFp
+थफा: mriC IsiQ-mriC IriC
+थफि: tupi_aPNb
+थफिना: niQjoN niQjoN niQ niQdu
+थब-थब: tF-tF_tAbgi_mKoL
+थब_थब: tF-tF_tAbgi_mKoL
+थर_गैयि_जानाय: Kzb_qMdbgi_PibM Kzb_qMdbgi_PibM
+थरथिं: mriC IsiQ-mriC IriC
+थरमनाय: suFnciN mku-mkub msuD-msuFp
+थाइजा: TObAQ BArb_
+थाइमद': niM
+थाखथियारि_जानाय: mke_seb
+थाखा: lupA_myeC
+थाखा_फैसा: seL seN
+थाखो: TAC
+थाखोगोनां_जग्रा: gYlri
+थागिरि: KuNjA
+थाग्रा: KuNjA
+थात: PisAkoN koN IyoQ yoQKM
+थातसाल: PisAkoN koN IyoQ yoQKM
+थाथि: leQb_qMdb
+थाद_सिन: poxTA_KudM
+थादनाय_सिन: poxTA_KudM
+थान: lAIsz mNdir kiyoQ
+थानफुरा: tANpurA
+थानसालि: lAIsz mNdir kiyoQ
+थानाय: uUsA Ugi_msA
+थान्दै: mAQjOnn_pAUpub wAmAQ_yANb_mi
+थाप_वाद्य: Kuxn_yYb_yNtr_ ayY_yNtr_
+थाफलि: niQjoN niQjoN niQ niQdu
+थाफ्लि: niQjoN niQjoN niQ niQdu
+थाबथेनाय: Punb PuNjiNb pNb
+थामथि_फहर: nuQTiL nuQTiN
+थामथि_मुगा: nuQTiL nuQTiN
+थामथिम_जानाय: mke_seb
+थामफै: hyiQ
+थामफै_दांग्रा: hyiQ
+थार: PisAkoN koN IyoQ yoQKM
+थार_नङि: seQb-seQdbgi_maoQ
+थार_सिन: acuMb_KudM
+थारथि: IceL IceN KoQcx
+थारा: mU
+थाला: wAIKu mKA_Tzb_sruC
+थालु: qO
+थालो: qO mKA_Tzb_sruC
+थाव: TAU mreC
+थावख्रि: KuQ
+थासारि: PibM PiBM
+थिं: tiN
+थिंख्लां: mzge
+थिंख्लां_बिफां: mzge_pAMbi mzge
+थिंख्लि: mzge
+थिंख्लि_बिफां: mzge_pAMbi mzge
+थिउरिया_खान्थि: akibgi_maoQ akibn_TNb
+थिकादार: TikAmpu TikAdAr
+थिखा: TikA aeCkA
+थिखादार: TikAmpu TikAdAr
+थिखिनि: ciQdoN ciQdoL mtoN pNdoN toleN
+थिख्लि: ketli
+थिन: tiN
+थिनथ्लां: mzge
+थिनथ्लां_बिफां: mzge_pAMbi mzge
+थिनथ्लि: mzge
+थिनथ्लि_बिफां: mzge_pAMbi mzge
+थियारि_नङि: ceCsiNdb
+थुंगे_सिन: poxTA_KudM cYKY
+थुंगेनाय: loIsiNb aroIb poloI
+थुख्रा: mcex mtx-mtS mccex-akAI mteC-mtA mkuM-mkAI mkuM mkuM-mrAQ
+थुनफावथिनासालि: PMbAC st_ej
+थुनलाइ: sAhity_A
+थुनलायारि_सोरजि: KoriloLgi_Kux-I sAhity_gi_Kux-I
+थुफि: tupi_aPNb
+थुबुर_खानाइ: sM_cbuN sM_cbuL
+थुला: lsiQ sinO
+थुला_रासि: tulA_rAsi tulA
+थेंख्लां: mzge
+थेंख्लां_बिफां: mzge_pAMbi mzge
+थेखा: TikA aeCkA
+थेख्लि: ketli
+थेनथ्लां: mzge
+थेनथ्लांबिफां: mzge_pAMbi mzge
+थै: I IKeQ
+थै_जिबख्रि: Igi_seL
+थै_दान: I_dAN_tOb
+थै_लानाय: I_lOb
+थै_होनाय: I_dAN_tOb
+थैसाम: I IKeQ
+थोबफा: mriC
+दंफां_खैला: mYtAN mYtAL
+दंफां_फुथुला: hzlAI hzgi_lAIPdibi
+दंफांनि_खैला: mYtAN mYtAL
+दंफांनि_फुथुला_गेलेनाय: hzlAIgi_jgoI hzgi_lAIPdibigi_jgoI lAIPdibi_jgoI
+दंफांनि_मोदोम_बेजे: pAMbigi_msiQ mnA-msiQgi_msiQ
+दद्र_अबस्था: mrA_yAUbgi_maoQ
+दद्र_थासारि: mrA_yAUbgi_maoQ
+दर: ToQ snToQ hojQ
+दर_दाम: mNtiCnb tAToC-tAsiN tAToC_tAsiN yeQToC-yeQsiN
+दरखास्थ: wAkx pitisN
+दरजा: ToQ snToQ hojQ
+दरसि-सि: aciCp_mPM lAQdb_mPM
+दलं: ToQ
+दलां: UroCToQ Uku
+दस: cYrAC_Pzb_yAb_TOaoQ cYrAC_pib_yAb_TbC mrAL mrAN
+दस्था: jiqC_ dostA
+दस्रा: lMlANb mitoF sCKzdb
+दांखब: wAreM wAjAU
+दाइनजिद: mriPutruC
+दाउखौवौ: kokiL kokiN
+दाउसामोख्रेब: kzPAL_IkAITAbi
+दाग_गोनां: mrAL_lYrb_mi arANb_tOrurb_mi
+दागो: mrAL_sijiNb mrAL_TzjiNb mrAL_pisiNb
+दागो_गोनां: mrAL_lYrb_mi arANb_tOrurb_mi
+दाजाबगासै: tiNsNnb_PL puNsiNnb_PL
+दाजाबथाय: tiNsiNb puNsiNb hAFciNb
+दाजाबनाय: tiNsiNb puNsiNb hAFciNb
+दाथायगिरि: Kux-sA_hYb_mi
+दानखथाय: KAIdoCp lOToCp kAIToCp
+दानखनाय: KAIdoCp lOToCp kAIToCp
+दानखोमसि_हर: amMb_numidAQ
+दानसोरां: purnimA TAniL TAniN
+दानसोरां_हर: TAbLPb_numidAQ
+दानस्रां_हर: TAbLPb_numidAQ
+दानाय: lYseMb seMb sAb seM-sAb seM_sAb
+दानायनि_आइजें: PisAnb_poxlM PisAnb_KulAI PisAnb_pAMbY
+दाम-दर: mNtiCnb tAToC-tAsiN tAToC_tAsiN yeQToC-yeQsiN
+दामगोसा_धातु: mmL_yAMb_koNcAC mmL_wAQb_koNcAC mmL_tAQb_koNcAC mmN_tAQb_koNcAC mmN_yAMb_koNcAC mmN_wAQb_koNcA mmN_tAQb_koNcAC
+दामग्रा_आइजें: IsY-noQmAIgi_yNtr_ KoQnb_yNtr_ IsYgi_yNtr_
+दामग्रा_जोनथोर: IsY-noQmAIgi_yNtr_ KoQnb_yNtr_ IsYgi_yNtr_
+दामदर: mNtiCnb tAToC-tAsiN tAToC_tAsiN yeQToC-yeQsiN
+दाय: cYrAC_Pzb_yAb_TOaoQ cYrAC_pib_yAb_TbC mrAL mrAN mnuQcNdb mKA_poNdb mrAL_sijiNb mrAL_TzjiNb mrAL_pisiNb Pxtb
+दाय-दस: Pxtb
+दाय-फोदो: Pxtb
+दाय_गोनां: mrAL_lYrb_mi arANb_tOrurb_mi
+दाय_हमनाय: wAkx_TAQgxp
+दायनिगिरि: mrAL_lYrb_mi arANb_tOrurb_mi
+दायरिया: KoQ_hAMTb_lAInA KoQ_hAMTb
+दायित्य: dAI dAI_tOb mAIroQ
+दारि: poxTA_KudM cYKY
+दालां: ToQ UroCToQ Uku
+दालाइ: uUsA Ugi_msA
+दालाय_गोर्लै: UsA_mcA
+दालायसा: UsA_mcA
+दावदाब: lYrz cuLhA
+दावफोरनि_गाबनाय: KoQbgi_mKoL
+दावबायनो_मोजांमोनग्रा: lMkoIb_pAMjbgi_maoQ
+दावराव_दावसि: wAToC wAToC-lANToC crAQ-KoIrAQnb miniLKoN
+दावसामोख्रेब: kzPAL_IkAITAbi
+दावहा_गेदेर: lANjAU
+दावहा_जाथा: lANgi_PirAN
+दावहा_जानदि: lANgi_PirAN
+दावहा_थाथनाय_फिरफिला: lAN_leFnb_PirAN
+दावहा_थादनाय_फिरफिला: lAN_leFnb_PirAN
+दावहा_दोनथनाय_फिरफिला: lAN_leFnb_PirAN
+दावहा_निसान: lANgi_PirAN
+दावहा_फिरफिला: lANgi_PirAN
+दावहानि_फिरफिला: lANgi_PirAN
+दावहायाव_दामग्रा: lANd_KoQnb_KulAI
+दाहा: awAbn_TLlb KudoQTibn_TLlb nuQqAItbn_TLlb
+दाहाय: aejmA
+दाहार: IceL IsiQ-IceL IceL
+दिंखि_जिबौ: lAIreN lAIreL
+दिगदारि: kLlC-mihO_PAUdb_wAKL kLlC_mihO_PAUdb_wAKL kLlC-mihO_PAUdb_wAKN kLlC_mihO_PAUdb_wAKN kLlC-mihO_lYtb_wAKL kLlC_mihO_lYtb_wAKL kLlC-mihO_lYtb_wAKN kLlC-mihO_lYtb_wAKN
+दिदुं: TOri
+दिन: mtM kAl puQjA puQPM tANjA
+दिनथि_सिन: kotesNgi_KudM
+दिनथिग्रा_आसि: KudoMbi
+दिन्थि_सिन: kotesNgi_KudM
+दिरुं: TOri
+दिहुनथाय: puToCp
+दुखिया: lAIrb aton-atA seL_pAIb
+दुखु: awAbn_TLlb KudoQTibn_TLlb nuQqAItbn_TLlb
+दुखु_दाहा: awAbn_TLlb KudoQTibn_TLlb nuQqAItbn_TLlb
+दुखु_मोननाय: asoC-apN soCp soC-pNb
+दुगानाय: aPAU_sAb mi_Usixtb sC_tAKxp PutAni_tOb
+दुगानाय_गैयि: acAUrM_kAdb nApL_kAdb nApL_tOdb cAUToCtb
+दुगानाय_गैयै: acAUrM_kAdb nApL_kAdb nApL_tOdb cAUToCtb
+दुथां_फावखुंगुर: nupA_Pxtb miPxt
+दुथां_फावखुंग्रि: nupi_Pxtbi miPxt
+दुथां_मानसि: Pxtb_mi mbuC_Pxtb_mi lMcx-sAjx_Pjdb_mi lMcx_sAjx_Pjdb_mi
+दुथांथि: lMcx_nAIdb lMcx_kAMb lMcx_yAUdb Pxtb_mi Pxtb_miaoI puCceN_piCp_mi puCceL_piCp_mi nuQsihYtb_mi
+दुदुं: TOri
+दुनाय: wAreM wAjAU
+दुनाय_गैयि: acAUrM_kAdb nApL_kAdb nApL_tOdb cAUToCtb
+दुमब्रु_खावसा: hYbo_Q_pAMbi hYboQ
+दुरुं: TOri
+दुवार: ToQ snToQ hojQ
+दुस्थ_मानसि: Pxtb_mi mbuC_Pxtb_mi lMcx-sAjx_Pjdb_mi lMcx_sAjx_Pjdb_mi
+देंखोगिरि_दाउ: VIsY_sCp_UceC
+देन्था: mU
+देबनागिरि: debnAgri_myeC
+देबनागिरि_हांखो: debnAgri_myeC
+देरहासाद_खाम्फा: niQsiQyuMbi
+देरहासाद_खुन्थिया: niQsiQyuMbi
+देरहासाद_स्तम्भ: niQsiQyuMbi
+देरहासार_खाम्फा: niQsiQyuMbi
+देरहासार_खुनथिया: niQsiQyuMbi
+देरहासार_स्तम्भ: niQsiQyuMbi
+देलायनाय: mke_seb
+देहायारि_बाहागो: hCcAQgi_sruC
+दै-मानसि: IsiQmi
+दै_खाम्फा: IsiQyuMbi
+दै_थफा: IsiQ-mriC IriC
+दै_थरथिं: IsiQ-mriC IriC
+दै_दाहार: IsiQ-IceL IceL
+दै_दैखांग्रा_जोन्थोर: IsiQ_ciQKxnb_KuxlAI pmp_
+दै_फोनांजाब: IsiQ_KoQ IrM_KoQ
+दै_लामा: IsiQ_lMbi
+दै_सुजाब: IsiQ_KoQ IrM_KoQ
+दै_स्तम्भ: IsiQyuMbi
+दैखफजों_खारग्रा_दिङा: st_iMbox
+दैखफजों_खारग्रा_नाव: st_iMbox
+दैदेनगिरि: luciQb luciQ_pureL
+दैदेनग्रा: luciQb
+दैदेननाय: liciQ_mKAd miyeQ_mKAd
+दैनि_खेला: IsiQ_cAIsiNnbi
+दैनि_गेलेनाय: IsiQ_cAIsiNnbi
+दैनि_जन्थ्र: IsiQ_ciQKxnb_KuxlAI pmp_
+दैनि_जोन्थोर: IsiQ_ciQKxnb_KuxlAI pmp_
+दैनि_दाउ: IsiQd_tAb_UceC IsiQd_lYb_UceC
+दैनि_मानसि: IsiQmi
+दैफाखन: IrY IhN IhL
+दैफायखन: IrY IhN IhL
+दैफुंखा: IsiQ_cAIbi
+दैलाव_मुवा: mhilAQb_pox
+दैसुजाब: IsiQ_KoQ IrM_KoQ
+दो_दोखोला_बानायग्रा: koNhYb
+दो_दोख्ला_बानायग्रा: koNhYb
+दोगोन_खालामग्रा_बिदुं: cAb_tuMnb_mhi
+दोगोन_जायि: cAb_tuMdb hCcAQ_soChNniQqAI_aoIb_pox hCcAQ_mAQniQI_aoIb_pox
+दोनथनाय_सम: poxTAb_mtM ahAQb_mtM hAPTAb_mtM
+दोनफिननाय: amuC_hNn_leQsiNb
+दोहोरोम: lAIniQ Dr_m lAIniQ-lAIsoN
+द्रायबार: gAri_TOb_mi dr_AIBr
+धनु_रासि: Dnu_rAsi
+धर्म: lAIniQ Dr_m lAIniQ-lAIsoN
+धातु: DAtu koNcAC
+धातुनि_मुर्ति: koNcACki_mitM
+धातुनि_मुसुखा: koNcACki_mitM
+धुमकेतु: TwANmicAC_mTi
+धोन: apuNb_seNPM
+धोनगैयि: lAIrb aton-atA seL_pAIb
+धोरोम: lAIniQ Dr_m lAIniQ-lAIsoN
+धोरोम-खामानि: lAIniQ-lAIsoNgi_TbC-TOrM lAIniQ-lAIsoNgi_TbC_TOrM lAIniQ_lAIsoNgi_TbC-TOrM lAIniQ_lAIsoNgi_TbC_TOrM
+धोरोम_खामानि: lAIniQ-lAIsoNgi_TbC-TOrM lAIniQ-lAIsoNgi_TbC_TOrM lAIniQ_lAIsoNgi_TbC-TOrM lAIniQ_lAIsoNgi_TbC_TOrM
+धोरोम_गायसनगिरि: lAIniQ-lAIsoNbu_hOdoClp_misC liQKxlMb_misC
+धोरोमनि_खामानि: lAIniQ-lAIsoNgi_TbC-TOrM lAIniQ-lAIsoNgi_TbC_TOrM lAIniQ_lAIsoNgi_TbC-TOrM lAIniQ_lAIsoNgi_TbC_TOrM
+धोरोमारि_आसार-खान्थि: hOn-loNcx
+धोरोमारि_आसारखान्थि: hOn-loNcx
+धोरोमारि_खामानि: lAIniQ-lAIsoNgi_TbC-TOrM lAIniQ-lAIsoNgi_TbC_TOrM lAIniQ_lAIsoNgi_TbC-TOrM lAIniQ_lAIsoNgi_TbC_TOrM
+धोरोमारि_हाबा-हुखा: hOn-loNcx
+ध्रुब_हाथरखि: Dr_ub_tArA
+न_खाथियाव_थाग्रा: yuMloNnb_mi yuMTznb_mi
+न_बिगुमा: yuMbureL
+न_बिगोमा: yuMbureL
+न_लाजेननाय: yuM_hoQjiNb
+नंखाय-बाखाय: crAQnb
+नंखाय_रादाब: toCqA yuMPM_yAUdb_pAU
+नंखाय_सिन: arANb_KudM
+नंगुबै_गाब: aseQb_mcu
+नंगुबै_रं: aseQb_mcu
+नंगुबै_सोरजि: msAgi_aoIb_Kux-I
+नंगौ_सिन: acuMb_KudM
+नंबां-जाबां: crAQnb
+नकल: mtO_tMjb mtO_tMb mitO_tMb
+नक्षत्र: TwANmicAC_mpuN TwANmicAC_mpY TwANmicAC_cbuN
+नक्षेत्र: TwANmicAC_mpuN TwANmicAC_mpY TwANmicAC_cbuN
+नखर_दावहा: lYbAC_mnuQgi_lAN
+नखरनि: ImuQ_mnuQ sAgY-nAtY
+नखरारि_दावहा: lYbAC_mnuQgi_lAN
+ननि_गाहाइ: yuMbureL
+ननि_गिरि: yuMbureL
+नरख: noroC KMnuQ
+नरग: noroC KMnuQ
+नलि: pere_mqC
+नवाव_हाबजेननाय: yuM_hoQjiNb
+नसुंसे: yuMloNnb yuMTznb
+नसुंसेयाव_थाग्रा: yuMloNnb_mi yuMTznb_mi
+ना_रासि: min_rAsi
+नांज्लायलायनाय: yeQTinb muCnb
+नांथाबनाय: puCniQ_czb_maoQ TwAI_yAUb_maoQ yAMn_tOniQbgi
+नांथेनाय: Punb PuNjiNb pNb
+नांलाय-नांसि: yeQTinb muCnb
+नांलायनाय: yeQTinb muCnb
+नाइजाबसालि: PMbAC st_ej
+नाख्रेबनाय: lANdAb
+नागिरग्रा: TijiN-huMjiNb_miaoI
+नागिरसंनाय: Tib
+नाङा-फाङा: crAQnb
+नाङा-फाङा_खरसा_खालामनाय: kAheNb_cAdiQ areMbd_tOb_cAdiQ
+नाम: miQ koloI koloI_miQleN miQcx
+नायगिदिंनाय: qAC-seNb
+नायगिरि: BAboC mixyeQ_tArib(mi)
+नायग्रा: BAboC mixyeQ_tArib(mi)
+नायदिंनाय: qAC-seNb
+नायनो_गाज्रि_हिनजाव: sCTibi
+नायनो_गाज्रि_हौवा: msC_Tib_nupA msC_Pjdb_nupA cuQ-PirAN_cAdb_nupA mtO_lYtb_nupA
+नायनो_बानाय: tuCkxcb hzgoIb nuQsidb
+नायनो_मोजां_हिनजाव: sCheNbi niQTibi
+नायबिजिरनाय: TijiNb TijiN-huMjiNb TijiN_huMjiNb
+नायबिजिरसंनाय: TijiNb TijiN-huMjiNb TijiN_huMjiNb
+नायिखा: hiroIN
+नारथानाय: cYqAC
+नारसारि: cAr_seMPM cArA_seMPM
+नार्सारि: cAr_seMPM cArA_seMPM
+नाला: pere_mqC
+निखाउरि: lAIrb aton-atA seL_pAIb
+निखावरि: lAIrb aton-atA seL_pAIb
+निजा_बिनानाव: poCmiNnb_mcNnupi poCmiNnb_mcN poCmiNnb_mce poCmiNnb_mnAUnupi
+निजोम: aciCp_mPM lAQdb_mPM
+निम: niM
+निरासा: hYniQdb aAsA_lYtb apAMb_yAUdb aAsA_yAUdb niQb_kAIb
+निला: higoC higoC_mcu
+निला_गाब: higoC higoC_mcu
+निषेध: aTiQb
+निसा_गोनां_मुवा: myAI-kAb_poxsC
+निसान: PirAL PirAN
+निस्थार_जायगा: aseQb_mPM
+निस्थार_थावनि: aseQb_mPM
+निस्थुर_गोसो: nuQsi_hYtb nuQsi_hYtb minuQsi_lYtb minuQsi_yAUdb TmoI_kNb minuQsi_Kzdb TmoI_pANdb tMTib sATib
+नुजानाय_सोलेरारि_बाहागो: hCcAQgi_mpANToQgi_aoIb_kAyAx
+नुनोमोनि_गोहो_गोनां: lAI sidb_mpu tAIbz_mpu lAIniQTO KoyuM teQbANb_mpu noQdMb ciQqu KoImoM Isor Isw_r BgbAN
+नुनोमोनि_गोहोनि_बिगोमा: lAI sidb_mpu tAIbz_mpu lAIniQTO KoyuM teQbANb_mpu noQdMb ciQqu KoImoM Isor Isw_r BgbAN
+नेग्रा_जायगा: ceC_post
+नेपसुन: neFcuN wruN wruN_gr_h
+नेपसुन_ग्रह: neFcuN wruN wruN_gr_h
+नेम-खान्थि: wAyeL_kAQloN wAyeN_kAQloN aAIN wAyeL_pTAF wAyeN_pTAF wAyeN_kAQloN
+नेम_सिफायनाय: niyM_TugAIb niyM_kAIhNb
+नेमखानथि_गनायनाय: aPb_lMcx_sAjxki_niyM TCsi-KAsi disipl_iN
+नेमखानथि_मानिनाय: aPb_lMcx_sAjxki_niyM TCsi-KAsi disipl_iN
+नेमखान्थि_गनायनाय: aPb_lMcx_sAjxki_niyM TCsi-KAsi disipl_iN
+नेमखान्थि_मानिनाय: aPb_lMcx_sAjxki_niyM TCsi-KAsi disipl_iN
+नेमारि: mTO_Kzb mTO_msC_Kzb
+नेहाद: kuFp yAMn_piCp mixn_Ub_qMdb kuFl-kuFlb_mcex
+नैजिब्रै: kuNmri 24
+नोगोर_खाजोना: kAQgx teks_ mAsuL_Tib
+नोगोर_मासुल: kAQgx teks_ mAsuL_Tib
+नोम्रोथि: puCceN_cAUb puCceL_cAUb minuQsicAUb
+नोरोख: noroC KMnuQ
+नोरोग: noroC KMnuQ
+नोरोमथि: puCceN_cAUb puCceL_cAUb minuQsicAUb
+न्याय: aAIN aAIN_kAQloN
+पन्दित: br_AMhN bAmoN bAmoL
+पपिया_हाथर्खि: TwANmicAC_mTi
+पम्प: IsiQ_ciQKxnb_KuxlAI pmp_
+पहेरा_नेग्रा: ceC_post
+पहेरा_होग्रा: ceC_post
+पारसी_थान: pArsigi_lAIsz
+पारसी_थानसालि: pArsigi_lAIsz
+पारसी_मन्दिर: pArsigi_lAIsz
+पारसी_सिबिसालि: pArsigi_lAIsz
+पिचकारि: pickAri
+पिट्टनि_दै: msiQKA
+पियन: vvpost_meN
+पिस्थल: pisto_L noQmY_mcA
+पुराण: purAN
+पुरातत्व: aArkiyoloji
+पुरान: purAN
+पुर्निमा: purnimA TAniL TAniN
+पुस: wACciQ wACciQ_TA
+प्रटप्लाजम: pr_otopl_Ast_
+प्लाजमा: pl_AjmA
+प्लुट: pl_uto
+प्लुटु: pl_uto
+प्लेग_बेराम: pl_eg
+फंफ्ला_बाहागो: Ukr_oQ ahob_mKuN ahob_mKuL
+फंबाइ: mseNnupA mseN mbAIIbuQqo mbAIIbuqo mbAI mtYIbuQqo mtYIbuqo mtY mnAUnupA mbuQ mOpw_AnupA mdu_niQTO mOpw_A mnAU mnAUnupA
+फंबाय: mnAU_nupA mOpw_A
+फख्रि: IkoN puKr_i puKr_i IkoN puKr_i_mcA IkoN_mcA
+फजफिननाय: amuC_hNn_leQsiNb
+फरदा: prdA yuKL mAIKL nAKN yuKN mAIKN nAKL
+फरायग्रा_खथा: lAIriC_tOPM lAIriC_pAPM
+फरायसा_खुलि: sAtr_siQgi_lYpM sosteL
+फरिमान: cAQ
+फलंनाय: mKuN
+फांथेग्रा_जि: prdA yuKL mAIKL nAKN yuKN mAIKN nAKL
+फाखन: IrY IhN IhL
+फाग्ला_सैमा: aqAUb_huI peQ_coIrb_huI mihuN_coIrb_huI
+फादार: PAdr
+फादुरि: PAdr
+फाद्रि: PAdr
+फान: UcilAQ
+फानजारि: poN sArz
+फानज्रि: poN sArz
+फान्था_बोरमामेनदा: yAU_lAb
+फान्थि_बोरमा: hAmeQ_amoM
+फान्थि_बोरमामेनदा: yAU_amoM
+फार_जानाय: qMKY_TugAIb qMKY_heNgiNb
+फारि: PibAN sNjAb
+फालांगि: lLloN-ItiC lLloN_ItiC kArbAr
+फालें: PmuQ
+फाव: Izgix KudM
+फाव_खालामनाय: aeCtiQ
+फाव_दिनथिनाय: aeCtiQ
+फावथाइसालि: PMbAC st_ej
+फावथिनासालि: PMbAC st_ej
+फावथेन: koloM muCcY
+फाहामग्रा: mistr_i
+फाहामथाय: lAIyeQb
+फाहामनाय: lAIyeQb
+फाहामफिनग्रा: mistr_i
+फिथा: PitA
+फिथाइ: UhY
+फिथाइ-सामथाइ: UhY
+फिथाइनि_बिफां-लाइफां: UhY_pANb_pAMbi
+फिनजारि: poN sArz
+फिफा-फिमा: mmA-mpA mmA_mpA pleM-pNTO pleM_pNTO apoCp-apoCpi apoCp_apoCpi
+फिमा-फिफा: mmA-mpA mmA_mpA pleM-pNTO pleM_pNTO apoCp-apoCpi apoCp_apoCpi
+फिरफिला: PirAL PirAN
+फिल्म: Pilm_
+फिसा: kuFp yAMn_piCp mixn_Ub_qMdb
+फिसा-फिसा: kuFl-kuFlb_mcex
+फिसा_बिबु: apiCp_TiboQ-TiriN
+फिसा_बेंखन: ahANb_wAhY-sMbL ahANb_wAhY-sMbN wAhY-sMbL_ahANb wAhY-sMbN_ahANb br_ekex_ahANb ahANb_br_ekex
+फिसाख_गोनां_जुनार: miroLlg_poCp_jib grBdgi_poCp_jib
+फुख्रि: IkoN puKr_i puKr_i IkoN puKr_i_mcA IkoN_mcA
+फुजानि_मुवा: lAIKurMbgi_poxlM pujAgi_pox
+फुजानि_लाइ-लथर: lAIKurMbgi_poxlM pujAgi_pox
+फुजिनाय: IkAI-KuMnb wAQn-TAQgxp Ijx_tOb by_bhAr_tOb acexp_TAjb niQjb
+फुथ-फुथ: mriC
+फुरा_बाहागो: TbC-TOrM_puMnmC TbC-TOrM_KudiQmC hCcAQ_kAyAx_puMnmC hCcAQ_kAyAx_KudiQmC
+फुस-फुस_रायलायनाय: ciboN-ciboN_qAQnb tumiN-tumiN_qAQb tFn-tFnqAQb
+फुहारा: IsiQ_cAIbi
+फेंफा: nrsiQhA
+फेंफोना: koQgoL koQboL koQgoN koQboN
+फेग्रा_मुवा: myAI-kAb_poxsC
+फेदेरना_बुंनाय: cAUToChNb pACToC-cAUToChNb sAQTb
+फेनफोना: koQgoL koQboL koQgoN koQboN
+फेनाय_मुवा: myAI-kAb_poxsC
+फेफार: ce
+फेम्फा: nrsiQhA
+फेम्फोना: koQgoL koQboL koQgoN koQboN
+फेलेंजानाय: mAITib pob mAI_pACtb
+फेहेरना_बुंनाय: cAUToChNb pACToC-cAUToChNb sAQTb
+फैथा: seNdL seNdN cFpL PenAx hwAI_seNdL hwAI_seNdN
+फैसा: seL seN
+फोथाय_खेबस_मानसि: Pxtb_mi mbuC_Pxtb_mi lMcx-sAjx_Pjdb_mi lMcx_sAjx_Pjdb_mi
+फोथायखेबस: nMTAC_tOb_mi TAjb_yAdb_mi TAjniQqAI_aoIdb TAjniqAI_aoIdb_mi
+फोथायजाथावथि: TAjb_yAb_mi TAjniQqAI_aoIb_mi TAjniqAI_aoIb_mi
+फोथायथि: TAjb_yAb_mi TAjniQqAI_aoIb_mi TAjniqAI_aoIb_mi
+फोनांजाब_सिन: hAIPeN hAIPeN_KudM
+फोरबो: kuMmY kumY kuMhY hrAU-kuMmY hrAU_kuMmY hrAU-kumY hrAU_kumY kuMmY-PiyoQ kuMmY_PiyoQ kumY-PiyoQ kumY_PiyoQ kuMmY-PihoQ kuMmY_PihoQ kumY-PihoQ kumY_PihoQ
+फोलानाय_सोलोंथाय: lOnM_tOnbgi_hYsiQlb_maoQ-mtO
+फोलेर: sAgY sAgY-jAx yeC slAI
+फोसाव_बिलाइ: pAUjeL pAUjeN aedBrtAIj
+फोसावजेनगिरि: hOdoClMb_misC liQKxlMb_misC
+फोसावथाइ: pAUjeL pAUjeN aedBrtAIj KzhN-wAroL KzhN-ceroL KzhN-wAroN KzhN-ceroN
+फ्रेम: cuTeC_mri_pAIb_Pr_eM
+बंस: sAgY sAgY-jAx yeC slAI
+बखिलाबायनाय: coIroN coIroL
+बग्रा_जि: PmuQ PM
+बदनाम: miQcx_Tib
+बराद_गाज्रि: lAIbC_Tib
+बरायनाय: aoCp hrAU_trAMn_aoCp
+बसा: guMBir
+बस्तु: pox poxsC pox
+बांद्राय: heNb cAQ_wAQb
+बांनाय: cAUKxp hOgxp
+बांबोनाय: cAUKxp hOgxp
+बांसावनाय: wAreM wAjAU
+बांसावनाय_रादाब: toCqA yuMPM_yAUdb_pAU
+बाइसमुथि: bAsmti bAsmti_ceQ
+बागिनि: kY_amoM
+बाजनाय_बेराम: KoQ_hAMTb_lAInA KoQ_hAMTb
+बात_बेराम: tAQ_ciCp
+बाति: teQgox
+बाथोन: amexp amboL amboN
+बादा: aoNn-tYnb aoNn_tYnb niyM__cuMdb KurO apNb ayexp KudoQ_Tib akAIb aTiQb aTiQb
+बाद्य_जनत्र: IsY-noQmAIgi_yNtr_ KoQnb_yNtr_ IsYgi_yNtr_
+बानायनाय: aoIdb tOsiNnb KuxseM cuMdb aoId-pAdb
+बानायनाय_ग्रहसा: KuxseMgi_syAtlAIx
+बानायनाय_बाथ्रा: heNjiNn_hAIjiNb
+बान्था: mnA-mTuM mnA_mTuM mnA
+बान्दोल: mpuN myoM
+बामोन: br_AMhN bAmoN bAmoL
+बाय-बाहागि: atiTi
+बायजो_इन्द्रिय: mpANgi_aoIb_hCcAQ_kyAx
+बायजोआरि: mpANgi_aoIb_hCcAQ_kyAx
+बायना: koInA_TAb aedBANs
+बार_सुनानै_दामग्रा: ciNkAM_jNtr_ ciNKoQ_jNtr_
+बारगा_बुंनाय: cAUToChNb pACToC-cAUToChNb sAQTb
+बारनाय: qMKY_TugAIb qMKY_heNgiNb
+बारसिननाय: lANdAb
+बाराद्राय: heNb cAQ_wAQb
+बारानदा: mAQgoL mAQgoN BereNdA
+बारायना_बुंनाय: cAUToChNb pACToC-cAUToChNb sAQTb
+बारायनाय: cAUKxp hOgxp
+बारायबोनाय: cAUKxp hOgxp
+बासन_बानायग्रा: koNhYb
+बासमुथि: bAsmti bAsmti_ceQ
+बासिनाय: lOToCpgi_TbC KNdoCpgi_TbC
+बाहाइ: mseNnupA mseN mbAIIbuQqo mbAIIbuqo mbAI mtYIbuQqo mtYIbuqo mtY mnAUnupA mbuQ mOpw_AnupA mdu_niQTO mOpw_A mnAU mnAUnupA
+बाहागि: ImuQ_mnuQ sAgY-nAtY
+बाहागि-खुरमा: ImuQ_mnuQ sAgY-nAtY
+बाहेना: koInA_TAb aedBANs
+बिख्लो: goLbl_edr
+बिगुर: mku
+बिगुरनि_बेराम: UNsAgi_lAInA
+बिङि: sArzgi BAIaoliN
+बिज_सानखान्थि: aeLjbr_A
+बिजगनित: aeLjbr_A
+बिजाउन: mhY
+बिजानुवारि_बेराम: hugi_lAIcx_ceNb_lAInA
+बिजि: yextuM
+बिजिरनाय_गैयि: KNTdb wAKL_TeNb VwAKN_TeNb
+बिजिरनाय_गैयै: KNTdb wAKL_TeNb VwAKN_TeNb
+बिजिरसालि: wAyeLsz wAyeNsz cYrAF korx
+बिजों: pAMbY UpAI KuxlAI
+बिजौ: mtoN mciN mtoN pNdoN toleN
+बिजौ_गन्थं: nAtoN_mKuN
+बिथʼ: mU
+बिथाइ: UhY
+बिदा: myAMb mnAUnupA mbuQ mOpw_A
+बिदा-फंबायनि: ImuQ_mnuQ sAgY-nAtY
+बिदा_गिदिर: myAMb mbuQ
+बिदा_गेदेर: myAMb mbuQ
+बिदिनथि_सिन: kotesNgi_KudM
+बिदिन्थि_सिन: kotesNgi_KudM
+बिदुं: sAb
+बिदेसि_फिथा: keC
+बिन: biN
+बिनानाव: mce mcN mnAU-nupi mtYm mnMm mcNnupi mcN mnAUnupi mcNnupi mcN mnAUnupi mnAU mce mtYm mnMm mcNnupi mcN mnAUnupi mnAU mce mcNnupi mcN mnAUnupi mnAU
+बिनानाव-बाथुल: poCmiNndb_mcNnupi poCmiNndb_mcN poCmiNndb_mce poCmiNndb_mnAUnupi
+बिफं: mnAU_nupA mOpw_A mseNnupA mseN mbAIIbuQqo mbAIIbuqo mbAI mtYIbuQqo mtYIbuqo mtY mnAUnupA mbuQ mOpw_AnupA mdu_niQTO mOpw_A mnAU mnAUnupA
+बिफा-बिमा: mmA-mpA mmA_mpA pleM-pNTO pleM_pNTO apoCp-apoCpi apoCp_apoCpi
+बिफां-लाइफां: asoQb_Umz
+बिफां-लाइफांनि_अंग: pAMbi_sAgxpgi_mcAC
+बिफां-लाइफांनि_बाहागो: pAMbigi_sruC
+बिब: mce
+बिबां: cAQ
+बिबान: dAI dAI_tOb mAIroQ
+बिबार_माला: lY_preQ
+बिबारनि_लो: lY_preQ
+बिबु_फिसा: apiCp_TiboQ-TiriN
+बिमा-फिफा: mmA-mpA mmA_mpA pleM-pNTO pleM_pNTO apoCp-apoCpi apoCp_apoCpi
+बिमा-बिफा: mmA-mpA mmA_mpA pleM-pNTO pleM_pNTO apoCp-apoCpi apoCp_apoCpi
+बिमा_गदाय: poCtbi_mmA
+बिमा_बाथुल: poCtbi_mmA
+बिमोखां: sCtM mAI mAIToQ sC_vv
+बिरक्ति: kLlC-mihO_PAUdb_wAKL kLlC_mihO_PAUdb_wAKL kLlC-mihO_PAUdb_wAKN kLlC_mihO_PAUdb_wAKN kLlC-mihO_lYtb_wAKL kLlC_mihO_lYtb_wAKL kLlC-mihO_lYtb_wAKN kLlC-mihO_lYtb_wAKN
+बिरक्ति_गैयि: akNb_puCniQ_IhuL peNnAIdn_pAMbgi_maoQ
+बिरक्ति_गैयै: akNb_puCniQ_IhuL peNnAIdn_pAMbgi_maoQ
+बिलदिंनि_उखुम: yuMTC sAx
+बिलाइ: UnA mnA yeNniQ
+बिलाइथि_फिथा: keC
+बिलाथलाथा: pri_Tibi mAleM tAIbz tAIbzpAN
+बिलाय_गोर्लै: myoN yeNniQ
+बिलोगो: mruF mpijA mmANnb
+बिस_गैयि_जिबौ: mhu_ceNdb_liL
+बिस_हाथाइ: hu_ceNb_yA
+बिसगोनां_जिबौ: mhuceNb_liN mhuceNb_liL mhuceNb_tAQj
+बिसगोनां_हाथाइ: hu_ceNb_yA
+बिसना_सादर: PmuQ PM
+बिसना_सादोर: PmuQ PM
+बिसारसालि: wAyeLsz wAyeNsz cYrAF korx
+बिसिगि: mruFki_mri
+बिसुखे: mruF mpijA mmANnb mruFki_mri
+बिसुगे: mruFki_mri
+बिस्किट: biskux beskux
+बिस्कुट: biskux beskux
+बिस्सासि: TAjb_yAb_mi TAjniQqAI_aoIb_mi TAjniqAI_aoIb_mi
+बुंखोमानाय: ciboN-ciboN_qAQnb tumiN-tumiN_qAQb tFn-tFnqAQb
+बुथाम: kudAM hYru
+बुदुं-बादां: ciboN-ciboN_qAQnb tumiN-tumiN_qAQb tFn-tFnqAQb
+बुध: mrkri buD buD_gr_h
+बुध_ग्रह: mrkri buD buD_gr_h
+बुध्द: gOtM_budD_
+बुध्द_मुर्ति: budDgi_mitM
+बुध्द_मुसुखा: budDgi_mitM
+बुध्ददेब: gOtM_budD_
+बुन्दा: atiTi
+बुन्दि_एनजर: Uci_amoM
+बुन्दि_खांसियाल: lMhuI_amoM
+बुन्दि_मोसा: kY_amoM
+बुन्दि_सैमा: huI_amoM
+बुरि: hnubi ahL_aoIrbi_nupi hnumAlY_kArbi_nupi"
+बुरै: hnubi ahL_aoIrbi_nupi hnumAlY_kArbi_nupi"
+बुहुम: pri_Tibi mAleM tAIbz tAIbzpAN
+बृत्ति: sk_olArsiF br_iti
+बृष_रासि: br_is_rAsi
+बृसिक_रासि: br_isciC_rAsi
+बृहस्पति: jupitr br_ihspti br_ihspti_gr_h
+बृहस्पति_ग्रह: jupitr br_ihspti br_ihspti_gr_h
+बेंखन_फिसा: ahANb_wAhY-sMbL ahANb_wAhY-sMbN wAhY-sMbL_ahANb wAhY-sMbN_ahANb br_ekex_ahANb ahANb_br_ekex
+बेंखन_सिन: wAhY-sMbL wAhY-sMbN wAhY-sMbL_KudM wAhY-sMbL_KudM br_ekex br_ekexki_KudM
+बेंगिरि: pNqACp_mi qACseLlib_mi
+बेखेवजेननाय: hOdoCpgi_TOrM
+बेखेवथिनाय: sNdoCn_tACp sNdoCn_hAIb
+बेखेवनाय: mAIKuM_hAQdoCp hOdoCpgi_TOrM sNdoCn_tACp sNdoCn_hAIb
+बेखेवफोरनाय: sNdoCn_tACp sNdoCn_hAIb
+बेखेवसारनाय: sNdoCn_tACp sNdoCn_hAIb
+बेगर: hwAI-ceQwAI hwAI_ceQwAI mru-mrAQ mru_mrAQ
+बेगें: sru
+बेजरा_अनजिमा: tumAsudb_msiQ
+बेजि: yextuM
+बेदर_जाग्रा_जुनार: sAhiQ_cAb_jib sA-qA_cAb_jib
+बेधोरोम: Drm_yAUdb_TbC pAFki_TbC Pxtb_TbC
+बेनदों_सिन: anisub_wAhY-sMbL anisub_wAhY-sMbN wAhY-sMbL_anisub wAhY-sMbN_anisub br_ekex_anisub anisub_br_ekex
+बेन्दों_सिन: anisub_wAhY-sMbL anisub_wAhY-sMbN wAhY-sMbL_anisub wAhY-sMbN_anisub br_ekex_anisub anisub_br_ekex
+बेफार: lLloN-ItiC lLloN_ItiC kArbAr
+बेफार-बानिज्य: lLloN-ItiC lLloN_ItiC kArbAr
+बेरे_बासा: mhuM KoI_mhuM KoI_mkoN
+बेरे_बाहा: mhuM KoI_mhuM KoI_mkoN
+बेरेखा: aTiQb apNb mAIyoCt_lYb KurO apNb ayexp KudoQ_Tib akAIb aTiQb
+बेरेखा-बेरेखा_गैलायि: yeQTinb_lYtb
+बेरेखा_गोसो: aoNn-tYnb aoNn_tYnb niyM__cuMdb yeCnb yAQTinb tATinb nuQsindb
+बेरेखा_जालायहो: mt_tiNnhNdb
+बेरेखाथि: mAIyoCt_lYb_kAQbu aopojisN
+बेसेनगोनां_धातु: mmL_yAMb_koNcAC mmL_wAQb_koNcAC mmL_tAQb_koNcAC mmN_tAQb_koNcAC mmN_yAMb_koNcAC mmN_wAQb_koNcA mmN_tAQb_koNcAC
+बेसेनगोसा_धातु: mmL_yAMb_koNcAC mmL_wAQb_koNcAC mmL_tAQb_koNcAC mmN_tAQb_koNcAC mmN_yAMb_koNcAC mmN_wAQb_koNcA mmN_tAQb_koNcAC
+बेस्थ_थानाय: TbC_ciNb
+बैथा: nO Kumu
+बैरागि: lMboIb
+बैसाख: sjibu sjibu_TA
+बैसाग: sjibu sjibu_TA
+बैसो_जानाय_आयजो: hnubi ahL_aoIrbi_nupi hnumAlY_kArbi_nupi"
+बैसोमाथा: pri_Tibi mAleM tAIbz tAIbzpAN
+बोखाव: mt_tiNnhNdb
+बोखाव_खोन्दो: mcex-mkAI
+बोरमा: hAmeQ_lAb apzb_mi lOsiQ_yAUdb_mi
+बोरमा_फान्थि: hAmeQ_amoM
+बोरमामेनदा_फान्था: yAU_lAb
+बोरमामेनदा_फान्थि: yAU_amoM
+बोरला: liruQ
+बोरला_गावग्रा: teNpAIb
+बोरला_रासि: Dnu_rAsi
+बोरसि: KoIjY
+बोराइ: ahL_aoIrb hnub chi_lYsiLlb
+बोराइ_मानसि: ahL_aoIrb hnub chi_lYsiLlb
+बोरि: kzPAL kzPAN lYkz
+बोरि_हा: kzPAL kzPAN lYkz
+बोरोन: mcu
+बोलो: pAQgL pAQgN sCti mpAQgL_kNb pAQgL_kNb TOnA-liQjeL_lYb
+बोलों: Umz boN jzgL
+बोसोनगिरि: sekr_etri
+बोसोनहोग्रा: sekr_etri
+बौध्द_थान: bOdDgi_lAIsz pegodA
+बौध्द_थानसालि: bOdDgi_lAIsz pegodA
+बौध्द_मन्दिर: bOdDgi_lAIsz pegodA
+ब्राह्मण: br_AMhN bAmoN bAmoL
+ब्राह्मन: br_AMhN bAmoN bAmoL
+ब्राह्मी: br_AMhi_myeC br_AMhi
+ब्राह्मी_हांखो: br_AMhi_myeC br_AMhi
+ब्रैजिद: niPutruC
+भद्रथि: puCceN_cAUb puCceL_cAUb minuQsicAUb
+भाथि: lYrz_acOb
+भाद: TwAN TwAN_TA
+भाद्र: TwAN TwAN_TA
+भावना: wAKL aniQb
+भिटामिन: BitAmiN
+भुम: pri_Tibi mAleM tAIbz tAIbzpAN
+भेरा: yAU_lAb
+भेरि: yAU_amoM
+मंगल: kANnb
+मकर_रासि: mkr_rAsi
+मथ: bOdDgi_lAIsz pegodA
+मथाम: snMb
+मदद_होग्रा: sOgxp_mi teQbAQb_mi TOgxp_mi yoCKxp_mi
+मददगिरि: sOgxp_mi teQbAQb_mi TOgxp_mi yoCKxp_mi
+मनिनि_माला: mnigi_liC_preQ
+मनिनि_लो: mnigi_liC_preQ
+मन्दिर: lAIsz mNdir kiyoQ
+महकुमा: thsiL
+महर: sCtM mAI mAIToQ sC_vv
+महर_गैयि_हिनजाव: sCTibi
+महर_गैयि_हौवा: msC_Tib_nupA msC_Pjdb_nupA cuQ-PirAN_cAdb_nupA mtO_lYtb_nupA
+महर_गोनां_हिनजाव: sCheNbi niQTibi
+महर_गोसा_हिनजाव: sCheNbi niQTibi
+महरगिरि: Kux-sA_hYb_mi
+महापुरुष: siQTAniQqAI_aoIrb_misC aToIb_misC ToIdoC_heNdoClb_misC
+महाभारत: lANjAU
+महामारिया: pl_eg
+महारानि: lYmreN lYmreL mhArAni
+माइ-माइरं_फानग्रा: ceQ-hwAI_yoNb hwAI-ceQwAI_yoNb
+माउथ: mAhux
+माउद: mAhux
+माग: wACciQ wACciQ_TA
+मागो: wACciQ wACciQ_TA
+माथ्रा: cAQ
+मान: IkAI-KuMnb wAQn-TAQgxp Ijx_tOb by_bhAr_tOb
+मान-सनमान_गैयि: leMjniQqAI_aoIdb_maoQ
+मान_थांहोनाय: IkAIb-pib IkAIb-nzhNb coFhNb coFPNb
+मानबायग्रा_जिउवारि: sixtun_cxp_jib
+मानबायग्रा_जिबि: sixtun_cxp_jib
+मानसि: mi miaoI miaoIb nmu_tAIbz_mi
+मानसि_फोजोबस्रांनाय: miyAMhAxp
+मानसि_बुथारस्रांनाय: miyAMhAxp
+मानसिखौ_सिबिनाय: miyAMgi_TbC_tOb miyAMgi_Pnb_tOb miyAMgi_yAIPnb_tOb_ miyAMgi_dmC_TbC_tOb
+मानसिजों_रुजुनाय: TwAIpANb_amguMn_Uxp
+मानसिनि_मोजां_मावनाय: miyAMgi_TbC_tOb miyAMgi_Pnb_tOb miyAMgi_yAIPnb_tOb_ miyAMgi_dmC_TbC_tOb
+माना: aTiQb
+मानिनाय: IkAI-KuMnb wAQn-TAQgxp Ijx_tOb by_bhAr_tOb
+मारखि: pl_eg
+माला: liC preQ
+मालायखौ_लामा_नायनाय: migi_mteQ_lOb
+मालायनाव_सोनारनाय: migi_mteQ_lOb
+मालायनि_बानजायनाय: atoFpgi_yAIPnb_TbC_tOb atoFpgi_Pnb_TbC_tOb
+मालायनि_हामब्लायथि: atoFpgi_yAIPnb_TbC_tOb atoFpgi_Pnb_TbC_tOb
+मावग्लुङि: leQdb_PibMd acexp_PibM
+मावजाग्रा_गैयि_थाइजा: INtr_ANsitib_Brb
+मावजाग्रा_गोनां_थाइजा: tr_ANsitib_Brb
+मावजेननाय: hOdoCpgi_TOrM hOdoCpgi_TOrM
+मावथ: mAhux
+मावथाय: TbCki_mhY
+मावनाय-थानाय: lMcx_sAjx sAjx
+मावनाय-दांनाय: lMcx_sAjx sAjx
+मावनायनि_फिथाइ: TbCki_mhY
+मावमोनथाय: TbCki_mhY
+मावि: leQdb_PibMd acexp_PibM
+मावोर: mAhux
+मासुल_दैखांग्रा_न: teks__TiP
+मासुल_लाग्रा_न: teks__TiP
+माहुथ: mAhux
+मिजिंनि_जायगा: wAKLn_sAjiNb_mPMd
+मिजिङारि_जायगा: wAKLn_sAjiNb_mPMd
+मिथिंगानि_जाथाय: mhOsAgi_aoIb_TOdoC
+मिथिंगानि_मुवा: mhOsAgi_aoIb_poxlM mhOsAgi_aoIb_pox-cY
+मिथिंगायारि_जाथाय: mhOsAgi_aoIb_TOdoC
+मिथिंगायारि_नङि_जाथाय: mhOsAgi_aoId_TOdoC
+मिथिंगायारि_नङै_जाथाय: mhOsAgi_aoId_TOdoC
+मिथिंगायारि_मुवा: mhOsAgi_aoIb_poxlM mhOsAgi_aoIb_pox-cY
+मिथिमोनि_दाय: msA_Kzdn_mrAL_lzsiNb
+मिथियि_दाय: msA_Kzdn_mrAL_lzsiNb
+मिथिसार_बिलाइ: KzhN-wAroL KzhN-ceroL KzhN-wAroN KzhN-ceroN
+मिथिसारहोनाय: KzhN-wAroL KzhN-ceroL KzhN-wAroN KzhN-ceroN
+मिथुन_रासि: miTuN_rAsi miTuN
+मिन_रासि: min_rAsi
+मिनिग्लाबनाय: KoNjAU_TAdun_noCp
+मिमांसा: yAsiNnb yAnb
+मिरु: puNPM myAI_loIsz seNtr myoL myoN
+मिरु_बिनदो: myAIgi_biNdu
+मिरु_बिन्दो: myAIgi_biNdu
+मिरुवारि_जायगा: myAI_loIsz seNtr myoL myoN
+मिलायज्लायनाय: TuQnb tiNnb puNsiNb
+मिलायनाय: TuQnb tiNnb puNsiNb
+मिलायफिननाय: TuQnb tiNnb puNsiNb
+मिलायलायनाय: TuQnb tiNnb puNsiNb
+मिलिटारि: KoQmi_lANmi
+मिलिलायनाय: TuQnb tiNnb puNsiNb
+मिलौदो_बिबुंथि: wAroN
+मिलौहाब_बिबुंथि: wAroN
+मिसनारि: Kr_i_stiyAN
+मुं: miQ koloI koloI_miQleN miQcx
+मुंखाम: miQToL miQToN UpADi pdbi
+मुंदांखाथि: miQcx
+मुंसुग्रा: miwA_qAQnb_mi huNdun_qAQb_mi
+मुक्ता: muCtA moti
+मुक्तानि_माला: muCtAgi_liC_preQ
+मुक्तानि_लो: muCtAgi_liC_preQ
+मुखियाल: luciQ_pureL
+मुखुब_थानाय: TbC_ciNb
+मुखुबथि: puCniQ_czb_maoQ TwAI_yAUb_maoQ yAMn_tOniQbgi
+मुगा_जोबनाय: pr_lI yug_loIb
+मुगैथाव_आखल: Pxtb_lMcx Pxtb_sAjx
+मुगैनाय: tuCkxcb hzgoIb nuQsidb
+मुद्रा: seL seN
+मुनामफा: kANnb
+मुर्ख: apzb_mi lOsiQ_yAUdb_mi
+मुर्खथि: apzb_mtO
+मुर्ति: murti mitM
+मुला: hzgAM_mulA
+मुलामफा: kANnb
+मुलि_गला: hidAC_yoNPM PArmAsi
+मुलि_दखान: hidAC_yoNPM PArmAsi
+मुलि_रुनाय_बिदै: hidAC_mhi mAIbgi_hidAC
+मुलि_रुनाय_रोसि: hidAC_mhi mAIbgi_hidAC
+मुलि_रुनायदै: hidAC_mhi mAIbgi_hidAC
+मुलुख_दावहा: pr_iTibigi_lANjAU
+मुलुग_दावहा: pr_iTibigi_lANjAU
+मुलुग_रोन: pr_iTibigi_lANjAU
+मुवा: pox poxsC pox
+मुसुखा: murti mitM
+मेगं-_थाइगं_बेफारि: mnA-msiQ_yonb yeNsAQ-nApi_yoNb
+मेगं-थाइगं_फानग्रा: mnA-msiQ_yonb yeNsAQ-nApi_yoNb
+मेगं-थाइगं_फालांगिरि: mnA-msiQ_yonb yeNsAQ-nApi_yoNb
+मेगं_फानग्रा: mnA-msiQ_yonb yeNsAQ-nApi_yoNb
+मेगं_फालांगिरि: mnA-msiQ_yonb yeNsAQ-nApi_yoNb
+मेगं_बेफारि: mnA-msiQ_yonb yeNsAQ-nApi_yoNb
+मेगन_सानाय: kLlC-KMbNb kLlC-mihOb kLlC_KMbNb kLlC_mihOb kLlCp mihOb KMbNb
+मेगन_सानाय_गैयि: kLlCp-mihOb_yAUdb KMbNb_yAUdb
+मेगन_होनाय: nuQsib
+मेजेम: Pex
+मेथाइ_खनग्रा_दाउ: VIsY_sCp_UceC
+मेथु: DAtu koNcAC
+मेरामति: mistr_i
+मेरु: puNPM myAI_loIsz seNtr myoL myoN
+मेरु_बिनदो: myAIgi_biNdu
+मेरु_बिन्दो: myAIgi_biNdu
+मेलेखा: TAUreC TAUgi_mreC
+मेलेटारि: KoQmi_lANmi
+मेलेम_गोनां: lOsiQlYb mi_asiQb_mi hYToI-siQToIb_mi hY-siQb_mi
+मेस_रासि: mes mes_rAsi
+मैदेर_खाग्रा_जायगा: sAmu_sz
+मैदेर_दोनग्रा_जायगा: sAmu_sz
+मैदेर_सानथ्रि: sAmu_lANmi
+मैदेरजों_नांग्रा_सानथ्रि: sAmu_lANmi
+मैया: qrAQ mmAQgi_numix
+मोखथाङारि_जायगा: tseQn_lYrb_mPM
+मोखां: sCtM mAI mAIToQ sC_vv
+मोखां_बाहागो: mmAQ_Tzb
+मोगथाङारि_जायगा: tseQn_lYrb_mPM
+मोजां: kANnb
+मोजां-मोननाय: nuQsib
+मोजां_आखल: aPb_lMcx aPb_sAjx PidMniQqAI_aoIb_lMcx PidMniqAI_aoIb_lMcx PidMniQqAI_aoIb_sAjx PidMniqAI_aoIb_sAjx
+मोजां_आखु: aPb aPb-wAKL aPb-wAKN
+मोजां_आखुथाइ: aPb_lMcx aPb_sAjx PidMniQqAI_aoIb_lMcx PidMniqAI_aoIb_lMcx PidMniQqAI_aoIb_sAjx PidMniqAI_aoIb_sAjx
+मोजां_आखुथाय_गैयि: Pjdb_lMcx-sAjx lujdb_lMcx
+मोजां_आखुथि: aPb_lMcx aPb_sAjx PidMniQqAI_aoIb_lMcx PidMniqAI_aoIb_lMcx PidMniQqAI_aoIb_sAjx PidMniqAI_aoIb_sAjx
+मोजां_खुंनाय: aPb_lYqAC
+मोजां_गुन: aPb aPb-wAKL aPb-wAKN
+मोजां_मानसि: lYbACmcA_tAb_mi hOn-loNcx_Kzb_mi hOn_loNcx_Kzb_mi cxn-loNcx_Kzb_mi cxn-loNcx_Kzb_mi
+मोजां_मोननाय: nuQsib
+मोजां_मोनलायनाय: nuQsi-nuqoN pAMmu_nuQsi
+मोजां_सासन: aPb_lYqAC
+मोदाइजो: lAIreMbi debi
+मोदाइजो_खान्थि: lAIgi_noQdM lAIgi_noQdMKoL lAIgi_noQdMKoN tAIbz_mpugi_noQdM tAIbz_mpugi_noQdMKoL tAIbz_mpugi_noQdMKoN
+मोदाइजो_नेम: lAIgi_noQdM lAIgi_noQdMKoL lAIgi_noQdMKoN tAIbz_mpugi_noQdM tAIbz_mpugi_noQdMKoL tAIbz_mpugi_noQdMKoN
+मोदाइजोयारि_खान्थि: lAIgi_noQdM lAIgi_noQdMKoL lAIgi_noQdMKoN tAIbz_mpugi_noQdM tAIbz_mpugi_noQdMKoL tAIbz_mpugi_noQdMKoN
+मोदाइजोयारि_नेम: lAIgi_noQdM lAIgi_noQdMKoL lAIgi_noQdMKoN tAIbz_mpugi_noQdM tAIbz_mpugi_noQdMKoL tAIbz_mpugi_noQdMKoN
+मोदाननाय: mrz
+मोदाननाय_मन्दल: mmAIgi_mqAL mmAIgi_mqAN
+मोदाय_जोला: UmzlAI lAI KoIyuM
+मोदाय_हौवा: UmzlAI lAI KoIyuM
+मोदायसालि: lAIgi_lAIsz lAIsz lAIsz mNdir kiyoQ
+मोदै_ओंखारग्रा_गेस: pi__tAhNnb_gy_As
+मोदैनि_गेस: pi__tAhNnb_gy_As
+मोदोम_रोदा_बेजे: siQli-nAUri
+मोदोमनाय_मुवा: mnM_nuQsib_TAU
+मोदोमनायथाव_फानग्रा: TAU_mnM_nuQsib_lLloNb_mi TAU_mnM_nuQsib_kArbAr_tOb_mi
+मोदोमफ्रु_मुवा: mnM_nuQsib_TAU
+मोदोमफ्रुथाव_फानग्रा: TAU_mnM_nuQsib_lLloNb_mi TAU_mnM_nuQsib_kArbAr_tOb_mi
+मोनदांथि: wAKN_KNb_qMbgi_lOsiQ
+मोनदांथि_गियान: hCTeQnn_Pzlb_lOsiQ
+मोनदांनाय: wAKN_KNb_qMbgi_lOsiQ
+मोनदांनाय_गियान: hCTeQnn_Pzlb_lOsiQ
+मोनसे_हारि: PuruFki_miaoI
+मोनाबिलि: sNgArCp_mtM numidAQwAIrM nuQdAQwAIrM yAczb yAczb_mtM yAcz_kAQhu sNDy_A
+मोनाब्लि: sNgArCp_mtM numidAQwAIrM nuQdAQwAIrM yAczb yAczb_mtM yAcz_kAQhu sNDy_A
+मोन्दांथि: puCniQd_PAUrCp Kzb gy_AN Pzb
+मोन्दांथि_गैयि_जानाय: Kzb_qMdbgi_PibM
+मोसा-जो: kY_amoM
+मोसा_बुन्दि: kY_amoM
+मोसौ: apzb_mi lOsiQ_yAUdb_mi
+मौसुमि: mOsumi_nuQsix
+मौसुमि_बार: mOsumi_nuQsix
+रʼद: yoxcY
+रं: mcu
+रंजाथाइ: kuMmY kumY kuMhY hrAU-kuMmY hrAU_kuMmY hrAU-kumY hrAU_kumY kuMmY-PiyoQ kuMmY_PiyoQ kumY-PiyoQ kumY_PiyoQ kuMmY-PihoQ kuMmY_PihoQ kumY-PihoQ kumY_PihoQ
+रंजानाय: nuQqAIb nuqAIb hrAUb sANnb
+रत्ननि_माला: mnigi_liC_preQ
+रत्ननि_लो: mnigi_liC_preQ
+रथ: dolAI rT sgoL_gAri sgoN_gAri
+रनजा: amexp amboL amboN
+रमान्स: nuQsi-nuqoN pAMmu_nuQsi
+रहस्य_फोरमायथिनाय: liKuN_Kzb lzlA-lzjiL lzlA_lzjiL lzlA-lzjiN lzlA_lzjiN aroN-aTuF_KzdoCp
+रहस्य_फोरमायनाय: liKuN_Kzb lzlA-lzjiL lzlA_lzjiL lzlA-lzjiN lzlA_lzjiN aroN-aTuF_KzdoCp
+रहस्य_बेखेवथिनाय: liKuN_Kzb lzlA-lzjiL lzlA_lzjiL lzlA-lzjiN lzlA_lzjiN aroN-aTuF_KzdoCp
+रहस्य_बेखेवनाय: liKuN_Kzb lzlA-lzjiL lzlA_lzjiL lzlA-lzjiN lzlA_lzjiN aroN-aTuF_KzdoCp
+रहायनाय: KuITb
+रां: seL seN lupA_myeC
+रां_खाउरि: seL seN
+रां_रुफा: seL seN
+रांखान्थियारि_सुसिनाजाय: mhu_ceNdb_liL mhu_ceNdb_liN
+रांखान्थियारि_सोबखजानाय: mhu_ceNdb_liL mhu_ceNdb_liN
+राख: kMpor kMbL
+राग: kMpor kMbL
+राजाहारा: yAQleN_sru yAQleL_sru
+राज्यो: rAjy_ st_ex
+राथि_जानाय: hObgi_maoQ
+रादाब: pAU I__-pAU I__pAU pAUjeL pAUjeN
+रादाय: yAnb_wAPM yAnce_Ib cuCti
+रानग्रा: yeNnrib_msiQ
+रानग्रा_उनजिमा: yeNnrib_msiQ
+रानजाग्रा: mcex-mkAIgi_mKA_Tzb_sruC yeNnrib_msiQ
+रानजाग्रा_अनजिमा: mcex-mkAIgi_mKA_Tzb_sruC yeNnrib_msiQ
+रानजोबगासै: aTuQb
+रानजोबथा: aTuQb
+रानजोबथाय: aTuQb
+रानज्रिंनाय: KuITb
+राननाय: yeNToCnb yeNnb KuITb
+रानस्राव_बेराम: hCcAQ_cFsiLlCp_lAIn
+रानाय: hObgi_maoQ
+राफोद_जानाय: hObgi_maoQ
+राफोर_जानाय: hObgi_maoQ
+राम_नोगोर: ayoDy_A
+रामबोरला: cuMTAQ cumiTAQ
+रायखुमागोरा: miwA_qAQnb_mi huNdun_qAQb_mi
+रायखुमाग्रा: miwA_qAQnb_mi huNdun_qAQb_mi
+रायखोमागोरा: miwA_qAQnb_mi huNdun_qAQb_mi
+रायखोमाग्रा: miwA_qAQnb_mi huNdun_qAQb_mi
+रायज्लायखोमानाय: ciboN-ciboN_qAQnb tumiN-tumiN_qAQb tFn-tFnqAQb
+रायफोदनाय: wAhOdoC
+रायफोरनाय: wAhOdoC
+रायलायखोमानाय: ciboN-ciboN_qAQnb tumiN-tumiN_qAQb tFn-tFnqAQb
+राव_दानस्लायनाय: hNdoCp aArT_hNb anubAd_tOb
+राव_दानस्लायनाय_सोरजि: hNdoClb_Kux-I
+राव_सोलायनाय: hNdoCp aArT_hNb anubAd_tOb
+राव_सोलायनाय_सोरजि: hNdoClb_Kux-I
+रावखान्थियारि_थाखो: loNsuroLgi_aoIb_KeNnb gr_AmArgi_aoIb_KeNnb
+रावखान्थियारि_रोखोम: loNsuroLgi_aoIb_KeNnb gr_AmArgi_aoIb_KeNnb
+रासायनारि_मुवा: mcz_mci
+रासायनिक_तत्व: mcz_mci
+रासायनिक_मुदि_मुवा: mcz_mci
+रासि: rAsi
+रासि_सोरखि: rAsi_ckr_
+रासिसोरखि: rAsi_ckr_
+राहा: PibM PiBM pAMbY UpAI mteQ
+राहा-लामा: pAMbY UpAI mteQ
+रि: Pijex PijoL PijoN Pi
+रिबन: PitA
+रिमोननाय: TAUreC TAUgi_mreC
+रिमोनला: TAUreC TAUgi_mreC
+रुगुं: mpAN mtAI qMKY pNKY mtoN PibAN sNjAb
+रुजुजखा: resiao
+रुजुथाय: resiao
+रुटि: tL tN tNgz
+रुबै: PibAN sNjAb
+रेजेदनाय: mriC mkuF
+रेजेदल्दानाय: mriC mkuF
+रेजेरनाय: mriC mkuF
+रेजेरल्दानाय: mriC mkuF
+रेटिना: retinA
+रेबगन: koloM muCcY
+रैखा_खालामग्रा: pNqACp_mi qACseLlib_mi
+रैखागिरि: pNqACp_mi qACseLlib_mi
+रैखाथि_थफि: KAQ_tupi
+रैखाथि_थुफि: KAQ_tupi
+रोंखा-राखा_नङि: hY-siQb_wAxp
+रोंगथि: KuxloIbgi_hYsiQb aeks_piriyens_
+रोंगथि_गैयि: hY-siQb_wAxp
+रोंगौथि: KuxloIbgi_hYsiQb aeks_piriyens_
+रोंगौथि_गैयै: hY-siQb_wAxp
+रोंथाय: KuxloIbgi_hYsiQb aeks_piriyens_
+रोंथाय_गैयि: hY-siQb_wAxp
+रोंबान्था: sk_olArsiF br_iti
+रोंमोनथाय: KuxloIbgi_hYsiQb aeks_piriyens_
+रोंमोनथाय_गैयि: hY-siQb_wAxp
+रोंमोनदांथि: KuxloIbgi_hYsiQb aeks_piriyens_
+रोंमोन्दांथि_गैयि: hY-siQb_wAxp
+रोंसारथि: KuxloIbgi_hYsiQb aeks_piriyens_
+रोखा_जानाय: myeC_seQb
+रोखाथि: myeC_seQb seQdoCwA seQdoCwAroL seQdoCwAroN
+रोखोमसे_हारि: PuruFki_miaoI
+रोनाव_दामग्रा: lANd_KoQnb_KulAI
+रोबै: mpAN mtAI qMKY pNKY mtoN PibAN sNjAb
+लंथं_अबस्था: Pi_ToQdb
+लंथाइ_गोनोखो: aArkiyoloji
+लरहायनाय: KuITb
+लहरायनाय: KuITb
+लहा: yox
+लहानि_गन: yoxcY
+लांथं_अबस्था: Pi_ToQdb
+लांथि_अबस्था: Pi_ToQdb
+लांथिया: Pi_ToQdb
+लांथिया_अबस्था: Pi_ToQdb
+लांदां_सोलेरारि_बाहागो: hCcAQgi_mpANToQgi_aoIb_kAyAx
+लाइजाम_रानग्रा: vvpost_meN
+लाइजाम_लांथिंग्रा: vvpost_meN
+लाइजामनि_बिसुखे: koloM_mruF peN_pAL
+लाइजामनि_लोगो: koloM_mruF peN_pAL
+लाउग_गारां_हाखो: asAQb_KoNToC
+लाजि-फोनांनाय: IkAIb-pib IkAIb-nzhNb coFhNb coFPNb
+लाजिनांनाय: IkAIb-pib IkAIb-nzhNb coFhNb coFPNb
+लाथुम: KuQ
+लादेरनाय_नाम: atoFp_mmiQ
+लादेरनाय_मुं: atoFp_mmiQ
+लानजाइ: mmY mmY
+लान्जाइ: mmY
+लामा: pAMbY UpAI mteQ
+लामा_दिन्थिगिरि: lMjiQ_lMtACpib_mi
+लाव-लाव_मुवा: mhilAQb_pox
+लावथि: licY cYsu
+लिमोननाय: TAUreC TAUgi_mreC
+लिमोनला: TAUreC TAUgi_mreC
+लिरग्रा_आइजें: Inbgi_pAMbY Inbgi_KuxlAI
+लिरथाइ: wAreQ ceroL aIb
+लिरनाय: wAreQ ceroL aIb
+लिरनायनि_आइजें: Inbgi_pAMbY Inbgi_KuxlAI
+लुनाय: lYseMb seMb sAb seM-sAb seM_sAb
+लुबैनाय: KzniQb
+लुबैनायबादि: mniQ_tOb_mtO pztO_tOb_mtO
+लेखा_बिलाय: ce
+लेखा_रोङि: Kzdb apzb awAxp_lOsiQ gy_AN_yAUdb
+लेङाइ_फावखुंगुर: mruaoIb_sCkt_M_lAQlibgi_mmAnb teQbAQb
+लेङाइ_फावखुंग्रि: mruaoIb_sCkt_M_lAQlibigi_mmAnbi teQbAQbi
+लेनजाइ: mmY
+लेरथाइ: wAreQ ceroL aIb
+लेरनाय: wAreQ ceroL aIb
+लेरहायनाय: KuITb
+लैथो: smudr_
+लैथोसा: smudr_gi_hNjiNb_mPM
+लो: liC preQ
+लोगो: miyAM mi_myAM mruF mpijA mmANnb
+लोगो_जानाय: mpA_cAnb nAtY_cAb
+लोगोबादि: nuQsi_cANnbgi_mtO mruF_aoIbgi_mtO mruF_aoIbgi_puCceL mruF_aoIbgi_puCceN
+लोबबाथि_गैयि: apNb KurO_TAQb KurO_ceNb
+लोर_सोर_गैयि_अबस्था: mrA_yAUbgi_maoQ
+लोरगि: nO Kumu
+लोरबां_गोसो: hYniQdb aAsA_lYtb apAMb_yAUdb aAsA_yAUdb niQb_kAIb
+विरोधि: mAIyoCt_lYb_kAQbu aopojisN
+शिकफोरनि_थान: gurudw_Ar
+शिकफोरनि_धोरोमसालि: gurudw_Ar
+शिकफोरनि_सिबिसालि: gurudw_Ar
+शिकमन्दिर: gurudw_Ar
+शिब_लिंग: sibliQg
+शिबलिंग: sibliQg
+शुक्र: Bens sukr_ sukr__gr_h
+शुक्र_ग्रह: Bens sukr_ sukr__gr_h
+सं_दानग्रा: TijiN-huMjiNb_miaoI
+संकेद: Izgix KudM
+संख्रि: TuM noInu
+संख्रि_दै: ayACp_IsiQ TuM_yACp_IsiQ TuMhi_ceNb_IsiQ
+संख्रै: TuM noInu
+संनाय: Tib
+संनाय-खावनायनि_आइजें: cAC_ToQnb_pAMbY ToQb-TACpd_sijiNnb_koL
+संनाय-खावनायनि_सादोन: cAC_ToQnb_pAMbY
+संनायनि_आइजें: ToQb-TACpd_sijiNnb_koL
+संफोर: hzcix
+संमोनथाय: TijiNb TijiN-huMjiNb TijiN_huMjiNb
+संस्रा_बाहागो: Ukr_oQ ahob_mKuN ahob_mKuL
+सक्ति: pAQgL pAQgN sCti
+सखनाय_दोन: TAdoCseN TAdoCseL
+सनदेरग्रा_बेराम: lOngNb_lAInA
+सनमान: IkAI-KuMnb wAQn-TAQgxp Ijx_tOb by_bhAr_tOb
+सनस्रा_बाहागो: Ukr_oQ ahob_mKuN ahob_mKuL
+सनानि_खाउरि: snAgi_seL_myeC
+सनानि_फुंखा: snAgi_Koni snAgi_KoQ
+सनानि_मुद्रा: snAgi_seL_myeC
+सनि: setrN sni sni_gr_h
+सनि_ग्रह: setrN sni sni_gr_h
+सन्ट्रासबाद: akibgi_maoQ akibn_TNb
+सन्यासि: lMboIb
+सबाय: sgoL_hwAI
+सबि_गुदुं: so_mKuL
+सम: mtM kAl puQjA puQPM tANjA
+समफोर: hzcix
+समबार_होनाय: soC_tOb
+समय: mtM kAl puQjA puQPM tANjA
+समयसिमा: akCnb_mtM
+समर्थन: sOgxp TOgxp teQbAQb ToQgxp
+समसिमा: akCnb_mtM
+समाजारि_खान्थि: KuNnAIgi_maoQ
+समाजारि_दैदेननाय: KunAIbu_lACsiNb
+समाजारि_नेम: KuNnAIgi_maoQ
+समाजारि_बेबस्था: KuNnAIgi_maoQ
+समाजारि_सालायनाय: KunAIbu_lACsiNb
+समायना_नङि_हिनजाव: sCTibi
+समायना_सेंग्रा: msC-mtO_Pjb_nupA_msC_Pjb_nupA cuQ-PirAN_cAb_nupA mtO_lYb_nupA
+समायना_हिनजाव: sCheNbi niQTibi
+समायना_हौवा: msC-mtO_Pjb_nupA_msC_Pjb_nupA cuQ-PirAN_cAb_nupA mtO_lYb_nupA
+समायि_हौवा: msC_Tib_nupA msC_Pjdb_nupA cuQ-PirAN_cAdb_nupA mtO_lYtb_nupA
+सम्रातजो: lYmreN lYmreL mhArAni
+सरानि_गुदुं: so_mKuL
+सरासनस्रा_दै: acMb_IsiQ TuMhi_ceNdb_IsiQ aPb_IsiQ
+सलायग्रा: gAri_TOb_mi dr_AIBr
+सांग्रां_नङि: ceCsiNdb
+साइकेल: sAIkL
+साइमारा: PMbAC kAQTC pl_et-Porm_ st_eJ
+साउगारि_हांखो: piCtogr_APi
+साखनि: cAjuM
+साखाथि: yuMloNnb yuMTznb
+साखि: jAmiN
+सागर: smudr_
+साजायथाय: hAFciNbgi_TbC pANsiNbgi_TbC
+साजायथि: hAFciNbgi_TbC pANsiNbgi_TbC
+साजायनाय: hAFciNbgi_TbC pANsiNbgi_TbC mke_seb
+साजायनाय_जायगा: wAKLn_sAjiNb_mPMd
+साजायनाय_बाथ्रा: heNjiNn_hAIjiNb
+साजायफबनाय: mke_seb
+सात: yuMTC sAx
+सादर: moMpACPidC
+सादु: lMboIb
+सादुथि: puCceN_cAUb puCceL_cAUb minuQsicAUb
+सादोर: moMpACPidC INnnb_Pi crY-nMKAQ
+साद्रि: INnnb_Pi crY-nMKAQ
+सानखरांनि_दुलुरमुवा: atiyAd_ToCp_mtuM
+सानगिरि: wAKL_lisAQ_TArib_mi
+सानग्रा: wAKL_lisAQ_TArib_mi
+सानजा: noQpoC mmAQ
+सानजानि_बार: noQpoC-hArMgi_nuQsix
+सानजाबगासै: purigdb_msiQ
+सानजाबगिरि: purinrib_msiQ
+सानजाबथाय: purib purigdb_msiQ
+सानजाबनाय: purib
+सानथाय: puCniQ-wAKL puCniQ-wAKN wAKL wAKN puCniQ puCniQ-ITiL puCniQ_ITiL IhuNpuCniQ-ITiN puCniQ_ITiN puCniQ-IhuL puCniQ_IhuL puCniQ-IhuN puCniQ_IhuN wAKL wAKN wAKLn_sAgxp wAKNn_sAgxp
+साननाय: _KNTb wAKL_tOb wAKL_TAdb wAKN_tOb wAKN_TAdb tiN_yoxTb wAKL aniQb
+साननाय-हनाय: _KNTb wAKL_tOb wAKL_TAdb wAKN_tOb wAKN_TAdb tiN_yoxTb
+साननाय_गैयि: KNTdb wAKL_TeNb VwAKN_TeNb
+साननाय_गैयै: KNTdb wAKL_TeNb VwAKN_TeNb
+सानबिलिरथि: puCniQ-wAKL puCniQ-wAKN wAKL wAKN puCniQ puCniQ-ITiL puCniQ_ITiL IhuNpuCniQ-ITiN puCniQ_ITiN puCniQ-IhuL puCniQ_IhuL puCniQ-IhuN puCniQ_IhuN
+सानबोलावरि: wAKL wAKN wAKLn_sAgxp wAKNn_sAgxp
+सानबोलावरि_जिब: wAKLn_sAb__jib
+सानबोलावरि_जिबि: wAKLn_sAb__jib
+सानबोलावरि_सिन: aqCp_Kznb_KudM kOb_Kznb_KudM
+सानमोन्थाय: puCniQ-wAKL puCniQ-wAKN wAKL wAKN puCniQ puCniQ-ITiL puCniQ_ITiL IhuNpuCniQ-ITiN puCniQ_ITiN puCniQ-IhuL puCniQ_IhuL puCniQ-IhuN puCniQ_IhuN
+सान्थि: sANti tzdu_lYtAb puCniQ_Izb puCceL_tFp puCceN_tFp wAKL_lYtAb wAKN_lYtAb
+सान्दांथि: puCniQd_PAUrCp Kzb gy_AN puCniQ-wAKL puCniQ-wAKN wAKL wAKN puCniQ puCniQ-ITiL puCniQ_ITiL IhuNpuCniQ-ITiN puCniQ_ITiN puCniQ-IhuL puCniQ_IhuL puCniQ-IhuN puCniQ_IhuN
+साप_बुनाय: nMbgi_TbC
+साफायनायनि_मुज्रा: anMmL anMseN
+साफाल: lAIbC
+साबथि: aToIb_maoQ
+साबसिन: aToIb_maoQ
+साबुख: sAjY
+सायकेल: sAIkL
+सायखनाय: lOToCpgi_TbC KNdoCpgi_TbC
+सायख्लुम: UruM
+साया: UruM
+सारकेस: sr_ks
+सारनाय: cAIToCp kAFToCp
+सारें: sArzgi BAIaoliN
+सारेंगि: sArzgi BAIaoliN
+सार्कास: sr_ks
+साल: PisAkoN koN IyoQ yoQKM
+सालमाय: UriQ
+सालाखि_बिद्या: lOnM_tOnbgi_hYsiQlb_maoQ-mtO
+सालायग्रा: gAri_TOb_mi dr_AIBr
+सालिखनाय: lOToCpgi_TbC KNdoCpgi_TbC
+सावगारि_हांखो: piCtogr_APi
+सावथुन: Pilm_
+सावथुन_न: Pilm__yeQPM
+सावथुनसालि: Pilm__yeQPM
+सावन: IqeN IqeN_TA
+सावनाय_बेदर: sA_ayAIb sA_akzb
+सावसुबलाबायनाय: coIroN coIroL
+सासन: lYqAC lYbAC_lYqAC
+साह_सरग्रा: cAjuM
+सि: Pijex PijoL PijoN Pi TwAI yAIbi yAIbi-TwAI TwAI_ceClA pr_AN jib aAtm_A si-si
+सि-जोम: Pijex PijoL PijoN Pi
+सि-सि: si-si
+सिंनि_बाथ्रा: aroNb aTuFp aroN-aTuF
+सिंस्रि: yAQleN_sru yAQleL_sru
+सिंह: noQsA sAsiQgi_niQTO jzgLgi_niQTO
+सिंह_रासि: siQh_rAsi siQh
+सिगां_बाहागो: mmAQ_Tzb
+सिगां_रादाबगिरि: mAQjOnn_pAUpub wAmAQ_yANb_mi
+सिगांग्रो_रादाब_होगिरि: mAQjOnn_pAUpub wAmAQ_yANb_mi
+सिगांग्रो_रादाब_होग्रा: mAQjOnn_pAUpub wAmAQ_yANb_mi
+सिगिख्रंनाय: akibgi_maoQ akibn_TNb
+सिगुन: ciQsu
+सिङारि_गोहो: nuQgi_TOnA
+सिङारि_सक्ति: nuQgi_TOnA
+सितार: sitAr
+सिनस्रि: yAQleN_sru yAQleL_sru
+सिनस्रि_गोनां_जुनार: yAQleN_sru_pANb_jib yAQleN_sru_yAUb_jib myAQleN_pANb_jib_m yAQleN_sru_pANb_jib
+सिनस्रि_हारा_गैयि_जुनार: yAQleN_sru_pANdb_jib
+सिनेमा: Pilm_
+सिनेमाहल: Pilm__yeQPM
+सिफा: nupigi_PinuQ nupigi_hCcAQ_ToQ
+सिफुं: bAsi
+सिबि_न: lAIsz mNdir kiyoQ
+सिबिनाय: IkAI-KuMnb wAQn-TAQgxp Ijx_tOb by_bhAr_tOb acexp_TAjb niQjb
+सिबिसालि: lAIsz mNdir kiyoQ
+सिमलु: bAsi
+सिमा_बारग्रा: qMKY_lANsiLlCp qMKY_heNjiLlCp
+सिमा_बारबोगिरि: qMKY_lANsiLlCp qMKY_heNjiLlCp
+सिमा_बारबोग्रा: qMKY_lANsiLlCp qMKY_heNjiLlCp
+सियान: lOsiQlYb mi_asiQb_mi hYToI-siQToIb_mi hY-siQb_mi
+सियान_मानसि: lOsiQlYb mi_asiQb_mi hYToI-siQToIb_mi hY-siQb_mi
+सिरि: aciCp_mPM lAQdb_mPM
+सिल: UnM siL st_Amp_
+सिलाइ: Pi_tub tub
+सुंथानाय: cYqAC
+सुंद_गारां_हांखो: ateNb_KoNToC
+सुक्ति: yAnb_wAPM yAnce_Ib cuCti
+सुख_मोननाय: sANti tzdu_lYtAb puCniQ_Izb puCceL_tFp puCceN_tFp wAKL_lYtAb wAKN_lYtAb
+सुखां: yeCp-TiNb
+सुखु_गोनां_फावथाइ: nuQqAIbn_poloI_aoIb_lilA
+सुखु_मोननाय: sANti tzdu_lYtAb puCniQ_Izb puCceL_tFp puCceN_tFp wAKL_lYtAb wAKN_lYtAb
+सुगुर: murti mitM
+सुग्रा_आइजें: aoNnb_KuxlAI
+सुजि: suji
+सुथफिन: sePti_piN
+सुथाबनाय: Pi_tub tub
+सुथिया: aPAU_sAb mi_Usixtb sC_tAKxp PutAni_tOb
+सुथुरथि: aoNn-tYnb aoNn_tYnb niyM__cuMdb yeCnb yAQTinb tATinb nuQsindb
+सुथेनाय: Pi_tub tub
+सुथेफिन: sePti_piN
+सुफिन: bAsi
+सुफ्लंनाय: mKuN
+सुबुं: mi miaoI miaoIb nmu_tAIbz_mi
+सुबुं_फोजोबस्रांनाय: miyAMhAxp
+सुबुं_फोलेर: cAdA-nAUdA cAdA_nAUdA sAgYgi_mcA-msu
+सुबुं_सान: ripbl_iC_de
+सुलु_लाग्रा: TijiN-huMjiNb_miaoI
+सुसिर_बाद्य: ciNkAM_jNtr_ ciNKoQ_jNtr_
+सेखनि: cAjuM
+सेखेनि: cAjuM
+सेगुन: ciQsu
+सेटेलाइट: KuxseMgi_syAtlAIx
+सेनि: pAIj
+सेन्देल: seNdL seNdN cFpL PenAx hwAI_seNdL hwAI_seNdN
+सेफथि_फिन: sePti_piN
+सेबखांनायनि_मुज्रा: anMmL anMseN
+सेर: mpAN mtAI qMKY pNKY mtoN yuMloNnb yuMTznb
+सेरखा: pickAri
+सेरखाइ: pickAri
+सेरखाय: pickAri
+सेरजा: sArzgi BAIaoliN
+सेरनाय: soC_tOb
+सैत: sjibu sjibu_TA
+सैत्र: sjibu sjibu_TA
+सैथान: lOsiQlYb mi_asiQb_mi hYToI-siQToIb_mi hY-siQb_mi
+सैथान_गियान: lOnM_tOnbgi_hYsiQlb_maoQ-mtO
+सैथो_सिन: acuMb_KudM
+सैथोदान: sjibu sjibu_TA
+सैमा_फागला: aqAUb_huI peQ_coIrb_huI mihuN_coIrb_huI
+सैमा_फिसा: huInAU
+सैमा_बुन्दि: huI_amoM
+सोंनाय_दिनथिग्रा_सिन: ahzb_KudM
+सोंनाय_दिन्थिग्रा_सिन: ahzb_KudM
+सोंनाय_फोरमायग्रा_सिन: ahzb_KudM
+सोंनाय_फोरमायथिग्रा_सिन: ahzb_KudM
+सोदोमस्रि: cAUKxp
+सोद्रोम_मानसि: lYbACmcA_tAb_mi hOn-loNcx_Kzb_mi hOn_loNcx_Kzb_mi cxn-loNcx_Kzb_mi cxn-loNcx_Kzb_mi
+सोद्रोमथि: lYbAC_mcA_tAb hOn-loNcx_Kzb cAUKxp
+सोमखोर: aszb aszb_mcu
+सोमोनांनाय: qCpgi_maoQ cAMmnbgi_maoQ tOPM_Kzdbgi_maoQ
+सोमोन्दो_गैयि: apNb KurO_TAQb KurO_ceNb
+सोमोन्दोनि: mri-mtA mri_mtA sAgY-nAtY sAgY_nAtY qAI-seN qAI_seN
+सोर: yox
+सोरगिदिं_गिदिंनाय: koIb
+सोरजिगिरि: lAI sidb_mpu tAIbz_mpu lAIniQTO KoyuM teQbANb_mpu noQdMb ciQqu KoImoM Isor Isw_r BgbAN
+सोरजिनाय: lYseMb seMb sAb seM-sAb seM_sAb
+सोरां_मन्दल: mmAIgi_mqAL mmAIgi_mqAN
+सोरांमन्दल: mmAIgi_mqAL mmAIgi_mqAN
+सोलायलायनाय: piToC-pisiN_tOb
+सोलायसोल_फालांगि: pox_aoNToC-aoNsiN_tObgi_kArbAr
+सोलियि_अबस्था: mrA_yAUbgi_maoQ
+सोलियै_अबस्था: mrA_yAUbgi_maoQ
+सोलेरारि_खष्ट: hCcAQgi_aoIb_anAb hCcAQ_PAUb_cYnA
+सोलेरारि_बाहागो: hCcAQgi_sruC
+सोलेरारि_सानाय: hCcAQgi_aoIb_anAb hCcAQ_PAUb_cYnA
+सोलो_गोनां_मानसि: lOsiQlYb mi_asiQb_mi hYToI-siQToIb_mi hY-siQb_mi
+सोलोंथाइ_गैयि: Kzdb apzb awAxp_lOsiQ gy_AN_yAUdb
+सोलोंफानाय: aP-Pxt_Kzdn_mtO_tMb
+सोलोंसा: tuQINb_miaoI KoQloI
+सोलोगोरा: lOsiQlYb mi_asiQb_mi hYToI-siQToIb_mi hY-siQb_mi
+सौखा: lYrz cuLhA
+सौखि: PmuQ
+स्टाम: UnM siL st_Amp_
+स्टेज: PMbAC kAQTC pl_et-Porm_ st_eJ
+स्टेसन: bs_KAMPM
+स्निजिद: huMPutrAtruC
+स्पिद_मिटार: sp_idomitr
+स्रि: aciCp_mPM lAQdb_mPM
+स्रि-स्राय: aciCp_mPM lAQdb_mPM
+स्रिं-स्रिं: jiQ-jiQ
+स्रिं_स्रिं: jiQ-jiQ
+स्रिंस्रिं: jiQ-jiQ
+हजम_जायि: cAb_tuMdb hCcAQ_soChNniQqAI_aoIb_pox hCcAQ_mAQniQI_aoIb_pox
+हमजेननाय: hOdoCpgi_TOrM
+हरगेजेर: ahiQ_noQyAI noQyAI_cbuC noQyAI noQyAI_Itu noQyAI_soyAIm InuQ
+हवा: nupA yexki_lMdAQ tMb
+हस्टेल: sAtr_siQgi_lYpM sosteL
+हा: kzPAL kzPAN lYkz lYbAC lYsA pri_Tibi mAleM tAIbz tAIbzpAN
+हा_जावग्रा: lYbAC_tOb_mi
+हा_सबाय: sgoL_hwAI
+हा_सानथ्रि: KoQmi_lANmi
+हां_गोलाव_बोनाय: sor_mpi sw_r_mpi
+हांअर: lYrz_acOb
+हांखो: myeC
+हांख्रायनाय: hAIjb nijb
+हांमासुरनाय: sor_mpi sw_r_mpi
+हाखर: puKr_i IkoN
+हागोमा: yApz
+हाग्रा: Umz boN jzgL
+हाग्राबारि: Umz boN jzgL
+हाग्रामा: Umz boN jzgL
+हाजो_थिखिनि: ciQdoN ciQdoL
+हाथरखि: TwANmicAC
+हाथाइ: yA myA
+हाथाइ_आलु: yAri
+हाथाइ_मोदोम: yAri
+हाथास: hYniQdb aAsA_lYtb apAMb_yAUdb aAsA_yAUdb niQb_kAIb
+हाथियार: KuxlAI
+हाथें: KoQ
+हाथेर: KuxlAI
+हादरसा: rAjy_ st_ex
+हादरारि_जाथा: jAtigi_PirAN jAtigi_PirAL
+हादरारि_जानदि: jAtigi_PirAN jAtigi_PirAL
+हादरारि_निसान: jAtigi_PirAN jAtigi_PirAL
+हादरारि_फिरफिला: jAtigi_PirAN jAtigi_PirAL
+हादसिउनाय: hACTi_KNb
+हानजा_गिदिंग्रा: miyAMgi_KoQcx
+हानजा_गिदिंनाय: miyAMgi_KoQcx
+हानजा_सुरग्रा: miyAMgi_KoQcx
+हानजा_सुरनाय: miyAMgi_KoQcx
+हानायनि_आइजें: kCnb_KulAI kCnb_pAMbY
+हानि_सानथ्रि: KoQmi_lANmi
+हानि_सान्थ्रि: KoQmi-lANmi
+हाफानि: aejmA
+हाबा: TbC TO siN siNTA
+हाब्रु: aTixp atoxp
+हामा: n_anFp_lYbAC
+हामा_आखल: Pxtb_lMcx Pxtb_sAjx
+हामा_हा: n_anFp_lYbAC
+हामै: Pxtb
+हाय: teQTAKoL awAb_poQdoCp_KoLjeL
+हायजा_बेराम: puCcxp_lAInA puCcx_IPAI kolerA
+हायजें: siQ_pAMbi siQ
+हायथें: KoQ
+हारसिं: aciCp_mPM lAQdb_mPM
+हारसिउनाय: hACTi_KNb
+हारा: sru
+हाराइ: gr_h
+हारामा: yAQleN_sru yAQleL_sru
+हारामाइ: yAri
+हारि: TAC
+हालुर: pri_Tibi mAleM tAIbz tAIbzpAN
+हालोद: PibM PiBM
+हावलदार: hwLdAr
+हासिउनाय: hACTi_KNb
+हि: Pijex PijoL PijoN Pi
+हिजरा: homo nupi_sAbi
+हिनजाव_लोगो: mmANnbi_nupi
+हिन्जाव_लोगो: mmANnbi_nupi
+हिमालय: himAloI
+हिरा: hirA mni-muCtA dAImnd_
+हुंखा_होनाय: cYqAC
+हुवा: nupA yexki_lMdAQ tMb
+हुसियार_नङि: ceCsiNdb
+हेंथा: aoNn-tYnb aoNn_tYnb niyM__cuMdb aTiQb apNb mAIyoCt_lYb KurO apNb ayexp KudoQ_Tib akAIb aTiQb aTiQb
+हेंथा_गैलायि: yeQTinb_lYtb
+हेंथा_गैलायै: yeQTinb_lYtb
+हेंथा_जालायहो: mt_tiNnhNdb
+हेफाजाब_गैयि: yAndb yAdb cuQsiNndb_wAKL cAndb
+हेफाजाब_होग्रा: sOgxp_mi teQbAQb_mi TOgxp_mi yoCKxp_mi
+हेफाजाबगिरि: sOgxp_mi teQbAQb_mi TOgxp_mi yoCKxp_mi
+हेलमेट: KAQ_tupi
+है-हाल्ला: crAQ-KoIrAQnb miniLKoN
+होथेग्रा_जि: prdA yuKL mAIKL nAKN yuKN mAIKN nAKL
+होथेनाय: Punb PuNjiNb pNb
+होदावरि-होसावरि: crAQ-KoIrAQnb miniLKoN
+होदेरनाय_नाम: atoFp_mmiQ
+होदेरनाय_मुं: atoFp_mmiQ
+होनजाब_सिन: hAIPeN hAIPeN_KudM
+होबथानाय: KurO apNb ayexp KudoQ_Tib akAIb aTiQb
+होलौ_गस्ला: gAUN
+हौवा: nupA yexki_lMdAQ tMb
+हौवा_गुन: nupA_ToCp
+हौवा_मोदाय: UmzlAI lAI KoIyuM
+हौवा_लोगो: ImANb_nupA mmANnb_nupA
+हौवायारि_गुन: nupA_ToCp
