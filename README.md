@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/cfiltnlp/IWN-WordLists?style=flat-square)](https://github.com/cfiltnlp/IWN-WordLists/issues)
 [![GitHub forks](https://img.shields.io/github/forks/cfiltnlp/IWN-WordLists?style=flat-square)](https://github.com/cfiltnlp/IWN-WordLists/network)
 [![GitHub stars](https://img.shields.io/github/stars/cfiltnlp/IWN-WordLists?style=flat-square)](https://github.com/cfiltnlp/IWN-WordLists/stargazers)
-[![GitHub license](https://img.shields.io/github/license/cfiltnlp/IWN-WordLists?style=flat-square)](https://github.com/cfiltnlp/IWN-WordLists/blob/main/LICENSE)
+
 
 We provide the unique word list form the [IndoWordnet (IWN)](https://www.cfilt.iitb.ac.in/indowordnet/) knowledge base. The word list for each language in IWN is available in a separate file where each file contains one word per line.
 
