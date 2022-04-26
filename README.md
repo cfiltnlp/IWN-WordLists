@@ -1,4 +1,4 @@
-<p align="center"><img src="cfilt-dark-logo.png" alt="logo" width="150" height="150"/></p>
+<p align="center"><img src="cfilt-dark-vec.png" alt="logo" width="150" height="150"/></p>
 
 # IndoWordNet Wordlists
 
@@ -7,6 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/cfiltnlp/IWN-WordLists?style=flat-square)](https://github.com/cfiltnlp/IWN-WordLists/stargazers)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%20--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cfiltnlp?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/cfiltnlp)
+[![Twitter Follow](https://img.shields.io/twitter/follow/PeopleCentredAI?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/PeopleCentredAI)
 
 We provide the unique word list form the [IndoWordnet (IWN)](https://www.cfilt.iitb.ac.in/indowordnet/) knowledge base. The word list for each language in IWN is available in a separate file where each file contains one word per line.
 
