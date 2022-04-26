@@ -1,6 +1,6 @@
 <p align="center"><img src="cfilt-dark-logo.png" alt="logo" width="150" height="150"/></p>
 
-# IWN Wordlists
+# IndoWordNet Wordlists
 
 [![GitHub issues](https://img.shields.io/github/issues/cfiltnlp/IWN-WordLists?style=flat-square)](https://github.com/cfiltnlp/IWN-WordLists/issues)
 [![GitHub forks](https://img.shields.io/github/forks/cfiltnlp/IWN-WordLists?style=flat-square)](https://github.com/cfiltnlp/IWN-WordLists/network)
